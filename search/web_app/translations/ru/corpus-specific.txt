@@ -1,1 +1,5 @@
-corpus_title	(ВВЕДИТЕ НАЗВАНИЕ КОРПУСА в translations/ru/corpus-specific.txt)
+corpus_title	Корпус шугнанского языка
+Shughni corpus	Корпус шугнанского языка
+Dictionary	Словарь
+About us	О проекте
+News	Новости

@@ -190,9 +190,6 @@ msgstr "Gloss:"
 msgid "Language/tier:"
 msgstr "Language/tier:"
 
-msgid "Languages / tiers:"
-msgstr "Languages / tiers:"
-
 #: templates/index/query_area.html:36
 #: templates/modals/subcorpus_selection.html:58
 msgid "langname_all"
@@ -736,60 +733,9 @@ msgstr "search"
 msgid "word_th_word stats"
 msgstr "statistics"
 
-msgid "word_th_lex_profile"
-msgstr "Lexical profile"
-
-msgid "Lexical profile"
-msgstr "Lexical profile"
-
 #: templates/search_results/sentence_header.html:20
 msgid "Full text (opens in a new tab)"
 msgstr "Full text (opens in a new tab)"
 
 msgid "Virtual keyboard"
 msgstr "Virtual keyboard"
-
-msgid "Other corpora"
-msgstr "Other corpora"
-
-msgid "Filter"
-msgstr "Filter"
-
-msgid "Send an error report"
-msgstr "Send an error report"
-
-msgid "Please enter the details below"
-msgstr "Please enter the details below"
-
-msgid "Description:"
-msgstr "Description:"
-
-msgid "Your contact details (optional):"
-msgstr "Your contact details (optional):"
-
-msgid "Report an error"
-msgstr "Report an error"
-
-msgid "Open text locally for editing (requires a local copy)"
-msgstr "Open text locally for editing (requires a local copy)"
-
-msgid "Default context size:"
-msgstr "Default context size:"
-
-msgid "no context"
-msgstr "no context"
-
-msgid "Show links to the local copy of the corpus"
-msgstr "Show links to the local copy of the corpus"
-
-msgid "ipm"
-msgstr "ipm"
-
-msgid "What is IPM?"
-msgstr "What is IPM?"
-
-msgid "IPM_explanation"
-msgstr "IPM stands for &ldquo;items per million&rdquo;, i.e., the number of words that you can expect to match your query in a corpus of one million words. This is known as <em>relative frequency</em>. Relative frequencies are usually preferable to absolute frequencies in papers because they facilitate comparison between subcorpora, different corpora, and languages. After all, ten occurrences in a thousand-word corpus is very different from ten occurrences in a billion-word corpus. IPM makes sense for one-word queries. Here, the IPM value is calculated by dividing the number of words found by the total size of the (sub)corpus you are searching in, multiplied by one million. The subcorpus is defined as all sentences that conform to your metadata criteria. If you did not select a subcorpus or fill any sentence-level metadata boxes, the relative frequency for the entire corpus is calculated."
-
-msgid "Current subcorpus size: "
-msgstr "Current (sub)corpus size: "

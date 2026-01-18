@@ -1,8 +1,10 @@
 account_type	тип аккаунта
 account_type_post	вид аккаунта (пост)
+adjusted	медиафайл
 age	возраст
 annotators	разметчики
 author	автор
+birth year	год рождения
 birth_place	место рождения
 birth_year	год рождения
 birthplace	место рождения
@@ -20,7 +22,7 @@ date_of_recording	дата записи
 date_trans	дата перевода
 dialect	диалект
 filename	имя файла
-gender	пол
+gender	гендер
 genre	жанр
 genre_fi	жанр худ. литературы
 home_town	место рождения
@@ -42,16 +44,19 @@ origin	место рождения
 orth	орфография
 orthography	орфография
 page	страница
+parallel	параллельный
 place	место
 place_of_recording	место записи
 post_type	тип поста
 profession	профессия
+public comment	комментарий
 publication	издание
 published	опубликовано
 region	регион
 sent_analyses	Разбор предложения
 sex	пол
 sex_post	пол (пост)
+source	источник
 speaker	говорящий
 speaker_ID	ID говорящего
 speaker_gender	пол говорящего
@@ -60,11 +65,14 @@ speaker_year_of_birth	год рождения говорящего
 speakers	говорящие
 sphere	сфера функционирования
 style	стиль
+subcorpus	подкорпус
 subdialect	говор
 subject	предмет
 tagging	разметка
+genre	жанр
+type	тип
 title	заголовок
-title_en	заголовок (английский)
+title_en	заголовок
 title_ru	заголовок (русский)
 topic	тема
 translator	переводчик
@@ -75,3 +83,6 @@ year_from	год: от
 year_post	год (пост)
 year_publ	год публикации
 year_to	год: до
+
+glossing	с глоссированием
+translation	с переводом

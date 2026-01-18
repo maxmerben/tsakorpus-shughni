@@ -1,17 +1,10 @@
-all	all
-undefined	undefined
-comments	comments
-positive	positive
-negative	negative
-notes	notes
-note	notes
-ref	ID
-id	ID
-
+Russian	Russian
+Shughni	Shughni
 abaza	Abaza
 acrhi	Archi
 adyghe	Adyghe
 albanian	Albanian
+all	all
 armenian	Armenian
 armenian_translit	Armenian (translit.)
 bangime	Bangime
@@ -23,6 +16,7 @@ buryat	Buryat
 chinese	Chinese
 chuvash	Chuvash
 chuvash_cyr	Chuvash (cyrillic)
+comments	comments
 dargwa	Dargwa
 dogon	Dogon
 english	English
@@ -38,6 +32,7 @@ greek	Greek
 guro	Guro
 hill_mari	Hill Mari
 hungarian	Hungarian
+id	ID
 italian	Italian
 joola	Jо́ola (Eegimaa)
 kafire	Kafire
@@ -57,16 +52,22 @@ meadow_mari	Meadow Mari
 moksha	Moksha
 mundabli	Mundabli
 mwan	Mwan
+negative	negative
 nganasan	Nganasan
+note	notes
+notes	notes
 ossetic	Ossetic
 ossetic_digor	Digor Ossetic
 ossetic_iron	Iron Ossetic
 polish	Polish
+positive	positive
+ref	ID
 romani	Romani
 russian	Russian
 san	San
 selkup	Selkup
 senufo	Senufo
+shughni	Shughni
 spanish	Spanish
 swedish	Swedish
 tatar	Tatar
@@ -75,7 +76,9 @@ tsakonian	Tsakonian
 udihe	Udihe
 udmurt	Udmurt
 ukrainian	Ukrainian
+undefined	undefined
 ut-main	u̠t-Ma'in
 wan	Wan
 yakut	Yakut
 yiddish	Yiddish
+

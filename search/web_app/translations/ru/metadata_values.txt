@@ -26,7 +26,8 @@ science	научные
 song	песня
 spontaneous	спонтанные
 story	рассказ
-unique	однозначно
 translated	перевод
+unique	однозначно
 wikipedia	Википедия
 written	письменные
+

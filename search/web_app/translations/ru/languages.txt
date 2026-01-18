@@ -1,17 +1,10 @@
-all	все
-undefined	неопределённый
-comments	комментарии
-positive	положительные
-negative	отрицательные
-notes	комментарии
-note	комментарии
-ref	ID
-id	ID
-
+Russian	Russian
+Shughni	Shughni
 abaza	абазинский
 acrhi	арчинский
 adyghe	адыгейский
 albanian	албанский
+all	все
 armenian	армянский
 armenian_translit	армянский (транслит.)
 bangime	бангери
@@ -23,6 +16,7 @@ buryat	бурятский
 chinese	китайский
 chuvash	чувашский
 chuvash_cyr	чувашский (кириллица)
+comments	комментарии
 dargwa	даргинский
 dogon	догон
 english	английский
@@ -38,6 +32,7 @@ greek	греческий
 guro	гуро
 hill_mari	горномарийский
 hungarian	венгерский
+id	ID
 italian	итальянский
 joola	бандиал
 kafire	кафире
@@ -51,22 +46,28 @@ komi_zyrian	коми-зырянский
 latvian	латышский
 limba	лимба
 lithuanian	литовский
-meadow_mari	луговой марийский
 macedonian	македонский
 macedonian_cyr	македонский (кириллица)
+meadow_mari	луговой марийский
 moksha	мокшанский
 mundabli	мундабли
 mwan	муан
+negative	отрицательные
 nganasan	нганасанский
+note	комментарии
+notes	комментарии
 ossetic	осетинский
 ossetic_digor	дигорский
 ossetic_iron	иронский
 polish	польский
+positive	положительные
+ref	ID
 romani	цыганский
 russian	русский
 san	сан
 selkup	селькупский
 senufo	сенуфо
+shughni	шугнанский
 spanish	испанский
 swedish	шведский
 tatar	татарский
@@ -75,7 +76,9 @@ tsakonian	цаконский
 udihe	улэгейский
 udmurt	удмуртский
 ukrainian	украинский
+undefined	неопределённый
 ut-main	ут-маин
 wan	уан
 yakut	якутский
 yiddish	идиш
+

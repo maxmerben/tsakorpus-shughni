@@ -1,0 +1,164 @@
+1PL (-ām)	суффикс 1 лица мн.ч.
+1PL (=ām)	клитика 1 лица мн.ч.
+1SG (-um)	суффикс 1 лица ед.ч.
+1SG (=um)	клитика 1 лица ед.ч.
+2PL (-et)	суффикс 2 лица мн.ч.
+2PL (=et)	клитика 2 лица мн.ч.
+2SG (-i)	суффикс 2 лица ед.ч.
+2SG (=at)	клитика 2 лица ед.ч.
+3PL (-en)	суффикс 3 лица мн.ч.
+3PL (=en)	клитика 3 лица мн.ч.
+3SG (-t/-d)	суффикс 3 лица ед.ч.
+3SG (=i)	клитика 3 лица ед.ч.
+Adjectival Participle	Результативное причастие (-<i>īn</i>)
+Agentive participle	Агентивное причастие (-<i>īǰ</i>)
+Agreement clitics	Согласовательные клитики
+Agreement suffixes	Согласовательные суффиксы
+Conjunctions	Союзы
+D1.F.SG.O	1 серия, ед.ч. ж.р., косв. (<i>mam</i>)
+D1.LOC	1 серия, локатив
+D1.M.SG.O	1 серия, ед.ч. м.р., косв. (<i>mi</i>)
+D1.PL	1 серия, мн.ч., прям. (<i>māδ</i>)
+D1.PL.O	1 серия, мн.ч., косв. (<i>mev</i>)
+D1.SG	1 серия, ед.ч., прям. (<i>yam</i>)
+D2.F.SG.O	2 серия, ед.ч. ж.р., косв. (<i>dam</i>)
+D2.LOC	2 серия, локатив
+D2.M.SG.O	2 серия, ед.ч. м.р., косв. (<i>di</i>)
+D2.PL	2 серия, мн.ч., прям. (<i>dāδ</i>)
+D2.PL.O	2 серия, мн.ч., косв. (<i>dev</i>)
+D2.SG	2 серия, ед.ч., прям. (<i>yid</i>)
+D3.F.SG	3 серия, ед.ч. ж.р., прям. (<i>yā</i>)
+D3.F.SG.O	3 серия, ед.ч. ж.р., косв. (<i>wam</i>)
+D3.LOC	3 серия, локатив
+D3.M.SG	3 серия, ед.ч. м.р., прям. (<i>yu</i>)
+D3.M.SG.O	3 серия, ед.ч. м.р., косв. (<i>wi</i>)
+D3.PL	3 серия, мн.ч., прям. (<i>wāδ</i>)
+D3.PL.O	3 серия, мн.ч., косв. (<i>wev</i>)
+Demonstratives	Демонстративы
+English	английский
+Imperative	Императив
+Locative demonstratives	Локативные демонстративы
+Long Infinitive (Purposive)	Полный Инфинитив(-<i>ow</i>)
+Nominal affixes	Именные аффиксы
+Nominalizations	Номинализации
+Other particles	Другие частицы
+Other pronominals	Другие местоимения
+PRON.1PL	‘мы’ (<i>māš</i>)
+PRON.1SG	‘я’, прям. (<i>wuz</i>)
+PRON.1SG.O	‘я’, косв. (<i>mu</i>)
+PRON.2PL	‘вы’ (<i>tama</i>)
+PRON.2SG	‘ты’ (<i>tu</i>)
+Parts of speech	Части речи
+Perfect	Перфект
+Personal pronouns	Личные местоимения (1/2 лицо)
+Pluperfect	Плюсквамперфект
+Postpositions	Послелоги
+Prepositions	Предлоги
+Present	Презенс
+Preterite	Претерит
+Russian	русский
+Short Infinitive	Краткий Инфинитив
+Tajik	таджикский
+Tense	Показатели времени
+Verbal Participle	«Пассивное» причастие (-<i>ak</i>)
+Verbal affixes	Глагольные аффиксы
+abstract nominal	абстрактное имя (-<i>i</i>)
+additive (ga)	аддитив (-<i>ga</i>)
+additive (mis)	additive (<i>mis</i>)
+address	частица-обращение (<i>aro</i>)
+adjectivizer	адъективизатор (-<i>i</i>)
+adverbializer	адвербиализатор (-<i>aθ</i>)
+agreement clitic	согласовательная клитика
+all	‘всё, весь’ (<i>fuk</i>)
+allative	аллатив ‘до’ (<i>ba</i>)
+apudessive	апудэссив ‘около’ (<i>xez</i>)
+at_all	‘совсем’ (<i>ač</i>)
+caritive	каритив ‘без’ (<i>be</i>)
+cause	причина (<i>aven</i> / <i>ǰāt</i>)
+comitative	комитатив ‘с’ (<i>qati</i>)
+comparative	сравнительная степень(-<i>di</i>)
+complementizing conjunction (idi)	подчинительный союз (<i>idi</i>)
+conjunction	союз
+conjunction ‘or’	союз ‘или’ (<i>yo</i>)
+contact locative (mi-)	контакный локатив (<i>mi</i>-)
+contact locative (či-)	контактный локатив (<i>či</i>-)
+coordinating conjunction (at)	сочинительный союз (<i>at</i>)
+coordinating conjunction (atā)	сочинительный союз (<i>atā</i>)
+coordinating conjunction (u)	сочинительный союз (<i>u</i>)
+coordinating conjunction (xu)	сочинительный союз (<i>xu</i>)
+coordinating conjunction (ām)	сочинительный союз (<i>ām</i>)
+dative	датив (<i>ard</i>)
+demonstrative	демонстратив
+demonstrative locative	локативный демонстратив
+diminutive	диминутив
+directive	направление (<i>aǰ</i>)
+elative	элатив (<i>az</i>)
+emphasis	эмфаза (<i>ik</i>-)
+emphatic reflexive	эмфатический рефлексив (<i>xubaθ</i>)
+every	‘каждый’ (<i>ar</i>)
+ezafe	изафет
+future	будущее / хабитуалис (-<i>ta</i>)
+goal	цель (<i>pis</i>)
+habitive (‘having X’)	хабитив, ‘имеющий X’ (-<i>dor</i>)
+hesitation	маркер хезитации
+hesitation marker	маркер хезитации
+how	‘как’ (<i>carāng</i>)
+how_much	‘сколько’ (<i>cůnd</i>)
+inchoative	инхоатив (<i>dar</i> / <i>daraw</i>)
+indefinite	неопределённый артикль (<i>yi</i>)
+instrumental	инструменталис (<i>par</i>)
+intensifier	интенсификатор (-<i>aθ</i>)
+irrealis negation	ирреальное отрицание (<i>mā</i>-)
+kind, sort	вид (<i>xel</i>)
+lative ‘down’	латив ‘ниже’ (<i>ar</i>)
+lative ‘same level’	латив ‘на том же уровне’ (<i>tar</i>)
+lative ‘up’	латив ‘выше’ (<i>pi</i>)
+limitative (ec)	лимитатив (<i>ec</i>)
+limitative (to)	лимитатив (<i>to</i>)
+locative / possessive	локатив (<i>and</i>)
+negative question	отриц. вопр. частица (<i>nā</i>)
+nominal	имя
+nominal affix	именной аффикс
+nominal negation	именное отрицание (<i>no</i>-)
+nominal plural	именное мн.ч. (-<i>en</i>)
+nominalization	номинализация
+none	‘никакой’ (<i>ič</i>)
+ordinal numeral	порядковое числительное (-<i>um</i>)
+particle	частица
+personal pronoun	личное местоимение
+person’s origin	происхождение человека (-<i>či</i>)
+place	место (-<i>zor</i>)
+possessive locative	посессивный локатив ‘у X-а’ (<i>ǰā</i>)
+postposition	послелог
+preposition	предлог
+preverb	преверб
+prolative	пролатив ‘вдоль’ (<i>va</i>)
+pronoun	местоимение
+proper noun	имя собственное
+prospective	проспектив (<i>či</i>- / <i>taš</i>)
+question	вопр. частица (-<i>o</i>)
+quotative	квотатив (<i>nala</i>)
+realis negation	реалисное отрицание (<i>na</i>-)
+reciprocal	‘друг друга’ (<i>amdigar</i> / <i>yakdigar</i>)
+similative	симилятив (<i>rāng</i>)
+subessive	субэссив ‘под’ (<i>bīr</i>)
+subordinating conjunction (ca)	подчинительный союз (<i>ca</i>)
+subordinating conjunction (di)	подчинительный союз (<i>di</i>)
+subordinating conjunction (to)	подчинительный союз (<i>to</i>)
+such	‘такой, так’ (<i>dis</i> / <i>disga</i>)
+superessive	суперэссив ‘на’ (<i>ti</i> / <i>tīr</i>)
+tense	время
+thing / what	‘вещь’ / ‘что’ (<i>čīz</i>)
+this_much	‘столько’ (<i>důnd</i>)
+time (atā)	время (<i>atā</i>)
+time (ǰev)	время (<i>ǰev</i>)
+verb	глагол
+verbal affix	глагольный суффикс
+verbal agreement suffix	согласовательный суффикс
+vocative	междометие-обращение
+where	‘где, куда’ (<i>kā</i>)
+who	 ‘кто’, прям. (<i>čāy</i>)
+who.O	‘кто’, косв. (<i>či</i>)
+why	‘почему’ (<i>čīr</i> / <i>čīzard</i>)
+
+	

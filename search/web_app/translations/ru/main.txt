@@ -1,6 +1,38 @@
-#: templates/index.html:4
-msgid "Corpus search page"
-msgstr "Поиск в корпусе"
+#: templates/header.html:18
+msgid "Shughni corpus"
+msgstr "Корпус шугнанского языка"
+
+#: templates/header.html:32
+msgid "Dictionary"
+msgstr "Словарь"
+
+#: templates/header.html:38
+msgid "News"
+msgstr "Новости"
+
+#: templates/header.html:41
+msgid "Shughni resources"
+msgstr "Шугнанские ресурсы"
+
+#: templates/header.html:43
+msgid "Orthography converter"
+msgstr "Конвертер орфографии"
+
+#: templates/header.html:44
+msgid "Corpus"
+msgstr "Корпус шугнанского языка"
+
+#: templates/header.html:45
+msgid "Morphological analyser"
+msgstr "Морфологический анализатор"
+
+#: templates/index.html:35
+msgid "About us"
+msgstr "О проекте"
+
+#: templates/index.html:35
+msgid "About us"
+msgstr "О проекте"
 
 #: templates/index.html:19 templates/index/query_area.html:54
 msgid "more_fields"
@@ -32,7 +64,7 @@ msgstr "до "
 
 #: templates/index.html:26
 msgid "Select combinations of tags"
-msgstr "Выбор тэгов"
+msgstr "Выбор грамматических тэгов"
 
 #: templates/index.html:27
 msgid "Select glosses"
@@ -174,8 +206,8 @@ msgid "Word:"
 msgstr "Слово:"
 
 #: templates/index/query_area.html:21
-msgid "Lemma:"
-msgstr "Лемма:"
+msgid "Morpheme:"
+msgstr "Морфема:"
 
 #: templates/index/query_area.html:22
 msgid "Grammar:"
@@ -189,9 +221,6 @@ msgstr "Глоссы:"
 #: templates/modals/subcorpus_selection.html:56
 msgid "Language/tier:"
 msgstr "Язык/слой:"
-
-msgid "Languages / tiers:"
-msgstr "Языки / слои:"
 
 #: templates/index/query_area.html:36
 #: templates/modals/subcorpus_selection.html:58
@@ -745,60 +774,9 @@ msgstr "искать"
 msgid "word_th_word stats"
 msgstr "статистика"
 
-msgid "word_th_lex_profile"
-msgstr "профиль лексемы"
-
-msgid "Lexical profile"
-msgstr "Профиль лексемы"
-
 #: templates/search_results/sentence_header.html:20
 msgid "Full text (opens in a new tab)"
 msgstr "Полный текст (откроется в новой вкладке)"
 
 msgid "Virtual keyboard"
 msgstr "Виртуальная клавиатура"
-
-msgid "Other corpora"
-msgstr "Другие корпуса"
-
-msgid "Filter"
-msgstr "Фильтр"
-
-msgid "Send an error report"
-msgstr "Сообщение об ошибке"
-
-msgid "Please enter the details below"
-msgstr "Пожалуйста, опишите найденную ошибку."
-
-msgid "Description:"
-msgstr "Описание:"
-
-msgid "Your contact details (optional):"
-msgstr "Ваши контактные данные (по желанию):"
-
-msgid "Report an error"
-msgstr "Сообщить об ошибке"
-
-msgid "Open text locally for editing (requires a local copy)"
-msgstr "Открыть текст для редактирования (корпус должен быть загружен)"
-
-msgid "Default context size:"
-msgstr "Размер контекста по умолчанию:"
-
-msgid "no context"
-msgstr "без контекста"
-
-msgid "Show links to the local copy of the corpus"
-msgstr "Показывать ссылки на локальные файлы корпуса"
-
-msgid "ipm"
-msgstr "ipm"
-
-msgid "What is IPM?"
-msgstr "Что такое IPM?"
-
-msgid "IPM_explanation"
-msgstr "IPM (items per million) означает число вхождений на миллион, т. е. ожидаемое количество соответствующих запросу слов в корпусе, содержащем один миллион словоупотреблений. Эта величина называется «относительной частотностью». В статьях предпочтительно указывать именно относительную, а не абсолютную частотность, поскольку она облегчает сравнение подкорпусов, разных корпусов и языков. Например, десять вхождений в корпусе из тысячи слов — это совсем не то же самое, что десять вхождений в миллиардном корпусе. IPM имеет смысл для запросов, состоящих из одного слова. Здесь IPM рассчитывается путём деления количества найденных слов на общий размер (под)корпуса, в котором производится поиск. Подкорпус здесь определяется как все предложения, соответствующие вашим ограничениям по метаданным. Если Вы не выбрали подкорпус и не заполняли поля метаданных на уровне предложения, то IPM рассчитывается для всего корпуса."
-
-msgid "Current subcorpus size: "
-msgstr "Размер (под)корпуса: "

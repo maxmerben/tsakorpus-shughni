@@ -1,8 +1,10 @@
 account_type	Account type
 account_type_post	Account type (post-level)
+adjusted	media-aligned
 age	Age
 annotators	Annotators
-author	Author
+author	author
+birth year	birth year
 birth_place	Place of birth
 birth_year	Year of birth
 birthplace	Place of birth
@@ -18,10 +20,9 @@ collector	Collector
 country	Country
 date_of_recording	Date of recording
 date_trans	Date of translation
-dialect	Dialect
+dialect	dialect
 filename	File name
-gender	Gender
-genre	Genre
+gender	gender
 genre_fi	Genre of fiction
 home_town	Home town
 home_town_post	Birth place (post-level)
@@ -42,16 +43,19 @@ origin	Place of origin
 orth	Orthography
 orthography	Orthography
 page	Page
+parallel	parallel
 place	Place
 place_of_recording	Place of recording
 post_type	Post type
 profession	Profession
+public comment	comment
 publication	Publication
 published	Published
 region	Region
 sent_analyses	Sentence analyzed
 sex	Sex
 sex_post	Sex (post-level)
+source	source
 speaker	Speaker
 speaker_ID	Speaker ID
 speaker_gender	Gender of the speaker
@@ -60,18 +64,23 @@ speaker_year_of_birth	Birth year of the speaker
 speakers	Speakers
 sphere	Sphere
 style	Style
+subcorpus	subcorpus
 subdialect	Subdialect
 subject	Subject
 tagging	Tagging
-title	Title
-title_en	Title in English
-title_ru	Title in Russian
+genre	genre
+type	type
+title	title
+title_en	title
+title_ru	title in Russian
 topic	Topic
 translator	Translator
-type	Type
-year	Year
-year_birth	Year of birth
-year_from	Year: from
+year	year
+year_birth	year of birth
+year_from	year: from
 year_post	Year (post-level)
 year_publ	Publication year
-year_to	Year: to
+year_to	year: to
+
+glossing	glossing
+translation	translation

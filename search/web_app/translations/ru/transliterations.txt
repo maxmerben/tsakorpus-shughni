@@ -5,3 +5,4 @@ cyrillic	кириллица
 dictionary	словарная
 latin	латиница
 original	исходная
+

@@ -1,3 +1,4 @@
 normal	обычный
-strict	точный
 simplified	упрощённый
+strict	точный
+

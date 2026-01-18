@@ -1,0 +1,168 @@
+1PL (-ām)	1PL suffix (-ām)
+1PL (=ām)	1PL clitic (=ām)
+1SG (-um)	1SG suffix (-um)
+1SG (=um)	1SG clitic (=um)
+2PL (-et)	2PL suffix (-et)
+2PL (=et)	2PL clitic (=et)
+2SG (-i)	2SG suffix (-i)
+2SG (=at)	2SG clitic (=at)
+3PL (-en)	3PL suffix (-en)
+3PL (=en)	3PL clitic (=en)
+3SG (-t/-d)	3SG suffix (-t/-d)
+3SG (=i)	3SG clitic (=i)
+Adjectival Participle	Adjectival Participle
+Agentive participle	Agentive participle
+Agreement clitics	Agreement clitics
+Agreement suffixes	Agreement suffixes
+Conjunctions	Conjunctions
+D1.F.SG.O	D1.F.SG.O
+D1.LOC	D1.LOC
+D1.M.SG.O	D1.M.SG.O
+D1.PL	D1.PL
+D1.PL.O	D1.PL.O
+D1.SG	D1.SG
+D2.F.SG.O	D2.F.SG.O
+D2.LOC	D2.LOC
+D2.M.SG.O	D2.M.SG.O
+D2.PL	D2.PL
+D2.PL.O	D2.PL.O
+D2.SG	D2.SG
+D3.F.SG	D3.F.SG
+D3.F.SG.O	D3.F.SG.O
+D3.LOC	D3.LOC
+D3.M.SG	D3.M.SG
+D3.M.SG.O	D3.M.SG.O
+D3.PL	D3.PL
+D3.PL.O	D3.PL.O
+Demonstratives	Demonstratives
+English	English
+Imperative	Imperative
+Irrealis negation	Irrealis negation
+Locative demonstratives	Locative demonstratives
+Long Infinitive (Purposive)	Long Infinitive (Purposive)
+Nominal affixes	Nominal affixes
+Nominal suffixes	Nominal suffixes
+Nominalizations	Nominalizations
+Other particles	Other particles
+Other pronominals	Other pronominals
+PRON.1PL	PRON.1PL
+PRON.1SG	PRON.1SG
+PRON.1SG.O	PRON.1SG.O
+PRON.2PL	PRON.2PL
+PRON.2SG	PRON.2SG
+Parts of speech	Parts of speech
+Perfect	Perfect
+Personal pronouns	Personal pronouns
+Pluperfect	Pluperfect
+Postpositions	Postpositions
+Prepositions	Prepositions
+Present	Present
+Preterite	Preterite
+Prospective	Prospective
+Realis negation	Realis negation
+Russian	Russian
+Short Infinitive	Short Infinitive
+Tajik	Tajik
+Tense	Tense
+Verbal Participle	Verbal Participle
+Verbal affixes	Verbal affixes
+abstract nominal	abstract nominal
+additive (ga)	additive (ga)
+additive (mis)	additive (mis)
+address	address
+adjectivizer	adjectivizer
+adverbializer	adverbializer
+agreement clitic	agreement clitic
+all	all
+allative	allative
+apudessive	apudessive
+at_all	at_all
+caritive	caritive
+cause	cause
+comitative	comitative
+comparative	comparative
+complementizing conjunction (idi)	complementizing conjunction (idi)
+conjunction	conjunction
+conjunction ‘or’	conjunction ‘or’
+contact locative (mi-)	contact locative (mi-)
+contact locative (či-)	contact locative (či-)
+coordinating conjunction (at)	coordinating conjunction (at)
+coordinating conjunction (atā)	coordinating conjunction (atā)
+coordinating conjunction (u)	coordinating conjunction (u)
+coordinating conjunction (xu)	coordinating conjunction (xu)
+coordinating conjunction (ām)	coordinating conjunction (ām)
+dative	dative
+demonstrative	demonstrative
+demonstrative locative	demonstrative locative
+diminutive	diminutive
+directive	directive
+elative	elative
+emphasis	emphasis
+emphatic reflexive	emphatic reflexive
+every	every
+ezafe	ezafe
+future	future
+goal	goal
+habitive (‘having X’)	habitive (‘having X’)
+hesitation	hesitation
+hesitation marker	hesitation marker
+how_much	how_much
+inchoative	inchoative
+indefinite	indefinite
+instrumental	instrumental
+intensifier	intensifier
+irrealis negation	irrealis negation
+kind, sort	kind, sort
+lative ‘down’	lative ‘down’
+lative ‘same level’	lative ‘same level’
+lative ‘up’	lative ‘up’
+limitative (ec)	limitative (ec)
+limitative (to)	limitative (to)
+locative / possessive	locative / possessive
+negative question	negative question
+nominal	nominal
+nominal affix	nominal affix
+nominal negation	nominal negation
+nominal plural	nominal plural
+nominalization	nominalization
+none	none
+ordinal numeral	ordinal numeral
+particle	particle
+personal pronoun	personal pronoun
+person’s origin	person’s origin
+place	place
+possessive locative	possessive locative
+postposition	postposition
+preposition	preposition
+preverb	preverb
+prolative	prolative
+pronoun	pronoun
+proper noun	proper noun
+prospective	prospective
+question	question
+quotative	quotative
+realis negation	realis negation
+reciprocal	reciprocal
+similative	similative
+subessive	subessive
+subordinating conjunction (ca)	subordinating conjunction (ca)
+subordinating conjunction (di)	subordinating conjunction (di)
+subordinating conjunction (to)	subordinating conjunction (to)
+such	such
+superessive	superessive
+tense	tense
+thing / what	thing / what
+this_much	this_much
+time	time
+time (atā)	time (atā)
+time (ǰev)	time (ǰev)
+verb	verb
+verbal affix	verbal affix
+verbal agreement suffix	verbal agreement suffix
+vocative	vocative
+where	where
+who	who
+who.O	who.O
+why	why
+
+	
