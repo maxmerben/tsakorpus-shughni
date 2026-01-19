@@ -1,0 +1,4025 @@
+{
+    "meta": {
+        "glossing": "yes",
+        "translation": "yes",
+        "media type": "—",
+        "type": "oral (written down)",
+        "genre": "story",
+        "subcorpus": "Stories (Alamshoev 1994)",
+        "duration": "—",
+        "year": 1987,
+        "dialect": "Миденшарв (Вахдат, долина Шахдары)",
+        "author": "Мирзовафоев Зафар, 90 лет",
+        "gender": "M",
+        "birth year": "1897",
+        "source": "Аламшоев, М. (1994). Система местоимений шугнанского языка (в сравнении с другими языками шугнано-рушанской группы памирских языков). Душанбе: Помир.",
+        "speakers": [
+            "A"
+        ],
+        "filename": "sgh_alamshoev_story_Voydak.json",
+        "title": "Voydak",
+        "adjusted": "no"
+    },
+    "sentences": [
+        {
+            "text": "yu mūm māš-and vic.",
+            "words": [
+                {
+                    "wf": "yu",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 2,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 4,
+                    "ana": [
+                        {
+                            "gr.pos": [
+                                "DEM"
+                            ],
+                            "parts": "yu",
+                            "gloss": "D3.M.SG",
+                            "lex": "yu",
+                            "gloss_index": "D3.M.SG{yu}-"
+                        }
+                    ]
+                },
+                {
+                    "wf": "mūm",
+                    "wtype": "word",
+                    "off_start": 3,
+                    "off_end": 6,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 3,
+                    "ana": [
+                        {
+                            "gr.pos": [
+                                "N"
+                            ],
+                            "parts": "mūm",
+                            "gloss": "grandmother",
+                            "lex": "mūm",
+                            "gloss_index": "grandmother{mūm}-"
+                        }
+                    ]
+                },
+                {
+                    "wf": "māš-and",
+                    "wtype": "word",
+                    "off_start": 7,
+                    "off_end": 14,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 2,
+                    "ana": [
+                        {
+                            "gr.pos": [
+                                "PERS",
+                                "POST"
+                            ],
+                            "parts": "māš=and",
+                            "gloss": "PRON.1PL=LOC",
+                            "lex": "māš",
+                            "gloss_index": "PRON.1PL{māš}-LOC{=and}-"
+                        }
+                    ]
+                },
+                {
+                    "wf": "vic.",
+                    "wtype": "word",
+                    "off_start": 15,
+                    "off_end": 19,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 1,
+                    "ana": [
+                        {
+                            "gr.pos": [
+                                "V",
+                                "T"
+                            ],
+                            "parts": "vi-c",
+                            "gloss": "be-PF.F/PL",
+                            "lex": "vi",
+                            "gloss_index": "be{vi}-PF.F/PL{-c}-"
+                        }
+                    ]
+                }
+            ],
+            "lang": 0,
+            "meta": {
+                "speaker": "A"
+            },
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 19,
+                    "para_id": 1
+                }
+            ]
+        },
+        {
+            "text": "wam nům vuδǰ Safarxotūn.",
+            "words": [
+                {
+                    "wf": "wam",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 3,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 4,
+                    "ana": [
+                        {
+                            "gr.pos": [
+                                "DEM"
+                            ],
+                            "parts": "wam",
+                            "gloss": "D3.F.SG.O",
+                            "lex": "wam",
+                            "gloss_index": "D3.F.SG.O{wam}-"
+                        }
+                    ]
+                },
+                {
+                    "wf": "nům",
+                    "wtype": "word",
+                    "off_start": 4,
+                    "off_end": 7,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 3,
+                    "ana": [
+                        {
+                            "gr.pos": [
+                                "N"
+                            ],
+                            "parts": "nům",
+                            "gloss": "name",
+                            "lex": "nům",
+                            "gloss_index": "name{nům}-"
+                        }
+                    ]
+                },
+                {
+                    "wf": "vuδǰ",
+                    "wtype": "word",
+                    "off_start": 8,
+                    "off_end": 13,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 2,
+                    "ana": [
+                        {
+                            "gr.pos": [
+                                "V",
+                                "T"
+                            ],
+                            "parts": "vuδ-ǰ",
+                            "gloss": "be-PF.M.SG",
+                            "lex": "vuδ",
+                            "gloss_index": "be{vuδ}-PF.M.SG{-ǰ}-"
+                        }
+                    ]
+                },
+                {
+                    "wf": "Safarxotūn.",
+                    "wtype": "word",
+                    "off_start": 14,
+                    "off_end": 25,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 1,
+                    "ana": [
+                        {
+                            "gr.pos": [],
+                            "parts": "Safarxotūn",
+                            "gloss": "Safarkhotun",
+                            "lex": "Safarxotūn",
+                            "gloss_index": "Safarkhotun{Safarxotūn}-"
+                        }
+                    ]
+                }
+            ],
+            "lang": 0,
+            "meta": {
+                "speaker": "A"
+            },
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 25,
+                    "para_id": 2
+                }
+            ]
+        },
+        {
+            "text": "yā sāraki deδd tar zidůn.",
+            "words": [
+                {
+                    "wf": "yā",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 2,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 5,
+                    "ana": [
+                        {
+                            "gr.pos": [
+                                "DEM"
+                            ],
+                            "parts": "yā",
+                            "gloss": "D3.F.SG",
+                            "lex": "yā",
+                            "gloss_index": "D3.F.SG{yā}-"
+                        }
+                    ]
+                },
+                {
+                    "wf": "sāraki",
+                    "wtype": "word",
+                    "off_start": 3,
+                    "off_end": 9,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 4,
+                    "ana": [
+                        {
+                            "gr.pos": [
+                                "N"
+                            ],
+                            "parts": "sāraki",
+                            "gloss": "morning",
+                            "lex": "sāraki",
+                            "gloss_index": "morning{sāraki}-"
+                        }
+                    ]
+                },
+                {
+                    "wf": "deδd",
+                    "wtype": "word",
+                    "off_start": 10,
+                    "off_end": 14,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 3,
+                    "ana": [
+                        {
+                            "gr.pos": [
+                                "V",
+                                "V.AGR"
+                            ],
+                            "parts": "deδ-d",
+                            "gloss": "enter-PRS.3SG",
+                            "lex": "deδ",
+                            "gloss_index": "enter{deδ}-PRS.3SG{-d}-"
+                        }
+                    ]
+                },
+                {
+                    "wf": "tar",
+                    "wtype": "word",
+                    "off_start": 15,
+                    "off_end": 18,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 2,
+                    "ana": [
+                        {
+                            "gr.pos": [
+                                "PREP"
+                            ],
+                            "parts": "tar",
+                            "gloss": "EQ",
+                            "lex": "tar",
+                            "gloss_index": "EQ{tar}-"
+                        }
+                    ]
+                },
+                {
+                    "wf": "zidůn.",
+                    "wtype": "word",
+                    "off_start": 19,
+                    "off_end": 25,
+                    "next_word": 5,
+                    "sentence_index": 4,
+                    "sentence_index_neg": 1,
+                    "ana": [
+                        {
+                            "gr.pos": [],
+                            "parts": "zidůn",
+                            "gloss": "storeroom",
+                            "lex": "zidůn",
+                            "gloss_index": "storeroom{zidůn}-"
+                        }
+                    ]
+                }
+            ],
+            "lang": 0,
+            "meta": {
+                "speaker": "A"
+            },
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 25,
+                    "para_id": 3
+                }
+            ]
+        },
+        {
+            "text": "voydak deδǰ taram xu buci čūɣ̌ǰ.",
+            "words": [
+                {
+                    "wf": "voydak",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 6,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 6,
+                    "ana": [
+                        {
+                            "gr.pos": [],
+                            "parts": "voydak",
+                            "gloss": "voydak",
+                            "lex": "voydak",
+                            "gloss_index": "voydak{voydak}-"
+                        }
+                    ]
+                },
+                {
+                    "wf": "deδǰ",
+                    "wtype": "word",
+                    "off_start": 7,
+                    "off_end": 12,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 5,
+                    "ana": [
+                        {
+                            "gr.pos": [
+                                "V",
+                                "T"
+                            ],
+                            "parts": "deδ-ǰ",
+                            "gloss": "enter-PF",
+                            "lex": "deδ",
+                            "gloss_index": "enter{deδ}-PF{-ǰ}-"
+                        }
+                    ]
+                },
+                {
+                    "wf": "taram",
+                    "wtype": "word",
+                    "off_start": 13,
+                    "off_end": 18,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 4,
+                    "ana": [
+                        {
+                            "gr.pos": [
+                                "PREP",
+                                "DEM.LOC"
+                            ],
+                            "parts": "tar-am",
+                            "gloss": "EQ-D3.LOC",
+                            "lex": "am",
+                            "gloss_index": "EQ{tar-}-D3.LOC{am}-"
+                        }
+                    ]
+                },
+                {
+                    "wf": "xu",
+                    "wtype": "word",
+                    "off_start": 19,
+                    "off_end": 21,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 3,
+                    "ana": [
+                        {
+                            "gr.pos": [
+                                "CONJ"
+                            ],
+                            "parts": "xu",
+                            "gloss": "COORD1",
+                            "lex": "xu",
+                            "gloss_index": "COORD1{xu}-"
+                        }
+                    ]
+                },
+                {
+                    "wf": "buci",
+                    "wtype": "word",
+                    "off_start": 22,
+                    "off_end": 26,
+                    "next_word": 5,
+                    "sentence_index": 4,
+                    "sentence_index_neg": 2,
+                    "ana": [
+                        {
+                            "gr.pos": [
+                                "N",
+                                "CL.AGR"
+                            ],
+                            "parts": "buc=i",
+                            "gloss": "child.M=3SG",
+                            "lex": "buc",
+                            "gloss_index": "child.M{buc}-3SG{=i}-"
+                        }
+                    ]
+                },
+                {
+                    "wf": "čūɣ̌ǰ.",
+                    "wtype": "word",
+                    "off_start": 27,
+                    "off_end": 34,
+                    "next_word": 6,
+                    "sentence_index": 5,
+                    "sentence_index_neg": 1,
+                    "ana": [
+                        {
+                            "gr.pos": [
+                                "V",
+                                "T"
+                            ],
+                            "parts": "čūɣ̌-ǰ",
+                            "gloss": "do-PF",
+                            "lex": "čūɣ̌",
+                            "gloss_index": "do{čūɣ̌}-PF{-ǰ}-"
+                        }
+                    ]
+                }
+            ],
+            "lang": 0,
+            "meta": {
+                "speaker": "A"
+            },
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 34,
+                    "para_id": 4
+                }
+            ]
+        },
+        {
+            "text": "bād yā voydak wam mu mūm-ard lůvd idi, ba nůmi xuδoy yak bor ser mu kin.",
+            "words": [
+                {
+                    "wf": "bād",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 3,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 16,
+                    "ana": [
+                        {
+                            "gr.pos": [
+                                "PRT"
+                            ],
+                            "parts": "bād",
+                            "gloss": "then",
+                            "lex": "bād",
+                            "gloss_index": "then{bād}-"
+                        }
+                    ]
+                },
+                {
+                    "wf": "yā",
+                    "wtype": "word",
+                    "off_start": 4,
+                    "off_end": 6,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 15,
+                    "ana": [
+                        {
+                            "gr.pos": [
+                                "DEM"
+                            ],
+                            "parts": "yā",
+                            "gloss": "D3.F.SG",
+                            "lex": "yā",
+                            "gloss_index": "D3.F.SG{yā}-"
+                        }
+                    ]
+                },
+                {
+                    "wf": "voydak",
+                    "wtype": "word",
+                    "off_start": 7,
+                    "off_end": 13,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 14,
+                    "ana": [
+                        {
+                            "gr.pos": [],
+                            "parts": "voydak",
+                            "gloss": "voydak",
+                            "lex": "voydak",
+                            "gloss_index": "voydak{voydak}-"
+                        }
+                    ]
+                },
+                {
+                    "wf": "wam",
+                    "wtype": "word",
+                    "off_start": 14,
+                    "off_end": 17,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 13,
+                    "ana": [
+                        {
+                            "gr.pos": [
+                                "DEM"
+                            ],
+                            "parts": "wam",
+                            "gloss": "D3.F.SG.O",
+                            "lex": "wam",
+                            "gloss_index": "D3.F.SG.O{wam}-"
+                        }
+                    ]
+                },
+                {
+                    "wf": "mu",
+                    "wtype": "word",
+                    "off_start": 18,
+                    "off_end": 20,
+                    "next_word": 5,
+                    "sentence_index": 4,
+                    "sentence_index_neg": 12,
+                    "ana": [
+                        {
+                            "gr.pos": [
+                                "PERS"
+                            ],
+                            "parts": "mu",
+                            "gloss": "PRON.1SG.O",
+                            "lex": "mu",
+                            "gloss_index": "PRON.1SG.O{mu}-"
+                        }
+                    ]
+                },
+                {
+                    "wf": "mūm-ard",
+                    "wtype": "word",
+                    "off_start": 21,
+                    "off_end": 28,
+                    "next_word": 6,
+                    "sentence_index": 5,
+                    "sentence_index_neg": 11,
+                    "ana": [
+                        {
+                            "gr.pos": [
+                                "N",
+                                "POST"
+                            ],
+                            "parts": "mūm=ard",
+                            "gloss": "grandmother=DAT",
+                            "lex": "mūm",
+                            "gloss_index": "grandmother{mūm}-DAT{=ard}-"
+                        }
+                    ]
+                },
+                {
+                    "wf": "lůvd",
+                    "wtype": "word",
+                    "off_start": 29,
+                    "off_end": 33,
+                    "next_word": 7,
+                    "sentence_index": 6,
+                    "sentence_index_neg": 10,
+                    "ana": [
+                        {
+                            "gr.pos": [
+                                "V",
+                                "T"
+                            ],
+                            "parts": "lův-d",
+                            "gloss": "say-PST",
+                            "lex": "lův",
+                            "gloss_index": "say{lův}-PST{-d}-"
+                        }
+                    ]
+                },
+                {
+                    "wf": "idi,",
+                    "wtype": "word",
+                    "off_start": 34,
+                    "off_end": 38,
+                    "next_word": 8,
+                    "sentence_index": 7,
+                    "sentence_index_neg": 9,
+                    "ana": [
+                        {
+                            "gr.pos": [
+                                "CONJ"
+                            ],
+                            "parts": "idi",
+                            "gloss": "COMPL",
+                            "lex": "idi",
+                            "gloss_index": "COMPL{idi}-"
+                        }
+                    ]
+                },
+                {
+                    "wf": "ba",
+                    "wtype": "word",
+                    "off_start": 39,
+                    "off_end": 41,
+                    "next_word": 9,
+                    "sentence_index": 8,
+                    "sentence_index_neg": 8,
+                    "ana": [
+                        {
+                            "gr.pos": [
+                                "PREP"
+                            ],
+                            "parts": "ba",
+                            "gloss": "ALL",
+                            "lex": "ba",
+                            "gloss_index": "ALL{ba}-"
+                        }
+                    ]
+                },
+                {
+                    "wf": "nůmi",
+                    "wtype": "word",
+                    "off_start": 42,
+                    "off_end": 46,
+                    "next_word": 10,
+                    "sentence_index": 9,
+                    "sentence_index_neg": 7,
+                    "ana": [
+                        {
+                            "gr.pos": [
+                                "N",
+                                "CL.AGR"
+                            ],
+                            "parts": "nům=i",
+                            "gloss": "name=3SG",
+                            "lex": "nům",
+                            "gloss_index": "name{nům}-3SG{=i}-"
+                        }
+                    ]
+                },
+                {
+                    "wf": "xuδoy",
+                    "wtype": "word",
+                    "off_start": 47,
+                    "off_end": 52,
+                    "next_word": 11,
+                    "sentence_index": 10,
+                    "sentence_index_neg": 6,
+                    "ana": [
+                        {
+                            "gr.pos": [
+                                "N"
+                            ],
+                            "parts": "xuδoy",
+                            "gloss": "God",
+                            "lex": "xuδoy",
+                            "gloss_index": "God{xuδoy}-"
+                        }
+                    ]
+                },
+                {
+                    "wf": "yak",
+                    "wtype": "word",
+                    "off_start": 53,
+                    "off_end": 56,
+                    "next_word": 12,
+                    "sentence_index": 11,
+                    "sentence_index_neg": 5,
+                    "ana": [
+                        {
+                            "gr.pos": [
+                                "NUM"
+                            ],
+                            "parts": "yak",
+                            "gloss": "one",
+                            "lex": "yak",
+                            "gloss_index": "one{yak}-"
+                        }
+                    ]
+                },
+                {
+                    "wf": "bor",
+                    "wtype": "word",
+                    "off_start": 57,
+                    "off_end": 60,
+                    "next_word": 13,
+                    "sentence_index": 12,
+                    "sentence_index_neg": 4,
+                    "ana": [
+                        {
+                            "gr.pos": [],
+                            "parts": "bor",
+                            "gloss": "just",
+                            "lex": "bor",
+                            "gloss_index": "just{bor}-"
+                        }
+                    ]
+                },
+                {
+                    "wf": "ser",
+                    "wtype": "word",
+                    "off_start": 61,
+                    "off_end": 64,
+                    "next_word": 14,
+                    "sentence_index": 13,
+                    "sentence_index_neg": 3,
+                    "ana": [
+                        {
+                            "gr.pos": [],
+                            "parts": "ser",
+                            "gloss": "well_fed",
+                            "lex": "ser",
+                            "gloss_index": "well_fed{ser}-"
+                        }
+                    ]
+                },
+                {
+                    "wf": "mu",
+                    "wtype": "word",
+                    "off_start": 65,
+                    "off_end": 67,
+                    "next_word": 15,
+                    "sentence_index": 14,
+                    "sentence_index_neg": 2,
+                    "ana": [
+                        {
+                            "gr.pos": [
+                                "PERS"
+                            ],
+                            "parts": "mu",
+                            "gloss": "PRON.1SG.O",
+                            "lex": "mu",
+                            "gloss_index": "PRON.1SG.O{mu}-"
+                        }
+                    ]
+                },
+                {
+                    "wf": "kin.",
+                    "wtype": "word",
+                    "off_start": 68,
+                    "off_end": 72,
+                    "next_word": 16,
+                    "sentence_index": 15,
+                    "sentence_index_neg": 1,
+                    "ana": [
+                        {
+                            "gr.pos": [
+                                "V"
+                            ],
+                            "parts": "kin",
+                            "gloss": "do",
+                            "lex": "kin",
+                            "gloss_index": "do{kin}-"
+                        }
+                    ]
+                }
+            ],
+            "lang": 0,
+            "meta": {
+                "speaker": "A"
+            },
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 72,
+                    "para_id": 5
+                }
+            ]
+        },
+        {
+            "text": "yid mu mūm bād koči kix̌t, růɣan-ga wam tīr-ti kix̌t xu yêst wam—ard.",
+            "words": [
+                {
+                    "wf": "yid",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 3,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 13,
+                    "ana": [
+                        {
+                            "gr.pos": [
+                                "DEM"
+                            ],
+                            "parts": "yid",
+                            "gloss": "D2.SG",
+                            "lex": "yid",
+                            "gloss_index": "D2.SG{yid}-"
+                        }
+                    ]
+                },
+                {
+                    "wf": "mu",
+                    "wtype": "word",
+                    "off_start": 4,
+                    "off_end": 6,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 12,
+                    "ana": [
+                        {
+                            "gr.pos": [
+                                "PERS"
+                            ],
+                            "parts": "mu",
+                            "gloss": "PRON.1SG.O",
+                            "lex": "mu",
+                            "gloss_index": "PRON.1SG.O{mu}-"
+                        }
+                    ]
+                },
+                {
+                    "wf": "mūm",
+                    "wtype": "word",
+                    "off_start": 7,
+                    "off_end": 10,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 11,
+                    "ana": [
+                        {
+                            "gr.pos": [
+                                "N"
+                            ],
+                            "parts": "mūm",
+                            "gloss": "grandmother",
+                            "lex": "mūm",
+                            "gloss_index": "grandmother{mūm}-"
+                        }
+                    ]
+                },
+                {
+                    "wf": "bād",
+                    "wtype": "word",
+                    "off_start": 11,
+                    "off_end": 14,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 10,
+                    "ana": [
+                        {
+                            "gr.pos": [
+                                "PRT"
+                            ],
+                            "parts": "bād",
+                            "gloss": "then",
+                            "lex": "bād",
+                            "gloss_index": "then{bād}-"
+                        }
+                    ]
+                },
+                {
+                    "wf": "koči",
+                    "wtype": "word",
+                    "off_start": 15,
+                    "off_end": 19,
+                    "next_word": 5,
+                    "sentence_index": 4,
+                    "sentence_index_neg": 9,
+                    "ana": [
+                        {
+                            "gr.pos": [],
+                            "parts": "koči",
+                            "gloss": "pottage (for woman in labour)",
+                            "lex": "koči",
+                            "gloss_index": "pottage (for woman in labour){koči}-"
+                        }
+                    ]
+                },
+                {
+                    "wf": "kix̌t,",
+                    "wtype": "word",
+                    "off_start": 20,
+                    "off_end": 26,
+                    "next_word": 6,
+                    "sentence_index": 5,
+                    "sentence_index_neg": 8,
+                    "ana": [
+                        {
+                            "gr.pos": [
+                                "V",
+                                "V.AGR"
+                            ],
+                            "parts": "kix̌-t",
+                            "gloss": "do-PRS.3SG",
+                            "lex": "kix̌",
+                            "gloss_index": "do{kix̌}-PRS.3SG{-t}-"
+                        }
+                    ]
+                },
+                {
+                    "wf": "růɣan-ga",
+                    "wtype": "word",
+                    "off_start": 27,
+                    "off_end": 35,
+                    "next_word": 7,
+                    "sentence_index": 6,
+                    "sentence_index_neg": 7,
+                    "ana": [
+                        {
+                            "gr.pos": [
+                                "PRT"
+                            ],
+                            "parts": "růɣan-ga",
+                            "gloss": "oil-ADD1",
+                            "lex": "ga",
+                            "gloss_index": "oil{růɣan}-ADD1{ga}-"
+                        }
+                    ]
+                },
+                {
+                    "wf": "wam",
+                    "wtype": "word",
+                    "off_start": 36,
+                    "off_end": 39,
+                    "next_word": 8,
+                    "sentence_index": 7,
+                    "sentence_index_neg": 6,
+                    "ana": [
+                        {
+                            "gr.pos": [
+                                "DEM"
+                            ],
+                            "parts": "wam",
+                            "gloss": "D3.F.SG.O",
+                            "lex": "wam",
+                            "gloss_index": "D3.F.SG.O{wam}-"
+                        }
+                    ]
+                },
+                {
+                    "wf": "tīr-ti",
+                    "wtype": "word",
+                    "off_start": 40,
+                    "off_end": 46,
+                    "next_word": 9,
+                    "sentence_index": 8,
+                    "sentence_index_neg": 5,
+                    "ana": [
+                        {
+                            "gr.pos": [
+                                "N",
+                                "POST"
+                            ],
+                            "parts": "tīr=ti",
+                            "gloss": "top=SUP",
+                            "lex": "tīr",
+                            "gloss_index": "top{tīr}-SUP{=ti}-"
+                        }
+                    ]
+                },
+                {
+                    "wf": "kix̌t",
+                    "wtype": "word",
+                    "off_start": 47,
+                    "off_end": 52,
+                    "next_word": 10,
+                    "sentence_index": 9,
+                    "sentence_index_neg": 4,
+                    "ana": [
+                        {
+                            "gr.pos": [
+                                "V",
+                                "V.AGR"
+                            ],
+                            "parts": "kix̌-t",
+                            "gloss": "do-PRS.3SG",
+                            "lex": "kix̌",
+                            "gloss_index": "do{kix̌}-PRS.3SG{-t}-"
+                        }
+                    ]
+                },
+                {
+                    "wf": "xu",
+                    "wtype": "word",
+                    "off_start": 53,
+                    "off_end": 55,
+                    "next_word": 11,
+                    "sentence_index": 10,
+                    "sentence_index_neg": 3,
+                    "ana": [
+                        {
+                            "gr.pos": [
+                                "CONJ"
+                            ],
+                            "parts": "xu",
+                            "gloss": "COORD1",
+                            "lex": "xu",
+                            "gloss_index": "COORD1{xu}-"
+                        }
+                    ]
+                },
+                {
+                    "wf": "yêst",
+                    "wtype": "word",
+                    "off_start": 56,
+                    "off_end": 60,
+                    "next_word": 12,
+                    "sentence_index": 11,
+                    "sentence_index_neg": 2,
+                    "ana": [
+                        {
+                            "gr.pos": [
+                                "V",
+                                "V.AGR"
+                            ],
+                            "parts": "yês-t",
+                            "gloss": "carry-PRS.3SG",
+                            "lex": "yês",
+                            "gloss_index": "carry{yês}-PRS.3SG{-t}-"
+                        }
+                    ]
+                },
+                {
+                    "wf": "wam-ard.",
+                    "wtype": "word",
+                    "off_start": 61,
+                    "off_end": 69,
+                    "next_word": 13,
+                    "sentence_index": 12,
+                    "sentence_index_neg": 1,
+                    "ana": [
+                        {
+                            "gr.pos": [
+                                "DEM",
+                                "POST"
+                            ],
+                            "parts": "wam=ard",
+                            "gloss": "D3.F.SG.O=DAT",
+                            "lex": "wam",
+                            "gloss_index": "D3.F.SG.O{wam}-DAT{=ard}-"
+                        }
+                    ]
+                }
+            ],
+            "lang": 0,
+            "meta": {
+                "speaker": "A"
+            },
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 69,
+                    "para_id": 6
+                }
+            ]
+        },
+        {
+            "text": "yā wam koči xīrt, ser sůd xu barakatbāx̌ wam-ard kix̌t.",
+            "words": [
+                {
+                    "wf": "yā",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 2,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 10,
+                    "ana": [
+                        {
+                            "gr.pos": [
+                                "DEM"
+                            ],
+                            "parts": "yā",
+                            "gloss": "D3.F.SG",
+                            "lex": "yā",
+                            "gloss_index": "D3.F.SG{yā}-"
+                        }
+                    ]
+                },
+                {
+                    "wf": "wam",
+                    "wtype": "word",
+                    "off_start": 3,
+                    "off_end": 6,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 9,
+                    "ana": [
+                        {
+                            "gr.pos": [
+                                "DEM"
+                            ],
+                            "parts": "wam",
+                            "gloss": "D3.F.SG.O",
+                            "lex": "wam",
+                            "gloss_index": "D3.F.SG.O{wam}-"
+                        }
+                    ]
+                },
+                {
+                    "wf": "koči",
+                    "wtype": "word",
+                    "off_start": 7,
+                    "off_end": 11,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 8,
+                    "ana": [
+                        {
+                            "gr.pos": [],
+                            "parts": "koči",
+                            "gloss": "pottage (for woman in labour)",
+                            "lex": "koči",
+                            "gloss_index": "pottage (for woman in labour){koči}-"
+                        }
+                    ]
+                },
+                {
+                    "wf": "xīrt,",
+                    "wtype": "word",
+                    "off_start": 12,
+                    "off_end": 17,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 7,
+                    "ana": [
+                        {
+                            "gr.pos": [
+                                "V",
+                                "V.AGR"
+                            ],
+                            "parts": "xīr-t",
+                            "gloss": "eat-PRS.3SG",
+                            "lex": "xīr",
+                            "gloss_index": "eat{xīr}-PRS.3SG{-t}-"
+                        }
+                    ]
+                },
+                {
+                    "wf": "ser",
+                    "wtype": "word",
+                    "off_start": 18,
+                    "off_end": 21,
+                    "next_word": 5,
+                    "sentence_index": 4,
+                    "sentence_index_neg": 6,
+                    "ana": [
+                        {
+                            "gr.pos": [],
+                            "parts": "ser",
+                            "gloss": "well_fed",
+                            "lex": "ser",
+                            "gloss_index": "well_fed{ser}-"
+                        }
+                    ]
+                },
+                {
+                    "wf": "sůd",
+                    "wtype": "word",
+                    "off_start": 22,
+                    "off_end": 25,
+                    "next_word": 6,
+                    "sentence_index": 5,
+                    "sentence_index_neg": 5,
+                    "ana": [
+                        {
+                            "gr.pos": [
+                                "V",
+                                "V.AGR"
+                            ],
+                            "parts": "sů-d",
+                            "gloss": "become-PRS.3SG",
+                            "lex": "sů",
+                            "gloss_index": "become{sů}-PRS.3SG{-d}-"
+                        }
+                    ]
+                },
+                {
+                    "wf": "xu",
+                    "wtype": "word",
+                    "off_start": 26,
+                    "off_end": 28,
+                    "next_word": 7,
+                    "sentence_index": 6,
+                    "sentence_index_neg": 4,
+                    "ana": [
+                        {
+                            "gr.pos": [
+                                "CONJ"
+                            ],
+                            "parts": "xu",
+                            "gloss": "COORD1",
+                            "lex": "xu",
+                            "gloss_index": "COORD1{xu}-"
+                        }
+                    ]
+                },
+                {
+                    "wf": "barakatbāx̌",
+                    "wtype": "word",
+                    "off_start": 29,
+                    "off_end": 40,
+                    "next_word": 8,
+                    "sentence_index": 7,
+                    "sentence_index_neg": 3,
+                    "ana": [
+                        {
+                            "gr.pos": [],
+                            "parts": "barakatbāx̌",
+                            "gloss": "gratitude",
+                            "lex": "barakatbāx̌",
+                            "gloss_index": "gratitude{barakatbāx̌}-"
+                        }
+                    ]
+                },
+                {
+                    "wf": "wam-ard",
+                    "wtype": "word",
+                    "off_start": 41,
+                    "off_end": 48,
+                    "next_word": 9,
+                    "sentence_index": 8,
+                    "sentence_index_neg": 2,
+                    "ana": [
+                        {
+                            "gr.pos": [
+                                "DEM",
+                                "POST"
+                            ],
+                            "parts": "wam=ard",
+                            "gloss": "D3.F.SG.O=DAT",
+                            "lex": "wam",
+                            "gloss_index": "D3.F.SG.O{wam}-DAT{=ard}-"
+                        }
+                    ]
+                },
+                {
+                    "wf": "kix̌t.",
+                    "wtype": "word",
+                    "off_start": 49,
+                    "off_end": 55,
+                    "next_word": 10,
+                    "sentence_index": 9,
+                    "sentence_index_neg": 1,
+                    "ana": [
+                        {
+                            "gr.pos": [
+                                "V",
+                                "V.AGR"
+                            ],
+                            "parts": "kix̌-t",
+                            "gloss": "do-PRS.3SG",
+                            "lex": "kix̌",
+                            "gloss_index": "do{kix̌}-PRS.3SG{-t}-"
+                        }
+                    ]
+                }
+            ],
+            "lang": 0,
+            "meta": {
+                "speaker": "A"
+            },
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 55,
+                    "para_id": 7
+                }
+            ]
+        },
+        {
+            "text": "yā mu mūm wūvd meθ-ga wam nigā kix̌t xu bādi čūɣ̌ǰ ruxsat wam.",
+            "words": [
+                {
+                    "wf": "yā",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 2,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 13,
+                    "ana": [
+                        {
+                            "gr.pos": [
+                                "DEM"
+                            ],
+                            "parts": "yā",
+                            "gloss": "D3.F.SG",
+                            "lex": "yā",
+                            "gloss_index": "D3.F.SG{yā}-"
+                        }
+                    ]
+                },
+                {
+                    "wf": "mu",
+                    "wtype": "word",
+                    "off_start": 3,
+                    "off_end": 5,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 12,
+                    "ana": [
+                        {
+                            "gr.pos": [
+                                "PERS"
+                            ],
+                            "parts": "mu",
+                            "gloss": "PRON.1SG.O",
+                            "lex": "mu",
+                            "gloss_index": "PRON.1SG.O{mu}-"
+                        }
+                    ]
+                },
+                {
+                    "wf": "mūm",
+                    "wtype": "word",
+                    "off_start": 6,
+                    "off_end": 9,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 11,
+                    "ana": [
+                        {
+                            "gr.pos": [
+                                "N"
+                            ],
+                            "parts": "mūm",
+                            "gloss": "grandmother",
+                            "lex": "mūm",
+                            "gloss_index": "grandmother{mūm}-"
+                        }
+                    ]
+                },
+                {
+                    "wf": "wūvd",
+                    "wtype": "word",
+                    "off_start": 10,
+                    "off_end": 14,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 10,
+                    "ana": [
+                        {
+                            "gr.pos": [
+                                "NUM"
+                            ],
+                            "parts": "wūvd",
+                            "gloss": "seven",
+                            "lex": "wūvd",
+                            "gloss_index": "seven{wūvd}-"
+                        }
+                    ]
+                },
+                {
+                    "wf": "meθ-ga",
+                    "wtype": "word",
+                    "off_start": 15,
+                    "off_end": 21,
+                    "next_word": 5,
+                    "sentence_index": 4,
+                    "sentence_index_neg": 9,
+                    "ana": [
+                        {
+                            "gr.pos": [
+                                "N",
+                                "PRT"
+                            ],
+                            "parts": "meθ-ga",
+                            "gloss": "day-ADD1",
+                            "lex": "ga",
+                            "gloss_index": "day{meθ}-ADD1{ga}-"
+                        }
+                    ]
+                },
+                {
+                    "wf": "wam",
+                    "wtype": "word",
+                    "off_start": 22,
+                    "off_end": 25,
+                    "next_word": 6,
+                    "sentence_index": 5,
+                    "sentence_index_neg": 8,
+                    "ana": [
+                        {
+                            "gr.pos": [
+                                "DEM"
+                            ],
+                            "parts": "wam",
+                            "gloss": "D3.F.SG.O",
+                            "lex": "wam",
+                            "gloss_index": "D3.F.SG.O{wam}-"
+                        }
+                    ]
+                },
+                {
+                    "wf": "nigā",
+                    "wtype": "word",
+                    "off_start": 26,
+                    "off_end": 30,
+                    "next_word": 7,
+                    "sentence_index": 6,
+                    "sentence_index_neg": 7,
+                    "ana": [
+                        {
+                            "gr.pos": [],
+                            "parts": "nigā",
+                            "gloss": "care",
+                            "lex": "nigā",
+                            "gloss_index": "care{nigā}-"
+                        }
+                    ]
+                },
+                {
+                    "wf": "kix̌t",
+                    "wtype": "word",
+                    "off_start": 31,
+                    "off_end": 36,
+                    "next_word": 8,
+                    "sentence_index": 7,
+                    "sentence_index_neg": 6,
+                    "ana": [
+                        {
+                            "gr.pos": [
+                                "V",
+                                "V.AGR"
+                            ],
+                            "parts": "kix̌-t",
+                            "gloss": "do-PRS.3SG",
+                            "lex": "kix̌",
+                            "gloss_index": "do{kix̌}-PRS.3SG{-t}-"
+                        }
+                    ]
+                },
+                {
+                    "wf": "xu",
+                    "wtype": "word",
+                    "off_start": 37,
+                    "off_end": 39,
+                    "next_word": 9,
+                    "sentence_index": 8,
+                    "sentence_index_neg": 5,
+                    "ana": [
+                        {
+                            "gr.pos": [
+                                "CONJ"
+                            ],
+                            "parts": "xu",
+                            "gloss": "COORD1",
+                            "lex": "xu",
+                            "gloss_index": "COORD1{xu}-"
+                        }
+                    ]
+                },
+                {
+                    "wf": "bādi",
+                    "wtype": "word",
+                    "off_start": 40,
+                    "off_end": 44,
+                    "next_word": 10,
+                    "sentence_index": 9,
+                    "sentence_index_neg": 4,
+                    "ana": [
+                        {
+                            "gr.pos": [
+                                "N",
+                                "POST"
+                            ],
+                            "parts": "bād-i",
+                            "gloss": "after-EZ",
+                            "lex": "bād",
+                            "gloss_index": "after{bād}-EZ{-i}-"
+                        }
+                    ]
+                },
+                {
+                    "wf": "čūɣ̌ǰ",
+                    "wtype": "word",
+                    "off_start": 45,
+                    "off_end": 51,
+                    "next_word": 11,
+                    "sentence_index": 10,
+                    "sentence_index_neg": 3,
+                    "ana": [
+                        {
+                            "gr.pos": [
+                                "V",
+                                "T"
+                            ],
+                            "parts": "čūɣ̌-ǰ",
+                            "gloss": "do-PF",
+                            "lex": "čūɣ̌",
+                            "gloss_index": "do{čūɣ̌}-PF{-ǰ}-"
+                        }
+                    ]
+                },
+                {
+                    "wf": "ruxsat",
+                    "wtype": "word",
+                    "off_start": 52,
+                    "off_end": 58,
+                    "next_word": 12,
+                    "sentence_index": 11,
+                    "sentence_index_neg": 2,
+                    "ana": [
+                        {
+                            "gr.pos": [
+                                "N"
+                            ],
+                            "parts": "ruxsat",
+                            "gloss": "release",
+                            "lex": "ruxsat",
+                            "gloss_index": "release{ruxsat}-"
+                        }
+                    ]
+                },
+                {
+                    "wf": "wam.",
+                    "wtype": "word",
+                    "off_start": 59,
+                    "off_end": 63,
+                    "next_word": 13,
+                    "sentence_index": 12,
+                    "sentence_index_neg": 1,
+                    "ana": [
+                        {
+                            "gr.pos": [
+                                "DEM"
+                            ],
+                            "parts": "wam",
+                            "gloss": "D3.F.SG.O",
+                            "lex": "wam",
+                            "gloss_index": "D3.F.SG.O{wam}-"
+                        }
+                    ]
+                }
+            ],
+            "lang": 0,
+            "meta": {
+                "speaker": "A"
+            },
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 63,
+                    "para_id": 8
+                }
+            ]
+        },
+        {
+            "text": "yā voyd bād tīdow-ti-yi lůvǰ: - tu duxtar - naberā-ta zečā ca sůd, wuz-ta pi wev yič na rafum.",
+            "words": [
+                {
+                    "wf": "yā",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 2,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 19,
+                    "ana": [
+                        {
+                            "gr.pos": [
+                                "DEM"
+                            ],
+                            "parts": "yā",
+                            "gloss": "D3.F.SG",
+                            "lex": "yā",
+                            "gloss_index": "D3.F.SG{yā}-"
+                        }
+                    ]
+                },
+                {
+                    "wf": "voyd",
+                    "wtype": "word",
+                    "off_start": 3,
+                    "off_end": 7,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 18,
+                    "ana": [
+                        {
+                            "gr.pos": [],
+                            "parts": "voyd",
+                            "gloss": "voyd",
+                            "lex": "voyd",
+                            "gloss_index": "voyd{voyd}-"
+                        }
+                    ]
+                },
+                {
+                    "wf": "bād",
+                    "wtype": "word",
+                    "off_start": 8,
+                    "off_end": 11,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 17,
+                    "ana": [
+                        {
+                            "gr.pos": [
+                                "PRT"
+                            ],
+                            "parts": "bād",
+                            "gloss": "then",
+                            "lex": "bād",
+                            "gloss_index": "then{bād}-"
+                        }
+                    ]
+                },
+                {
+                    "wf": "tīdow-ti-yi",
+                    "wtype": "word",
+                    "off_start": 12,
+                    "off_end": 23,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 16,
+                    "ana": [
+                        {
+                            "gr.pos": [
+                                "V",
+                                "NMLZ",
+                                "POST",
+                                "CL.AGR"
+                            ],
+                            "parts": "tī-d-ow=ti=yi",
+                            "gloss": "leave-INF-PURP=SUP=3SG",
+                            "lex": "tī",
+                            "gloss_index": "leave{tī}-INF{-d}-PURP{-ow}-SUP{=ti}-3SG{=yi}-"
+                        }
+                    ]
+                },
+                {
+                    "wf": "lůvǰ:",
+                    "wtype": "word",
+                    "off_start": 24,
+                    "off_end": 30,
+                    "next_word": 5,
+                    "sentence_index": 4,
+                    "sentence_index_neg": 15,
+                    "ana": [
+                        {
+                            "gr.pos": [
+                                "V",
+                                "T"
+                            ],
+                            "parts": "lův-ǰ",
+                            "gloss": "say-PF",
+                            "lex": "lův",
+                            "gloss_index": "say{lův}-PF{-ǰ}-"
+                        }
+                    ]
+                },
+                {
+                    "wf": "-",
+                    "wtype": "word",
+                    "off_start": 31,
+                    "off_end": 32,
+                    "next_word": 6,
+                    "sentence_index": 5,
+                    "sentence_index_neg": 14
+                },
+                {
+                    "wf": "tu",
+                    "wtype": "word",
+                    "off_start": 33,
+                    "off_end": 35,
+                    "next_word": 7,
+                    "sentence_index": 6,
+                    "sentence_index_neg": 13,
+                    "ana": [
+                        {
+                            "gr.pos": [
+                                "PERS"
+                            ],
+                            "parts": "tu",
+                            "gloss": "PRON.2SG",
+                            "lex": "tu",
+                            "gloss_index": "PRON.2SG{tu}-"
+                        }
+                    ]
+                },
+                {
+                    "wf": "duxtar",
+                    "wtype": "word",
+                    "off_start": 36,
+                    "off_end": 42,
+                    "next_word": 8,
+                    "sentence_index": 7,
+                    "sentence_index_neg": 12,
+                    "ana": [
+                        {
+                            "gr.pos": [],
+                            "parts": "duxtar",
+                            "gloss": "daughter",
+                            "lex": "duxtar",
+                            "gloss_index": "daughter{duxtar}-"
+                        }
+                    ]
+                },
+                {
+                    "wf": "-",
+                    "wtype": "word",
+                    "off_start": 43,
+                    "off_end": 44,
+                    "next_word": 9,
+                    "sentence_index": 8,
+                    "sentence_index_neg": 11
+                },
+                {
+                    "wf": "naberā-ta",
+                    "wtype": "word",
+                    "off_start": 45,
+                    "off_end": 54,
+                    "next_word": 10,
+                    "sentence_index": 9,
+                    "sentence_index_neg": 10,
+                    "ana": [
+                        {
+                            "gr.pos": [
+                                "PRT"
+                            ],
+                            "parts": "naberā=ta",
+                            "gloss": "descendant=FUT",
+                            "lex": "naberā",
+                            "gloss_index": "descendant{naberā}-FUT{=ta}-"
+                        }
+                    ]
+                },
+                {
+                    "wf": "zečā",
+                    "wtype": "word",
+                    "off_start": 55,
+                    "off_end": 59,
+                    "next_word": 11,
+                    "sentence_index": 10,
+                    "sentence_index_neg": 9,
+                    "ana": [
+                        {
+                            "gr.pos": [],
+                            "parts": "zečā",
+                            "gloss": "woman in labour",
+                            "lex": "zečā",
+                            "gloss_index": "woman in labour{zečā}-"
+                        }
+                    ]
+                },
+                {
+                    "wf": "ca",
+                    "wtype": "word",
+                    "off_start": 60,
+                    "off_end": 62,
+                    "next_word": 12,
+                    "sentence_index": 11,
+                    "sentence_index_neg": 8,
+                    "ana": [
+                        {
+                            "gr.pos": [
+                                "CONJ"
+                            ],
+                            "parts": "ca",
+                            "gloss": "SUBD1",
+                            "lex": "ca",
+                            "gloss_index": "SUBD1{ca}-"
+                        }
+                    ]
+                },
+                {
+                    "wf": "sůd,",
+                    "wtype": "word",
+                    "off_start": 63,
+                    "off_end": 67,
+                    "next_word": 13,
+                    "sentence_index": 12,
+                    "sentence_index_neg": 7,
+                    "ana": [
+                        {
+                            "gr.pos": [
+                                "V",
+                                "V.AGR"
+                            ],
+                            "parts": "sů-d",
+                            "gloss": "become-PRS.3SG",
+                            "lex": "sů",
+                            "gloss_index": "become{sů}-PRS.3SG{-d}-"
+                        }
+                    ]
+                },
+                {
+                    "wf": "wuz-ta",
+                    "wtype": "word",
+                    "off_start": 68,
+                    "off_end": 74,
+                    "next_word": 14,
+                    "sentence_index": 13,
+                    "sentence_index_neg": 6,
+                    "ana": [
+                        {
+                            "gr.pos": [
+                                "PERS",
+                                "PRT"
+                            ],
+                            "parts": "wuz=ta",
+                            "gloss": "PRON.1SG=FUT",
+                            "lex": "wuz",
+                            "gloss_index": "PRON.1SG{wuz}-FUT{=ta}-"
+                        }
+                    ]
+                },
+                {
+                    "wf": "pi",
+                    "wtype": "word",
+                    "off_start": 75,
+                    "off_end": 77,
+                    "next_word": 15,
+                    "sentence_index": 14,
+                    "sentence_index_neg": 5,
+                    "ana": [
+                        {
+                            "gr.pos": [
+                                "PREP"
+                            ],
+                            "parts": "pi",
+                            "gloss": "UP",
+                            "lex": "pi",
+                            "gloss_index": "UP{pi}-"
+                        }
+                    ]
+                },
+                {
+                    "wf": "wev",
+                    "wtype": "word",
+                    "off_start": 78,
+                    "off_end": 81,
+                    "next_word": 16,
+                    "sentence_index": 15,
+                    "sentence_index_neg": 4,
+                    "ana": [
+                        {
+                            "gr.pos": [
+                                "DEM"
+                            ],
+                            "parts": "wev",
+                            "gloss": "D3.PL.O",
+                            "lex": "wev",
+                            "gloss_index": "D3.PL.O{wev}-"
+                        }
+                    ]
+                },
+                {
+                    "wf": "yič",
+                    "wtype": "word",
+                    "off_start": 82,
+                    "off_end": 85,
+                    "next_word": 17,
+                    "sentence_index": 16,
+                    "sentence_index_neg": 3,
+                    "ana": [
+                        {
+                            "gr.pos": [
+                                "PRO"
+                            ],
+                            "parts": "yič",
+                            "gloss": "none",
+                            "lex": "yič",
+                            "gloss_index": "none{yič}-"
+                        }
+                    ]
+                },
+                {
+                    "wf": "na",
+                    "wtype": "word",
+                    "off_start": 86,
+                    "off_end": 88,
+                    "next_word": 18,
+                    "sentence_index": 17,
+                    "sentence_index_neg": 2,
+                    "ana": [
+                        {
+                            "gr.pos": [
+                                "V.AFF"
+                            ],
+                            "parts": "na",
+                            "gloss": "NEG",
+                            "lex": "na",
+                            "gloss_index": "NEG{na}-"
+                        }
+                    ]
+                },
+                {
+                    "wf": "rafum.",
+                    "wtype": "word",
+                    "off_start": 89,
+                    "off_end": 95,
+                    "next_word": 19,
+                    "sentence_index": 18,
+                    "sentence_index_neg": 1,
+                    "ana": [
+                        {
+                            "gr.pos": [
+                                "V",
+                                "CL.AGR"
+                            ],
+                            "parts": "raf=um",
+                            "gloss": "touch=1SG",
+                            "lex": "raf",
+                            "gloss_index": "touch{raf}-1SG{=um}-"
+                        }
+                    ]
+                }
+            ],
+            "lang": 0,
+            "meta": {
+                "speaker": "A"
+            },
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 95,
+                    "para_id": 9
+                }
+            ]
+        },
+        {
+            "text": "amo ba šarti x̌īnšūδ růʒ-ti ved atā, vorǰ nol mêx piδīnd-and čukčin.",
+            "words": [
+                {
+                    "wf": "amo",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 3,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 12,
+                    "ana": [
+                        {
+                            "gr.pos": [
+                                "CONJ"
+                            ],
+                            "parts": "amo",
+                            "gloss": "but",
+                            "lex": "amo",
+                            "gloss_index": "but{amo}-"
+                        }
+                    ]
+                },
+                {
+                    "wf": "ba",
+                    "wtype": "word",
+                    "off_start": 4,
+                    "off_end": 6,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 11,
+                    "ana": [
+                        {
+                            "gr.pos": [
+                                "PREP"
+                            ],
+                            "parts": "ba",
+                            "gloss": "ALL",
+                            "lex": "ba",
+                            "gloss_index": "ALL{ba}-"
+                        }
+                    ]
+                },
+                {
+                    "wf": "šarti",
+                    "wtype": "word",
+                    "off_start": 7,
+                    "off_end": 12,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 10,
+                    "ana": [
+                        {
+                            "gr.pos": [
+                                "N",
+                                "PRO"
+                            ],
+                            "parts": "šart-i-",
+                            "gloss": "condition-INDEF-",
+                            "lex": "šart",
+                            "gloss_index": "condition{šart}-INDEF{i-}-"
+                        }
+                    ]
+                },
+                {
+                    "wf": "x̌īnšūδ",
+                    "wtype": "word",
+                    "off_start": 13,
+                    "off_end": 20,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 9,
+                    "ana": [
+                        {
+                            "gr.pos": [],
+                            "parts": "x̌īnšūδ",
+                            "gloss": "thorn",
+                            "lex": "x̌īnšūδ",
+                            "gloss_index": "thorn{x̌īnšūδ}-"
+                        }
+                    ]
+                },
+                {
+                    "wf": "růʒ-ti",
+                    "wtype": "word",
+                    "off_start": 21,
+                    "off_end": 27,
+                    "next_word": 5,
+                    "sentence_index": 4,
+                    "sentence_index_neg": 8,
+                    "ana": [
+                        {
+                            "gr.pos": [
+                                "POST"
+                            ],
+                            "parts": "růʒ=ti",
+                            "gloss": "vent=SUP",
+                            "lex": "růʒ",
+                            "gloss_index": "vent{růʒ}-SUP{=ti}-"
+                        }
+                    ]
+                },
+                {
+                    "wf": "ved",
+                    "wtype": "word",
+                    "off_start": 28,
+                    "off_end": 31,
+                    "next_word": 6,
+                    "sentence_index": 5,
+                    "sentence_index_neg": 7,
+                    "ana": [
+                        {
+                            "gr.pos": [
+                                "V",
+                                "V.AGR"
+                            ],
+                            "parts": "ve-d",
+                            "gloss": "be-PRS.3SG",
+                            "lex": "ve",
+                            "gloss_index": "be{ve}-PRS.3SG{-d}-"
+                        }
+                    ]
+                },
+                {
+                    "wf": "atā,",
+                    "wtype": "word",
+                    "off_start": 32,
+                    "off_end": 36,
+                    "next_word": 7,
+                    "sentence_index": 6,
+                    "sentence_index_neg": 6,
+                    "ana": [
+                        {
+                            "gr.pos": [
+                                "CONJ"
+                            ],
+                            "parts": "atā",
+                            "gloss": "COORD3",
+                            "lex": "atā",
+                            "gloss_index": "COORD3{atā}-"
+                        }
+                    ]
+                },
+                {
+                    "wf": "vorǰ",
+                    "wtype": "word",
+                    "off_start": 37,
+                    "off_end": 42,
+                    "next_word": 8,
+                    "sentence_index": 7,
+                    "sentence_index_neg": 5,
+                    "ana": [
+                        {
+                            "gr.pos": [
+                                "N"
+                            ],
+                            "parts": "vorǰ",
+                            "gloss": "horse",
+                            "lex": "vorǰ",
+                            "gloss_index": "horse{vorǰ}-"
+                        }
+                    ]
+                },
+                {
+                    "wf": "nol",
+                    "wtype": "word",
+                    "off_start": 43,
+                    "off_end": 46,
+                    "next_word": 9,
+                    "sentence_index": 8,
+                    "sentence_index_neg": 4,
+                    "ana": [
+                        {
+                            "gr.pos": [],
+                            "parts": "nol",
+                            "gloss": "shoe",
+                            "lex": "nol",
+                            "gloss_index": "shoe{nol}-"
+                        }
+                    ]
+                },
+                {
+                    "wf": "mêx",
+                    "wtype": "word",
+                    "off_start": 47,
+                    "off_end": 50,
+                    "next_word": 10,
+                    "sentence_index": 9,
+                    "sentence_index_neg": 3,
+                    "ana": [
+                        {
+                            "gr.pos": [
+                                "N"
+                            ],
+                            "parts": "mêx",
+                            "gloss": "nail",
+                            "lex": "mêx",
+                            "gloss_index": "nail{mêx}-"
+                        }
+                    ]
+                },
+                {
+                    "wf": "piδīnd-and",
+                    "wtype": "word",
+                    "off_start": 51,
+                    "off_end": 61,
+                    "next_word": 11,
+                    "sentence_index": 10,
+                    "sentence_index_neg": 2,
+                    "ana": [
+                        {
+                            "gr.pos": [
+                                "POST"
+                            ],
+                            "parts": "piδīnd=and",
+                            "gloss": "threshold=LOC",
+                            "lex": "piδīnd",
+                            "gloss_index": "threshold{piδīnd}-LOC{=and}-"
+                        }
+                    ]
+                },
+                {
+                    "wf": "čukčin.",
+                    "wtype": "word",
+                    "off_start": 62,
+                    "off_end": 69,
+                    "next_word": 12,
+                    "sentence_index": 11,
+                    "sentence_index_neg": 1,
+                    "ana": [
+                        {
+                            "gr.pos": [],
+                            "parts": "čukčin",
+                            "gloss": "downtrodden",
+                            "lex": "čukčin",
+                            "gloss_index": "downtrodden{čukčin}-"
+                        }
+                    ]
+                }
+            ],
+            "lang": 0,
+            "meta": {
+                "speaker": "A"
+            },
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 69,
+                    "para_id": 10
+                }
+            ]
+        },
+        {
+            "text": "i-kid nix̌ůn di vud, wuz-ta fāmum idi, yid as tu awlodā-yand.",
+            "words": [
+                {
+                    "wf": "i-kid",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 5,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 11,
+                    "ana": [
+                        {
+                            "gr.pos": [
+                                "PRT",
+                                "DEM"
+                            ],
+                            "parts": "ik=id",
+                            "gloss": "EMPH=D2.SG",
+                            "lex": "id",
+                            "gloss_index": "EMPH{ik=}-D2.SG{id}-"
+                        }
+                    ]
+                },
+                {
+                    "wf": "nix̌ůn",
+                    "wtype": "word",
+                    "off_start": 6,
+                    "off_end": 12,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 10,
+                    "ana": [
+                        {
+                            "gr.pos": [],
+                            "parts": "nix̌ůn",
+                            "gloss": "sign",
+                            "lex": "nix̌ůn",
+                            "gloss_index": "sign{nix̌ůn}-"
+                        }
+                    ]
+                },
+                {
+                    "wf": "di",
+                    "wtype": "word",
+                    "off_start": 13,
+                    "off_end": 15,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 9,
+                    "ana": [
+                        {
+                            "gr.pos": [
+                                "DEM"
+                            ],
+                            "parts": "di",
+                            "gloss": "D2.M.SG.O",
+                            "lex": "di",
+                            "gloss_index": "D2.M.SG.O{di}-"
+                        }
+                    ]
+                },
+                {
+                    "wf": "vud,",
+                    "wtype": "word",
+                    "off_start": 16,
+                    "off_end": 20,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 8,
+                    "ana": [
+                        {
+                            "gr.pos": [
+                                "V",
+                                "T"
+                            ],
+                            "parts": "vu-d",
+                            "gloss": "be.M.SG-PST",
+                            "lex": "vu",
+                            "gloss_index": "be.M.SG{vu}-PST{-d}-"
+                        }
+                    ]
+                },
+                {
+                    "wf": "wuz-ta",
+                    "wtype": "word",
+                    "off_start": 21,
+                    "off_end": 27,
+                    "next_word": 5,
+                    "sentence_index": 4,
+                    "sentence_index_neg": 7,
+                    "ana": [
+                        {
+                            "gr.pos": [
+                                "PERS",
+                                "PRT"
+                            ],
+                            "parts": "wuz=ta",
+                            "gloss": "PRON.1SG=FUT",
+                            "lex": "wuz",
+                            "gloss_index": "PRON.1SG{wuz}-FUT{=ta}-"
+                        }
+                    ]
+                },
+                {
+                    "wf": "fāmum",
+                    "wtype": "word",
+                    "off_start": 28,
+                    "off_end": 33,
+                    "next_word": 6,
+                    "sentence_index": 5,
+                    "sentence_index_neg": 6,
+                    "ana": [
+                        {
+                            "gr.pos": [
+                                "V",
+                                "CL.AGR"
+                            ],
+                            "parts": "fām=um",
+                            "gloss": "understand=1SG",
+                            "lex": "fām",
+                            "gloss_index": "understand{fām}-1SG{=um}-"
+                        }
+                    ]
+                },
+                {
+                    "wf": "idi,",
+                    "wtype": "word",
+                    "off_start": 34,
+                    "off_end": 38,
+                    "next_word": 7,
+                    "sentence_index": 6,
+                    "sentence_index_neg": 5,
+                    "ana": [
+                        {
+                            "gr.pos": [
+                                "CONJ"
+                            ],
+                            "parts": "idi",
+                            "gloss": "COMPL",
+                            "lex": "idi",
+                            "gloss_index": "COMPL{idi}-"
+                        }
+                    ]
+                },
+                {
+                    "wf": "yid",
+                    "wtype": "word",
+                    "off_start": 39,
+                    "off_end": 42,
+                    "next_word": 8,
+                    "sentence_index": 7,
+                    "sentence_index_neg": 4,
+                    "ana": [
+                        {
+                            "gr.pos": [
+                                "DEM"
+                            ],
+                            "parts": "yid",
+                            "gloss": "D2.SG",
+                            "lex": "yid",
+                            "gloss_index": "D2.SG{yid}-"
+                        }
+                    ]
+                },
+                {
+                    "wf": "as",
+                    "wtype": "word",
+                    "off_start": 43,
+                    "off_end": 45,
+                    "next_word": 9,
+                    "sentence_index": 8,
+                    "sentence_index_neg": 3,
+                    "ana": [
+                        {
+                            "gr.pos": [
+                                "PREP"
+                            ],
+                            "parts": "as",
+                            "gloss": "EL",
+                            "lex": "as",
+                            "gloss_index": "EL{as}-"
+                        }
+                    ]
+                },
+                {
+                    "wf": "tu",
+                    "wtype": "word",
+                    "off_start": 46,
+                    "off_end": 48,
+                    "next_word": 10,
+                    "sentence_index": 9,
+                    "sentence_index_neg": 2,
+                    "ana": [
+                        {
+                            "gr.pos": [
+                                "PERS"
+                            ],
+                            "parts": "tu",
+                            "gloss": "PRON.2SG",
+                            "lex": "tu",
+                            "gloss_index": "PRON.2SG{tu}-"
+                        }
+                    ]
+                },
+                {
+                    "wf": "awlodā-yand.",
+                    "wtype": "word",
+                    "off_start": 49,
+                    "off_end": 61,
+                    "next_word": 11,
+                    "sentence_index": 10,
+                    "sentence_index_neg": 1,
+                    "ana": [
+                        {
+                            "gr.pos": [
+                                "POST"
+                            ],
+                            "parts": "awlodā=yand",
+                            "gloss": "family=LOC",
+                            "lex": "awlodā",
+                            "gloss_index": "family{awlodā}-LOC{=yand}-"
+                        }
+                    ]
+                }
+            ],
+            "lang": 0,
+            "meta": {
+                "speaker": "A"
+            },
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 61,
+                    "para_id": 11
+                }
+            ]
+        },
+        {
+            "text": "yida, di ǰinow koren-en mis qadīm-and vic.",
+            "words": [
+                {
+                    "wf": "yida,",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 5,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 7,
+                    "ana": [
+                        {
+                            "gr.pos": [
+                                "DEM"
+                            ],
+                            "parts": "yida",
+                            "gloss": "D2.PTCL",
+                            "lex": "yida",
+                            "gloss_index": "D2.PTCL{yida}-"
+                        }
+                    ]
+                },
+                {
+                    "wf": "di",
+                    "wtype": "word",
+                    "off_start": 6,
+                    "off_end": 8,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 6,
+                    "ana": [
+                        {
+                            "gr.pos": [
+                                "DEM"
+                            ],
+                            "parts": "di",
+                            "gloss": "D2.M.SG.O",
+                            "lex": "di",
+                            "gloss_index": "D2.M.SG.O{di}-"
+                        }
+                    ]
+                },
+                {
+                    "wf": "ǰinow",
+                    "wtype": "word",
+                    "off_start": 9,
+                    "off_end": 15,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 5,
+                    "ana": [
+                        {
+                            "gr.pos": [
+                                "N"
+                            ],
+                            "parts": "ǰinow",
+                            "gloss": "like",
+                            "lex": "ǰinow",
+                            "gloss_index": "like{ǰinow}-"
+                        }
+                    ]
+                },
+                {
+                    "wf": "koren-en",
+                    "wtype": "word",
+                    "off_start": 16,
+                    "off_end": 24,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 4,
+                    "ana": [
+                        {
+                            "gr.pos": [
+                                "N",
+                                "N.AFF",
+                                "CL.AGR"
+                            ],
+                            "parts": "kor-en=en",
+                            "gloss": "work-PL=3PL",
+                            "lex": "kor",
+                            "gloss_index": "work{kor}-PL{-en}-3PL{=en}-"
+                        }
+                    ]
+                },
+                {
+                    "wf": "mis",
+                    "wtype": "word",
+                    "off_start": 25,
+                    "off_end": 28,
+                    "next_word": 5,
+                    "sentence_index": 4,
+                    "sentence_index_neg": 3,
+                    "ana": [
+                        {
+                            "gr.pos": [
+                                "PRT"
+                            ],
+                            "parts": "mis",
+                            "gloss": "ADD2",
+                            "lex": "mis",
+                            "gloss_index": "ADD2{mis}-"
+                        }
+                    ]
+                },
+                {
+                    "wf": "qadīm-and",
+                    "wtype": "word",
+                    "off_start": 29,
+                    "off_end": 38,
+                    "next_word": 6,
+                    "sentence_index": 5,
+                    "sentence_index_neg": 2,
+                    "ana": [
+                        {
+                            "gr.pos": [
+                                "N",
+                                "POST"
+                            ],
+                            "parts": "qadīm=and",
+                            "gloss": "ancient=LOC",
+                            "lex": "qadīm",
+                            "gloss_index": "ancient{qadīm}-LOC{=and}-"
+                        }
+                    ]
+                },
+                {
+                    "wf": "vic.",
+                    "wtype": "word",
+                    "off_start": 39,
+                    "off_end": 43,
+                    "next_word": 7,
+                    "sentence_index": 6,
+                    "sentence_index_neg": 1,
+                    "ana": [
+                        {
+                            "gr.pos": [
+                                "V",
+                                "T"
+                            ],
+                            "parts": "vi-c",
+                            "gloss": "be-PF.F/PL",
+                            "lex": "vi",
+                            "gloss_index": "be{vi}-PF.F/PL{-c}-"
+                        }
+                    ]
+                }
+            ],
+            "lang": 0,
+            "meta": {
+                "speaker": "A"
+            },
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 43,
+                    "para_id": 12
+                }
+            ]
+        },
+        {
+            "text": "Была у нас одна бабушка.",
+            "words": [
+                {
+                    "wf": "Была",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 4,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 5
+                },
+                {
+                    "wf": "у",
+                    "wtype": "word",
+                    "off_start": 5,
+                    "off_end": 6,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 4
+                },
+                {
+                    "wf": "нас",
+                    "wtype": "word",
+                    "off_start": 7,
+                    "off_end": 10,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 3
+                },
+                {
+                    "wf": "одна",
+                    "wtype": "word",
+                    "off_start": 11,
+                    "off_end": 15,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 2
+                },
+                {
+                    "wf": "бабушка.",
+                    "wtype": "word",
+                    "off_start": 16,
+                    "off_end": 24,
+                    "next_word": 5,
+                    "sentence_index": 4,
+                    "sentence_index_neg": 1
+                }
+            ],
+            "lang": 1,
+            "meta": {
+                "speaker": "A"
+            },
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 19,
+                    "para_id": 1
+                }
+            ]
+        },
+        {
+            "text": "Звали её Сафархотун.",
+            "words": [
+                {
+                    "wf": "Звали",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 5,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 3
+                },
+                {
+                    "wf": "её",
+                    "wtype": "word",
+                    "off_start": 6,
+                    "off_end": 8,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 2
+                },
+                {
+                    "wf": "Сафархотун.",
+                    "wtype": "word",
+                    "off_start": 9,
+                    "off_end": 20,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 1
+                }
+            ],
+            "lang": 1,
+            "meta": {
+                "speaker": "A"
+            },
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 25,
+                    "para_id": 2
+                }
+            ]
+        },
+        {
+            "text": "Она утром вошла, в зидун (кладовку).",
+            "words": [
+                {
+                    "wf": "Она",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 3,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 6
+                },
+                {
+                    "wf": "утром",
+                    "wtype": "word",
+                    "off_start": 4,
+                    "off_end": 9,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 5
+                },
+                {
+                    "wf": "вошла,",
+                    "wtype": "word",
+                    "off_start": 10,
+                    "off_end": 16,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 4
+                },
+                {
+                    "wf": "в",
+                    "wtype": "word",
+                    "off_start": 17,
+                    "off_end": 18,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 3
+                },
+                {
+                    "wf": "зидун",
+                    "wtype": "word",
+                    "off_start": 19,
+                    "off_end": 24,
+                    "next_word": 5,
+                    "sentence_index": 4,
+                    "sentence_index_neg": 2
+                },
+                {
+                    "wf": "(кладовку).",
+                    "wtype": "word",
+                    "off_start": 25,
+                    "off_end": 36,
+                    "next_word": 6,
+                    "sentence_index": 5,
+                    "sentence_index_neg": 1
+                }
+            ],
+            "lang": 1,
+            "meta": {
+                "speaker": "A"
+            },
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 25,
+                    "para_id": 3
+                }
+            ]
+        },
+        {
+            "text": "Войдак вошла туда и родила.",
+            "words": [
+                {
+                    "wf": "Войдак",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 6,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 5
+                },
+                {
+                    "wf": "вошла",
+                    "wtype": "word",
+                    "off_start": 7,
+                    "off_end": 12,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 4
+                },
+                {
+                    "wf": "туда",
+                    "wtype": "word",
+                    "off_start": 13,
+                    "off_end": 17,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 3
+                },
+                {
+                    "wf": "и",
+                    "wtype": "word",
+                    "off_start": 18,
+                    "off_end": 19,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 2
+                },
+                {
+                    "wf": "родила.",
+                    "wtype": "word",
+                    "off_start": 20,
+                    "off_end": 27,
+                    "next_word": 5,
+                    "sentence_index": 4,
+                    "sentence_index_neg": 1
+                }
+            ],
+            "lang": 1,
+            "meta": {
+                "speaker": "A"
+            },
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 34,
+                    "para_id": 4
+                }
+            ]
+        },
+        {
+            "text": "Потом та войдак просила мою бабушку, чтобы та во имя Бога дала ей кушать.",
+            "words": [
+                {
+                    "wf": "Потом",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 5,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 14
+                },
+                {
+                    "wf": "та",
+                    "wtype": "word",
+                    "off_start": 6,
+                    "off_end": 8,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 13
+                },
+                {
+                    "wf": "войдак",
+                    "wtype": "word",
+                    "off_start": 9,
+                    "off_end": 15,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 12
+                },
+                {
+                    "wf": "просила",
+                    "wtype": "word",
+                    "off_start": 16,
+                    "off_end": 23,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 11
+                },
+                {
+                    "wf": "мою",
+                    "wtype": "word",
+                    "off_start": 24,
+                    "off_end": 27,
+                    "next_word": 5,
+                    "sentence_index": 4,
+                    "sentence_index_neg": 10
+                },
+                {
+                    "wf": "бабушку,",
+                    "wtype": "word",
+                    "off_start": 28,
+                    "off_end": 36,
+                    "next_word": 6,
+                    "sentence_index": 5,
+                    "sentence_index_neg": 9
+                },
+                {
+                    "wf": "чтобы",
+                    "wtype": "word",
+                    "off_start": 37,
+                    "off_end": 42,
+                    "next_word": 7,
+                    "sentence_index": 6,
+                    "sentence_index_neg": 8
+                },
+                {
+                    "wf": "та",
+                    "wtype": "word",
+                    "off_start": 43,
+                    "off_end": 45,
+                    "next_word": 8,
+                    "sentence_index": 7,
+                    "sentence_index_neg": 7
+                },
+                {
+                    "wf": "во",
+                    "wtype": "word",
+                    "off_start": 46,
+                    "off_end": 48,
+                    "next_word": 9,
+                    "sentence_index": 8,
+                    "sentence_index_neg": 6
+                },
+                {
+                    "wf": "имя",
+                    "wtype": "word",
+                    "off_start": 49,
+                    "off_end": 52,
+                    "next_word": 10,
+                    "sentence_index": 9,
+                    "sentence_index_neg": 5
+                },
+                {
+                    "wf": "Бога",
+                    "wtype": "word",
+                    "off_start": 53,
+                    "off_end": 57,
+                    "next_word": 11,
+                    "sentence_index": 10,
+                    "sentence_index_neg": 4
+                },
+                {
+                    "wf": "дала",
+                    "wtype": "word",
+                    "off_start": 58,
+                    "off_end": 62,
+                    "next_word": 12,
+                    "sentence_index": 11,
+                    "sentence_index_neg": 3
+                },
+                {
+                    "wf": "ей",
+                    "wtype": "word",
+                    "off_start": 63,
+                    "off_end": 65,
+                    "next_word": 13,
+                    "sentence_index": 12,
+                    "sentence_index_neg": 2
+                },
+                {
+                    "wf": "кушать.",
+                    "wtype": "word",
+                    "off_start": 66,
+                    "off_end": 73,
+                    "next_word": 14,
+                    "sentence_index": 13,
+                    "sentence_index_neg": 1
+                }
+            ],
+            "lang": 1,
+            "meta": {
+                "speaker": "A"
+            },
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 72,
+                    "para_id": 5
+                }
+            ]
+        },
+        {
+            "text": "Та моя бабушка сделала кочи (похлёбка, сделанная из муки, масла, молока - эта еда приготавливается обично для рожениц), сверху налила туда масло и отнесли ей.",
+            "words": [
+                {
+                    "wf": "Та",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 2,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 25
+                },
+                {
+                    "wf": "моя",
+                    "wtype": "word",
+                    "off_start": 3,
+                    "off_end": 6,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 24
+                },
+                {
+                    "wf": "бабушка",
+                    "wtype": "word",
+                    "off_start": 7,
+                    "off_end": 14,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 23
+                },
+                {
+                    "wf": "сделала",
+                    "wtype": "word",
+                    "off_start": 15,
+                    "off_end": 22,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 22
+                },
+                {
+                    "wf": "кочи",
+                    "wtype": "word",
+                    "off_start": 23,
+                    "off_end": 27,
+                    "next_word": 5,
+                    "sentence_index": 4,
+                    "sentence_index_neg": 21
+                },
+                {
+                    "wf": "(похлёбка,",
+                    "wtype": "word",
+                    "off_start": 28,
+                    "off_end": 38,
+                    "next_word": 6,
+                    "sentence_index": 5,
+                    "sentence_index_neg": 20
+                },
+                {
+                    "wf": "сделанная",
+                    "wtype": "word",
+                    "off_start": 39,
+                    "off_end": 48,
+                    "next_word": 7,
+                    "sentence_index": 6,
+                    "sentence_index_neg": 19
+                },
+                {
+                    "wf": "из",
+                    "wtype": "word",
+                    "off_start": 49,
+                    "off_end": 51,
+                    "next_word": 8,
+                    "sentence_index": 7,
+                    "sentence_index_neg": 18
+                },
+                {
+                    "wf": "муки,",
+                    "wtype": "word",
+                    "off_start": 52,
+                    "off_end": 57,
+                    "next_word": 9,
+                    "sentence_index": 8,
+                    "sentence_index_neg": 17
+                },
+                {
+                    "wf": "масла,",
+                    "wtype": "word",
+                    "off_start": 58,
+                    "off_end": 64,
+                    "next_word": 10,
+                    "sentence_index": 9,
+                    "sentence_index_neg": 16
+                },
+                {
+                    "wf": "молока",
+                    "wtype": "word",
+                    "off_start": 65,
+                    "off_end": 71,
+                    "next_word": 11,
+                    "sentence_index": 10,
+                    "sentence_index_neg": 15
+                },
+                {
+                    "wf": "-",
+                    "wtype": "word",
+                    "off_start": 72,
+                    "off_end": 73,
+                    "next_word": 12,
+                    "sentence_index": 11,
+                    "sentence_index_neg": 14
+                },
+                {
+                    "wf": "эта",
+                    "wtype": "word",
+                    "off_start": 74,
+                    "off_end": 77,
+                    "next_word": 13,
+                    "sentence_index": 12,
+                    "sentence_index_neg": 13
+                },
+                {
+                    "wf": "еда",
+                    "wtype": "word",
+                    "off_start": 78,
+                    "off_end": 81,
+                    "next_word": 14,
+                    "sentence_index": 13,
+                    "sentence_index_neg": 12
+                },
+                {
+                    "wf": "приготавливается",
+                    "wtype": "word",
+                    "off_start": 82,
+                    "off_end": 98,
+                    "next_word": 15,
+                    "sentence_index": 14,
+                    "sentence_index_neg": 11
+                },
+                {
+                    "wf": "обично",
+                    "wtype": "word",
+                    "off_start": 99,
+                    "off_end": 105,
+                    "next_word": 16,
+                    "sentence_index": 15,
+                    "sentence_index_neg": 10
+                },
+                {
+                    "wf": "для",
+                    "wtype": "word",
+                    "off_start": 106,
+                    "off_end": 109,
+                    "next_word": 17,
+                    "sentence_index": 16,
+                    "sentence_index_neg": 9
+                },
+                {
+                    "wf": "рожениц),",
+                    "wtype": "word",
+                    "off_start": 110,
+                    "off_end": 119,
+                    "next_word": 18,
+                    "sentence_index": 17,
+                    "sentence_index_neg": 8
+                },
+                {
+                    "wf": "сверху",
+                    "wtype": "word",
+                    "off_start": 120,
+                    "off_end": 126,
+                    "next_word": 19,
+                    "sentence_index": 18,
+                    "sentence_index_neg": 7
+                },
+                {
+                    "wf": "налила",
+                    "wtype": "word",
+                    "off_start": 127,
+                    "off_end": 133,
+                    "next_word": 20,
+                    "sentence_index": 19,
+                    "sentence_index_neg": 6
+                },
+                {
+                    "wf": "туда",
+                    "wtype": "word",
+                    "off_start": 134,
+                    "off_end": 138,
+                    "next_word": 21,
+                    "sentence_index": 20,
+                    "sentence_index_neg": 5
+                },
+                {
+                    "wf": "масло",
+                    "wtype": "word",
+                    "off_start": 139,
+                    "off_end": 144,
+                    "next_word": 22,
+                    "sentence_index": 21,
+                    "sentence_index_neg": 4
+                },
+                {
+                    "wf": "и",
+                    "wtype": "word",
+                    "off_start": 145,
+                    "off_end": 146,
+                    "next_word": 23,
+                    "sentence_index": 22,
+                    "sentence_index_neg": 3
+                },
+                {
+                    "wf": "отнесли",
+                    "wtype": "word",
+                    "off_start": 147,
+                    "off_end": 154,
+                    "next_word": 24,
+                    "sentence_index": 23,
+                    "sentence_index_neg": 2
+                },
+                {
+                    "wf": "ей.",
+                    "wtype": "word",
+                    "off_start": 155,
+                    "off_end": 158,
+                    "next_word": 25,
+                    "sentence_index": 24,
+                    "sentence_index_neg": 1
+                }
+            ],
+            "lang": 1,
+            "meta": {
+                "speaker": "A"
+            },
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 69,
+                    "para_id": 6
+                }
+            ]
+        },
+        {
+            "text": "Она съели ту похлёбку и поблагодарила её.",
+            "words": [
+                {
+                    "wf": "Она",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 3,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 7
+                },
+                {
+                    "wf": "съели",
+                    "wtype": "word",
+                    "off_start": 4,
+                    "off_end": 9,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 6
+                },
+                {
+                    "wf": "ту",
+                    "wtype": "word",
+                    "off_start": 10,
+                    "off_end": 12,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 5
+                },
+                {
+                    "wf": "похлёбку",
+                    "wtype": "word",
+                    "off_start": 13,
+                    "off_end": 21,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 4
+                },
+                {
+                    "wf": "и",
+                    "wtype": "word",
+                    "off_start": 22,
+                    "off_end": 23,
+                    "next_word": 5,
+                    "sentence_index": 4,
+                    "sentence_index_neg": 3
+                },
+                {
+                    "wf": "поблагодарила",
+                    "wtype": "word",
+                    "off_start": 24,
+                    "off_end": 37,
+                    "next_word": 6,
+                    "sentence_index": 5,
+                    "sentence_index_neg": 2
+                },
+                {
+                    "wf": "её.",
+                    "wtype": "word",
+                    "off_start": 38,
+                    "off_end": 41,
+                    "next_word": 7,
+                    "sentence_index": 6,
+                    "sentence_index_neg": 1
+                }
+            ],
+            "lang": 1,
+            "meta": {
+                "speaker": "A"
+            },
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 55,
+                    "para_id": 7
+                }
+            ]
+        },
+        {
+            "text": "Та моя бабушка семь дней еще прокормила её и потом отпустила.",
+            "words": [
+                {
+                    "wf": "Та",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 2,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 11
+                },
+                {
+                    "wf": "моя",
+                    "wtype": "word",
+                    "off_start": 3,
+                    "off_end": 6,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 10
+                },
+                {
+                    "wf": "бабушка",
+                    "wtype": "word",
+                    "off_start": 7,
+                    "off_end": 14,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 9
+                },
+                {
+                    "wf": "семь",
+                    "wtype": "word",
+                    "off_start": 15,
+                    "off_end": 19,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 8
+                },
+                {
+                    "wf": "дней",
+                    "wtype": "word",
+                    "off_start": 20,
+                    "off_end": 24,
+                    "next_word": 5,
+                    "sentence_index": 4,
+                    "sentence_index_neg": 7
+                },
+                {
+                    "wf": "еще",
+                    "wtype": "word",
+                    "off_start": 25,
+                    "off_end": 28,
+                    "next_word": 6,
+                    "sentence_index": 5,
+                    "sentence_index_neg": 6
+                },
+                {
+                    "wf": "прокормила",
+                    "wtype": "word",
+                    "off_start": 29,
+                    "off_end": 39,
+                    "next_word": 7,
+                    "sentence_index": 6,
+                    "sentence_index_neg": 5
+                },
+                {
+                    "wf": "её",
+                    "wtype": "word",
+                    "off_start": 40,
+                    "off_end": 42,
+                    "next_word": 8,
+                    "sentence_index": 7,
+                    "sentence_index_neg": 4
+                },
+                {
+                    "wf": "и",
+                    "wtype": "word",
+                    "off_start": 43,
+                    "off_end": 44,
+                    "next_word": 9,
+                    "sentence_index": 8,
+                    "sentence_index_neg": 3
+                },
+                {
+                    "wf": "потом",
+                    "wtype": "word",
+                    "off_start": 45,
+                    "off_end": 50,
+                    "next_word": 10,
+                    "sentence_index": 9,
+                    "sentence_index_neg": 2
+                },
+                {
+                    "wf": "отпустила.",
+                    "wtype": "word",
+                    "off_start": 51,
+                    "off_end": 61,
+                    "next_word": 11,
+                    "sentence_index": 10,
+                    "sentence_index_neg": 1
+                }
+            ],
+            "lang": 1,
+            "meta": {
+                "speaker": "A"
+            },
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 63,
+                    "para_id": 8
+                }
+            ]
+        },
+        {
+            "text": "Та войд перед тем как уйти, сказала: - Когда ваши потомки (девушки-внучки) будут рожать, я не буду их трогать.",
+            "words": [
+                {
+                    "wf": "Та",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 2,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 19
+                },
+                {
+                    "wf": "войд",
+                    "wtype": "word",
+                    "off_start": 3,
+                    "off_end": 7,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 18
+                },
+                {
+                    "wf": "перед",
+                    "wtype": "word",
+                    "off_start": 8,
+                    "off_end": 13,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 17
+                },
+                {
+                    "wf": "тем",
+                    "wtype": "word",
+                    "off_start": 14,
+                    "off_end": 17,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 16
+                },
+                {
+                    "wf": "как",
+                    "wtype": "word",
+                    "off_start": 18,
+                    "off_end": 21,
+                    "next_word": 5,
+                    "sentence_index": 4,
+                    "sentence_index_neg": 15
+                },
+                {
+                    "wf": "уйти,",
+                    "wtype": "word",
+                    "off_start": 22,
+                    "off_end": 27,
+                    "next_word": 6,
+                    "sentence_index": 5,
+                    "sentence_index_neg": 14
+                },
+                {
+                    "wf": "сказала:",
+                    "wtype": "word",
+                    "off_start": 28,
+                    "off_end": 36,
+                    "next_word": 7,
+                    "sentence_index": 6,
+                    "sentence_index_neg": 13
+                },
+                {
+                    "wf": "-",
+                    "wtype": "word",
+                    "off_start": 37,
+                    "off_end": 38,
+                    "next_word": 8,
+                    "sentence_index": 7,
+                    "sentence_index_neg": 12
+                },
+                {
+                    "wf": "Когда",
+                    "wtype": "word",
+                    "off_start": 39,
+                    "off_end": 44,
+                    "next_word": 9,
+                    "sentence_index": 8,
+                    "sentence_index_neg": 11
+                },
+                {
+                    "wf": "ваши",
+                    "wtype": "word",
+                    "off_start": 45,
+                    "off_end": 49,
+                    "next_word": 10,
+                    "sentence_index": 9,
+                    "sentence_index_neg": 10
+                },
+                {
+                    "wf": "потомки",
+                    "wtype": "word",
+                    "off_start": 50,
+                    "off_end": 57,
+                    "next_word": 11,
+                    "sentence_index": 10,
+                    "sentence_index_neg": 9
+                },
+                {
+                    "wf": "(девушки-внучки)",
+                    "wtype": "word",
+                    "off_start": 58,
+                    "off_end": 74,
+                    "next_word": 12,
+                    "sentence_index": 11,
+                    "sentence_index_neg": 8
+                },
+                {
+                    "wf": "будут",
+                    "wtype": "word",
+                    "off_start": 75,
+                    "off_end": 80,
+                    "next_word": 13,
+                    "sentence_index": 12,
+                    "sentence_index_neg": 7
+                },
+                {
+                    "wf": "рожать,",
+                    "wtype": "word",
+                    "off_start": 81,
+                    "off_end": 88,
+                    "next_word": 14,
+                    "sentence_index": 13,
+                    "sentence_index_neg": 6
+                },
+                {
+                    "wf": "я",
+                    "wtype": "word",
+                    "off_start": 89,
+                    "off_end": 90,
+                    "next_word": 15,
+                    "sentence_index": 14,
+                    "sentence_index_neg": 5
+                },
+                {
+                    "wf": "не",
+                    "wtype": "word",
+                    "off_start": 91,
+                    "off_end": 93,
+                    "next_word": 16,
+                    "sentence_index": 15,
+                    "sentence_index_neg": 4
+                },
+                {
+                    "wf": "буду",
+                    "wtype": "word",
+                    "off_start": 94,
+                    "off_end": 98,
+                    "next_word": 17,
+                    "sentence_index": 16,
+                    "sentence_index_neg": 3
+                },
+                {
+                    "wf": "их",
+                    "wtype": "word",
+                    "off_start": 99,
+                    "off_end": 101,
+                    "next_word": 18,
+                    "sentence_index": 17,
+                    "sentence_index_neg": 2
+                },
+                {
+                    "wf": "трогать.",
+                    "wtype": "word",
+                    "off_start": 102,
+                    "off_end": 110,
+                    "next_word": 19,
+                    "sentence_index": 18,
+                    "sentence_index_neg": 1
+                }
+            ],
+            "lang": 1,
+            "meta": {
+                "speaker": "A"
+            },
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 95,
+                    "para_id": 9
+                }
+            ]
+        },
+        {
+            "text": "Но при одном условии, если у вас на отдушине дома будут поставлены шипы и если на пороге будут забить гвоздь (которым подковывают подкову.).",
+            "words": [
+                {
+                    "wf": "Но",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 2,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 23
+                },
+                {
+                    "wf": "при",
+                    "wtype": "word",
+                    "off_start": 3,
+                    "off_end": 6,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 22
+                },
+                {
+                    "wf": "одном",
+                    "wtype": "word",
+                    "off_start": 7,
+                    "off_end": 12,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 21
+                },
+                {
+                    "wf": "условии,",
+                    "wtype": "word",
+                    "off_start": 13,
+                    "off_end": 21,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 20
+                },
+                {
+                    "wf": "если",
+                    "wtype": "word",
+                    "off_start": 22,
+                    "off_end": 26,
+                    "next_word": 5,
+                    "sentence_index": 4,
+                    "sentence_index_neg": 19
+                },
+                {
+                    "wf": "у",
+                    "wtype": "word",
+                    "off_start": 27,
+                    "off_end": 28,
+                    "next_word": 6,
+                    "sentence_index": 5,
+                    "sentence_index_neg": 18
+                },
+                {
+                    "wf": "вас",
+                    "wtype": "word",
+                    "off_start": 29,
+                    "off_end": 32,
+                    "next_word": 7,
+                    "sentence_index": 6,
+                    "sentence_index_neg": 17
+                },
+                {
+                    "wf": "на",
+                    "wtype": "word",
+                    "off_start": 33,
+                    "off_end": 35,
+                    "next_word": 8,
+                    "sentence_index": 7,
+                    "sentence_index_neg": 16
+                },
+                {
+                    "wf": "отдушине",
+                    "wtype": "word",
+                    "off_start": 36,
+                    "off_end": 44,
+                    "next_word": 9,
+                    "sentence_index": 8,
+                    "sentence_index_neg": 15
+                },
+                {
+                    "wf": "дома",
+                    "wtype": "word",
+                    "off_start": 45,
+                    "off_end": 49,
+                    "next_word": 10,
+                    "sentence_index": 9,
+                    "sentence_index_neg": 14
+                },
+                {
+                    "wf": "будут",
+                    "wtype": "word",
+                    "off_start": 50,
+                    "off_end": 55,
+                    "next_word": 11,
+                    "sentence_index": 10,
+                    "sentence_index_neg": 13
+                },
+                {
+                    "wf": "поставлены",
+                    "wtype": "word",
+                    "off_start": 56,
+                    "off_end": 66,
+                    "next_word": 12,
+                    "sentence_index": 11,
+                    "sentence_index_neg": 12
+                },
+                {
+                    "wf": "шипы",
+                    "wtype": "word",
+                    "off_start": 67,
+                    "off_end": 71,
+                    "next_word": 13,
+                    "sentence_index": 12,
+                    "sentence_index_neg": 11
+                },
+                {
+                    "wf": "и",
+                    "wtype": "word",
+                    "off_start": 72,
+                    "off_end": 73,
+                    "next_word": 14,
+                    "sentence_index": 13,
+                    "sentence_index_neg": 10
+                },
+                {
+                    "wf": "если",
+                    "wtype": "word",
+                    "off_start": 74,
+                    "off_end": 78,
+                    "next_word": 15,
+                    "sentence_index": 14,
+                    "sentence_index_neg": 9
+                },
+                {
+                    "wf": "на",
+                    "wtype": "word",
+                    "off_start": 79,
+                    "off_end": 81,
+                    "next_word": 16,
+                    "sentence_index": 15,
+                    "sentence_index_neg": 8
+                },
+                {
+                    "wf": "пороге",
+                    "wtype": "word",
+                    "off_start": 82,
+                    "off_end": 88,
+                    "next_word": 17,
+                    "sentence_index": 16,
+                    "sentence_index_neg": 7
+                },
+                {
+                    "wf": "будут",
+                    "wtype": "word",
+                    "off_start": 89,
+                    "off_end": 94,
+                    "next_word": 18,
+                    "sentence_index": 17,
+                    "sentence_index_neg": 6
+                },
+                {
+                    "wf": "забить",
+                    "wtype": "word",
+                    "off_start": 95,
+                    "off_end": 101,
+                    "next_word": 19,
+                    "sentence_index": 18,
+                    "sentence_index_neg": 5
+                },
+                {
+                    "wf": "гвоздь",
+                    "wtype": "word",
+                    "off_start": 102,
+                    "off_end": 108,
+                    "next_word": 20,
+                    "sentence_index": 19,
+                    "sentence_index_neg": 4
+                },
+                {
+                    "wf": "(которым",
+                    "wtype": "word",
+                    "off_start": 109,
+                    "off_end": 117,
+                    "next_word": 21,
+                    "sentence_index": 20,
+                    "sentence_index_neg": 3
+                },
+                {
+                    "wf": "подковывают",
+                    "wtype": "word",
+                    "off_start": 118,
+                    "off_end": 129,
+                    "next_word": 22,
+                    "sentence_index": 21,
+                    "sentence_index_neg": 2
+                },
+                {
+                    "wf": "подкову.).",
+                    "wtype": "word",
+                    "off_start": 130,
+                    "off_end": 140,
+                    "next_word": 23,
+                    "sentence_index": 22,
+                    "sentence_index_neg": 1
+                }
+            ],
+            "lang": 1,
+            "meta": {
+                "speaker": "A"
+            },
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 69,
+                    "para_id": 10
+                }
+            ]
+        },
+        {
+            "text": "Если будет такая примета, я буду знать, что они являются твоими потомками.",
+            "words": [
+                {
+                    "wf": "Если",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 4,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 12
+                },
+                {
+                    "wf": "будет",
+                    "wtype": "word",
+                    "off_start": 5,
+                    "off_end": 10,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 11
+                },
+                {
+                    "wf": "такая",
+                    "wtype": "word",
+                    "off_start": 11,
+                    "off_end": 16,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 10
+                },
+                {
+                    "wf": "примета,",
+                    "wtype": "word",
+                    "off_start": 17,
+                    "off_end": 25,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 9
+                },
+                {
+                    "wf": "я",
+                    "wtype": "word",
+                    "off_start": 26,
+                    "off_end": 27,
+                    "next_word": 5,
+                    "sentence_index": 4,
+                    "sentence_index_neg": 8
+                },
+                {
+                    "wf": "буду",
+                    "wtype": "word",
+                    "off_start": 28,
+                    "off_end": 32,
+                    "next_word": 6,
+                    "sentence_index": 5,
+                    "sentence_index_neg": 7
+                },
+                {
+                    "wf": "знать,",
+                    "wtype": "word",
+                    "off_start": 33,
+                    "off_end": 39,
+                    "next_word": 7,
+                    "sentence_index": 6,
+                    "sentence_index_neg": 6
+                },
+                {
+                    "wf": "что",
+                    "wtype": "word",
+                    "off_start": 40,
+                    "off_end": 43,
+                    "next_word": 8,
+                    "sentence_index": 7,
+                    "sentence_index_neg": 5
+                },
+                {
+                    "wf": "они",
+                    "wtype": "word",
+                    "off_start": 44,
+                    "off_end": 47,
+                    "next_word": 9,
+                    "sentence_index": 8,
+                    "sentence_index_neg": 4
+                },
+                {
+                    "wf": "являются",
+                    "wtype": "word",
+                    "off_start": 48,
+                    "off_end": 56,
+                    "next_word": 10,
+                    "sentence_index": 9,
+                    "sentence_index_neg": 3
+                },
+                {
+                    "wf": "твоими",
+                    "wtype": "word",
+                    "off_start": 57,
+                    "off_end": 63,
+                    "next_word": 11,
+                    "sentence_index": 10,
+                    "sentence_index_neg": 2
+                },
+                {
+                    "wf": "потомками.",
+                    "wtype": "word",
+                    "off_start": 64,
+                    "off_end": 74,
+                    "next_word": 12,
+                    "sentence_index": 11,
+                    "sentence_index_neg": 1
+                }
+            ],
+            "lang": 1,
+            "meta": {
+                "speaker": "A"
+            },
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 61,
+                    "para_id": 11
+                }
+            ]
+        },
+        {
+            "text": "Вот такие дела тоже бывали в старину.",
+            "words": [
+                {
+                    "wf": "Вот",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 3,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 7
+                },
+                {
+                    "wf": "такие",
+                    "wtype": "word",
+                    "off_start": 4,
+                    "off_end": 9,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 6
+                },
+                {
+                    "wf": "дела",
+                    "wtype": "word",
+                    "off_start": 10,
+                    "off_end": 14,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 5
+                },
+                {
+                    "wf": "тоже",
+                    "wtype": "word",
+                    "off_start": 15,
+                    "off_end": 19,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 4
+                },
+                {
+                    "wf": "бывали",
+                    "wtype": "word",
+                    "off_start": 20,
+                    "off_end": 26,
+                    "next_word": 5,
+                    "sentence_index": 4,
+                    "sentence_index_neg": 3
+                },
+                {
+                    "wf": "в",
+                    "wtype": "word",
+                    "off_start": 27,
+                    "off_end": 28,
+                    "next_word": 6,
+                    "sentence_index": 5,
+                    "sentence_index_neg": 2
+                },
+                {
+                    "wf": "старину.",
+                    "wtype": "word",
+                    "off_start": 29,
+                    "off_end": 37,
+                    "next_word": 7,
+                    "sentence_index": 6,
+                    "sentence_index_neg": 1
+                }
+            ],
+            "lang": 1,
+            "meta": {
+                "speaker": "A"
+            },
+            "para_alignment": [
+                {
+                    "off_start": 0,
+                    "off_end": 43,
+                    "para_id": 12
+                }
+            ]
+        }
+    ]
+}
