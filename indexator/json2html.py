@@ -72,6 +72,7 @@ class JSON2HTML:
         """
         htmlByTier = [[]]
         nTier = 0
+        prevLangID = None
         paraIDsByTier = [set()]
         for s, bLast in self.iterSent.get_sentences(fnameIn):
             if 'lang' in s:
@@ -79,6 +80,14 @@ class JSON2HTML:
             else:
                 langID = 0
                 s['lang'] = langID
+
+            # Detect language change to render parallel sentence.
+            if prevLangID is not None and langID != prevLangID:
+                nTier += 1
+                htmlByTier.append([])
+                paraIDsByTier.append(set())
+            prevLangID = langID
+
             curParaIDs = []
             if 'para_alignment' in s:
                 for para in s['para_alignment']:
