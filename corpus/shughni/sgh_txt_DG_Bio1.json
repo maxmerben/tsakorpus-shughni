@@ -404,24 +404,15 @@
             ]
         },
         {
-            "text": ".... sol ida maktab=ard sut. Yak čor=ām x̌êyd xu, aray sol māšand afcolā navud. Cůnd arīzabozê qati=at, pi yiga tīrdi qišloq=en māšard afcolā maktab ču yet xu...",
+            "text": "…sol ida maktab=ard sut. Yak čor=ām x̌êyd xu, aray sol māšand afcolā navud. Cůnd arīzabozê qati=at, pi yiga tīrdi qišloq=en māšard afcolā maktab ču yet xu...",
             "words": [
                 {
-                    "wf": "....",
-                    "wtype": "punct",
+                    "wf": "…sol",
+                    "wtype": "word",
                     "off_start": 0,
                     "off_end": 4,
                     "next_word": 1,
                     "sentence_index": 0,
-                    "sentence_index_neg": 26
-                },
-                {
-                    "wf": "sol",
-                    "wtype": "word",
-                    "off_start": 5,
-                    "off_end": 8,
-                    "next_word": 2,
-                    "sentence_index": 1,
                     "sentence_index_neg": 25,
                     "ana": [
                         {
@@ -438,10 +429,10 @@
                 {
                     "wf": "ida",
                     "wtype": "word",
-                    "off_start": 9,
-                    "off_end": 12,
-                    "next_word": 3,
-                    "sentence_index": 2,
+                    "off_start": 5,
+                    "off_end": 8,
+                    "next_word": 2,
+                    "sentence_index": 1,
                     "sentence_index_neg": 24,
                     "ana": [
                         {
@@ -458,10 +449,10 @@
                 {
                     "wf": "maktab=ard",
                     "wtype": "word",
-                    "off_start": 13,
-                    "off_end": 23,
-                    "next_word": 4,
-                    "sentence_index": 3,
+                    "off_start": 9,
+                    "off_end": 19,
+                    "next_word": 3,
+                    "sentence_index": 2,
                     "sentence_index_neg": 23,
                     "ana": [
                         {
@@ -479,10 +470,10 @@
                 {
                     "wf": "sut.",
                     "wtype": "word",
-                    "off_start": 24,
-                    "off_end": 28,
-                    "next_word": 5,
-                    "sentence_index": 4,
+                    "off_start": 20,
+                    "off_end": 24,
+                    "next_word": 4,
+                    "sentence_index": 3,
                     "sentence_index_neg": 22,
                     "ana": [
                         {
@@ -500,10 +491,10 @@
                 {
                     "wf": "Yak",
                     "wtype": "word",
-                    "off_start": 29,
-                    "off_end": 32,
-                    "next_word": 6,
-                    "sentence_index": 5,
+                    "off_start": 25,
+                    "off_end": 28,
+                    "next_word": 5,
+                    "sentence_index": 4,
                     "sentence_index_neg": 21,
                     "ana": [
                         {
@@ -520,10 +511,10 @@
                 {
                     "wf": "čor=ām",
                     "wtype": "word",
-                    "off_start": 33,
-                    "off_end": 39,
-                    "next_word": 7,
-                    "sentence_index": 6,
+                    "off_start": 29,
+                    "off_end": 35,
+                    "next_word": 6,
+                    "sentence_index": 5,
                     "sentence_index_neg": 20,
                     "ana": [
                         {
@@ -541,10 +532,10 @@
                 {
                     "wf": "x̌êyd",
                     "wtype": "word",
-                    "off_start": 40,
-                    "off_end": 45,
-                    "next_word": 8,
-                    "sentence_index": 7,
+                    "off_start": 36,
+                    "off_end": 41,
+                    "next_word": 7,
+                    "sentence_index": 6,
                     "sentence_index_neg": 19,
                     "ana": [
                         {
@@ -562,10 +553,10 @@
                 {
                     "wf": "xu,",
                     "wtype": "word",
-                    "off_start": 46,
-                    "off_end": 49,
-                    "next_word": 9,
-                    "sentence_index": 8,
+                    "off_start": 42,
+                    "off_end": 45,
+                    "next_word": 8,
+                    "sentence_index": 7,
                     "sentence_index_neg": 18,
                     "ana": [
                         {
@@ -582,10 +573,10 @@
                 {
                     "wf": "aray",
                     "wtype": "word",
-                    "off_start": 50,
-                    "off_end": 54,
-                    "next_word": 10,
-                    "sentence_index": 9,
+                    "off_start": 46,
+                    "off_end": 50,
+                    "next_word": 9,
+                    "sentence_index": 8,
                     "sentence_index_neg": 17,
                     "ana": [
                         {
@@ -602,10 +593,10 @@
                 {
                     "wf": "sol",
                     "wtype": "word",
-                    "off_start": 55,
-                    "off_end": 58,
-                    "next_word": 11,
-                    "sentence_index": 10,
+                    "off_start": 51,
+                    "off_end": 54,
+                    "next_word": 10,
+                    "sentence_index": 9,
                     "sentence_index_neg": 16,
                     "ana": [
                         {
@@ -622,10 +613,10 @@
                 {
                     "wf": "māšand",
                     "wtype": "word",
-                    "off_start": 59,
-                    "off_end": 65,
-                    "next_word": 12,
-                    "sentence_index": 11,
+                    "off_start": 55,
+                    "off_end": 61,
+                    "next_word": 11,
+                    "sentence_index": 10,
                     "sentence_index_neg": 15,
                     "ana": [
                         {
@@ -643,10 +634,10 @@
                 {
                     "wf": "afcolā",
                     "wtype": "word",
-                    "off_start": 66,
-                    "off_end": 72,
-                    "next_word": 13,
-                    "sentence_index": 12,
+                    "off_start": 62,
+                    "off_end": 68,
+                    "next_word": 12,
+                    "sentence_index": 11,
                     "sentence_index_neg": 14,
                     "ana": [
                         {
@@ -664,10 +655,10 @@
                 {
                     "wf": "navud.",
                     "wtype": "word",
-                    "off_start": 73,
-                    "off_end": 79,
-                    "next_word": 14,
-                    "sentence_index": 13,
+                    "off_start": 69,
+                    "off_end": 75,
+                    "next_word": 13,
+                    "sentence_index": 12,
                     "sentence_index_neg": 13,
                     "ana": [
                         {
@@ -686,10 +677,10 @@
                 {
                     "wf": "Cůnd",
                     "wtype": "word",
-                    "off_start": 80,
-                    "off_end": 84,
-                    "next_word": 15,
-                    "sentence_index": 14,
+                    "off_start": 76,
+                    "off_end": 80,
+                    "next_word": 14,
+                    "sentence_index": 13,
                     "sentence_index_neg": 12,
                     "ana": [
                         {
@@ -706,10 +697,10 @@
                 {
                     "wf": "arīzabozê",
                     "wtype": "word",
-                    "off_start": 85,
-                    "off_end": 94,
-                    "next_word": 16,
-                    "sentence_index": 15,
+                    "off_start": 81,
+                    "off_end": 90,
+                    "next_word": 15,
+                    "sentence_index": 14,
                     "sentence_index_neg": 11,
                     "ana": [
                         {
@@ -726,10 +717,10 @@
                 {
                     "wf": "qati=at,",
                     "wtype": "word",
-                    "off_start": 95,
-                    "off_end": 103,
-                    "next_word": 17,
-                    "sentence_index": 16,
+                    "off_start": 91,
+                    "off_end": 99,
+                    "next_word": 16,
+                    "sentence_index": 15,
                     "sentence_index_neg": 10,
                     "ana": [
                         {
@@ -747,10 +738,10 @@
                 {
                     "wf": "pi",
                     "wtype": "word",
-                    "off_start": 104,
-                    "off_end": 106,
-                    "next_word": 18,
-                    "sentence_index": 17,
+                    "off_start": 100,
+                    "off_end": 102,
+                    "next_word": 17,
+                    "sentence_index": 16,
                     "sentence_index_neg": 9,
                     "ana": [
                         {
@@ -767,10 +758,10 @@
                 {
                     "wf": "yiga",
                     "wtype": "word",
-                    "off_start": 107,
-                    "off_end": 111,
-                    "next_word": 19,
-                    "sentence_index": 18,
+                    "off_start": 103,
+                    "off_end": 107,
+                    "next_word": 18,
+                    "sentence_index": 17,
                     "sentence_index_neg": 8,
                     "ana": [
                         {
@@ -788,10 +779,10 @@
                 {
                     "wf": "tīrdi",
                     "wtype": "word",
-                    "off_start": 112,
-                    "off_end": 117,
-                    "next_word": 20,
-                    "sentence_index": 19,
+                    "off_start": 108,
+                    "off_end": 113,
+                    "next_word": 19,
+                    "sentence_index": 18,
                     "sentence_index_neg": 7,
                     "ana": [
                         {
@@ -809,10 +800,10 @@
                 {
                     "wf": "qišloq=en",
                     "wtype": "word",
-                    "off_start": 118,
-                    "off_end": 127,
-                    "next_word": 21,
-                    "sentence_index": 20,
+                    "off_start": 114,
+                    "off_end": 123,
+                    "next_word": 20,
+                    "sentence_index": 19,
                     "sentence_index_neg": 6,
                     "ana": [
                         {
@@ -830,10 +821,10 @@
                 {
                     "wf": "māšard",
                     "wtype": "word",
-                    "off_start": 128,
-                    "off_end": 134,
-                    "next_word": 22,
-                    "sentence_index": 21,
+                    "off_start": 124,
+                    "off_end": 130,
+                    "next_word": 21,
+                    "sentence_index": 20,
                     "sentence_index_neg": 5,
                     "ana": [
                         {
@@ -851,10 +842,10 @@
                 {
                     "wf": "afcolā",
                     "wtype": "word",
-                    "off_start": 135,
-                    "off_end": 141,
-                    "next_word": 23,
-                    "sentence_index": 22,
+                    "off_start": 131,
+                    "off_end": 137,
+                    "next_word": 22,
+                    "sentence_index": 21,
                     "sentence_index_neg": 4,
                     "ana": [
                         {
@@ -873,10 +864,10 @@
                 {
                     "wf": "maktab",
                     "wtype": "word",
-                    "off_start": 142,
-                    "off_end": 148,
-                    "next_word": 24,
-                    "sentence_index": 23,
+                    "off_start": 138,
+                    "off_end": 144,
+                    "next_word": 23,
+                    "sentence_index": 22,
                     "sentence_index_neg": 3,
                     "ana": [
                         {
@@ -893,10 +884,10 @@
                 {
                     "wf": "ču=yet",
                     "wtype": "word",
-                    "off_start": 149,
-                    "off_end": 155,
-                    "next_word": 25,
-                    "sentence_index": 24,
+                    "off_start": 145,
+                    "off_end": 151,
+                    "next_word": 24,
+                    "sentence_index": 23,
                     "sentence_index_neg": 2,
                     "ana": [
                         {
@@ -914,10 +905,10 @@
                 {
                     "wf": "xu...",
                     "wtype": "word",
-                    "off_start": 156,
-                    "off_end": 161,
-                    "next_word": 26,
-                    "sentence_index": 25,
+                    "off_start": 152,
+                    "off_end": 157,
+                    "next_word": 25,
+                    "sentence_index": 24,
                     "sentence_index_neg": 1,
                     "ana": [
                         {
@@ -939,7 +930,7 @@
             "para_alignment": [
                 {
                     "off_start": 0,
-                    "off_end": 161,
+                    "off_end": 157,
                     "para_id": 2
                 }
             ],
@@ -948,7 +939,7 @@
                     "off_start_src": 20.672,
                     "off_end_src": 41.537,
                     "off_start_sent": 0,
-                    "off_end_sent": 161,
+                    "off_end_sent": 157,
                     "mtype": "audio",
                     "src_id": "20672.0_41537.0",
                     "src": "sgh_txt_DG_Bio1.wav"
@@ -4780,13 +4771,13 @@
             ]
         },
         {
-            "text": "...года пошёл в школу. В 1-4ом классе учились, и 3 года у нас не было 7-летней школы. Со сколькими заявлениями, в другом кишлаке вот выше, нам открыли 7летнюю школу и...",
+            "text": "…года пошёл в школу. В 1-4ом классе учились, и 3 года у нас не было 7-летней школы. Со сколькими заявлениями, в другом кишлаке вот выше, нам открыли 7летнюю школу и...",
             "words": [
                 {
-                    "wf": "...года",
+                    "wf": "…года",
                     "wtype": "word",
                     "off_start": 0,
-                    "off_end": 7,
+                    "off_end": 5,
                     "next_word": 1,
                     "sentence_index": 0,
                     "sentence_index_neg": 30
@@ -4794,8 +4785,8 @@
                 {
                     "wf": "пошёл",
                     "wtype": "word",
-                    "off_start": 8,
-                    "off_end": 13,
+                    "off_start": 6,
+                    "off_end": 11,
                     "next_word": 2,
                     "sentence_index": 1,
                     "sentence_index_neg": 29
@@ -4803,8 +4794,8 @@
                 {
                     "wf": "в",
                     "wtype": "word",
-                    "off_start": 14,
-                    "off_end": 15,
+                    "off_start": 12,
+                    "off_end": 13,
                     "next_word": 3,
                     "sentence_index": 2,
                     "sentence_index_neg": 28
@@ -4812,8 +4803,8 @@
                 {
                     "wf": "школу.",
                     "wtype": "word",
-                    "off_start": 16,
-                    "off_end": 22,
+                    "off_start": 14,
+                    "off_end": 20,
                     "next_word": 4,
                     "sentence_index": 3,
                     "sentence_index_neg": 27
@@ -4821,8 +4812,8 @@
                 {
                     "wf": "В",
                     "wtype": "word",
-                    "off_start": 23,
-                    "off_end": 24,
+                    "off_start": 21,
+                    "off_end": 22,
                     "next_word": 5,
                     "sentence_index": 4,
                     "sentence_index_neg": 26
@@ -4830,8 +4821,8 @@
                 {
                     "wf": "1-4ом",
                     "wtype": "word",
-                    "off_start": 25,
-                    "off_end": 30,
+                    "off_start": 23,
+                    "off_end": 28,
                     "next_word": 6,
                     "sentence_index": 5,
                     "sentence_index_neg": 25
@@ -4839,8 +4830,8 @@
                 {
                     "wf": "классе",
                     "wtype": "word",
-                    "off_start": 31,
-                    "off_end": 37,
+                    "off_start": 29,
+                    "off_end": 35,
                     "next_word": 7,
                     "sentence_index": 6,
                     "sentence_index_neg": 24
@@ -4848,8 +4839,8 @@
                 {
                     "wf": "учились,",
                     "wtype": "word",
-                    "off_start": 38,
-                    "off_end": 46,
+                    "off_start": 36,
+                    "off_end": 44,
                     "next_word": 8,
                     "sentence_index": 7,
                     "sentence_index_neg": 23
@@ -4857,8 +4848,8 @@
                 {
                     "wf": "и",
                     "wtype": "word",
-                    "off_start": 47,
-                    "off_end": 48,
+                    "off_start": 45,
+                    "off_end": 46,
                     "next_word": 9,
                     "sentence_index": 8,
                     "sentence_index_neg": 22
@@ -4866,8 +4857,8 @@
                 {
                     "wf": "3",
                     "wtype": "word",
-                    "off_start": 49,
-                    "off_end": 50,
+                    "off_start": 47,
+                    "off_end": 48,
                     "next_word": 10,
                     "sentence_index": 9,
                     "sentence_index_neg": 21
@@ -4875,8 +4866,8 @@
                 {
                     "wf": "года",
                     "wtype": "word",
-                    "off_start": 51,
-                    "off_end": 55,
+                    "off_start": 49,
+                    "off_end": 53,
                     "next_word": 11,
                     "sentence_index": 10,
                     "sentence_index_neg": 20
@@ -4884,8 +4875,8 @@
                 {
                     "wf": "у",
                     "wtype": "word",
-                    "off_start": 56,
-                    "off_end": 57,
+                    "off_start": 54,
+                    "off_end": 55,
                     "next_word": 12,
                     "sentence_index": 11,
                     "sentence_index_neg": 19
@@ -4893,8 +4884,8 @@
                 {
                     "wf": "нас",
                     "wtype": "word",
-                    "off_start": 58,
-                    "off_end": 61,
+                    "off_start": 56,
+                    "off_end": 59,
                     "next_word": 13,
                     "sentence_index": 12,
                     "sentence_index_neg": 18
@@ -4902,8 +4893,8 @@
                 {
                     "wf": "не",
                     "wtype": "word",
-                    "off_start": 62,
-                    "off_end": 64,
+                    "off_start": 60,
+                    "off_end": 62,
                     "next_word": 14,
                     "sentence_index": 13,
                     "sentence_index_neg": 17
@@ -4911,8 +4902,8 @@
                 {
                     "wf": "было",
                     "wtype": "word",
-                    "off_start": 65,
-                    "off_end": 69,
+                    "off_start": 63,
+                    "off_end": 67,
                     "next_word": 15,
                     "sentence_index": 14,
                     "sentence_index_neg": 16
@@ -4920,8 +4911,8 @@
                 {
                     "wf": "7-летней",
                     "wtype": "word",
-                    "off_start": 70,
-                    "off_end": 78,
+                    "off_start": 68,
+                    "off_end": 76,
                     "next_word": 16,
                     "sentence_index": 15,
                     "sentence_index_neg": 15
@@ -4929,8 +4920,8 @@
                 {
                     "wf": "школы.",
                     "wtype": "word",
-                    "off_start": 79,
-                    "off_end": 85,
+                    "off_start": 77,
+                    "off_end": 83,
                     "next_word": 17,
                     "sentence_index": 16,
                     "sentence_index_neg": 14
@@ -4938,8 +4929,8 @@
                 {
                     "wf": "Со",
                     "wtype": "word",
-                    "off_start": 86,
-                    "off_end": 88,
+                    "off_start": 84,
+                    "off_end": 86,
                     "next_word": 18,
                     "sentence_index": 17,
                     "sentence_index_neg": 13
@@ -4947,8 +4938,8 @@
                 {
                     "wf": "сколькими",
                     "wtype": "word",
-                    "off_start": 89,
-                    "off_end": 98,
+                    "off_start": 87,
+                    "off_end": 96,
                     "next_word": 19,
                     "sentence_index": 18,
                     "sentence_index_neg": 12
@@ -4956,8 +4947,8 @@
                 {
                     "wf": "заявлениями,",
                     "wtype": "word",
-                    "off_start": 99,
-                    "off_end": 111,
+                    "off_start": 97,
+                    "off_end": 109,
                     "next_word": 20,
                     "sentence_index": 19,
                     "sentence_index_neg": 11
@@ -4965,8 +4956,8 @@
                 {
                     "wf": "в",
                     "wtype": "word",
-                    "off_start": 112,
-                    "off_end": 113,
+                    "off_start": 110,
+                    "off_end": 111,
                     "next_word": 21,
                     "sentence_index": 20,
                     "sentence_index_neg": 10
@@ -4974,8 +4965,8 @@
                 {
                     "wf": "другом",
                     "wtype": "word",
-                    "off_start": 114,
-                    "off_end": 120,
+                    "off_start": 112,
+                    "off_end": 118,
                     "next_word": 22,
                     "sentence_index": 21,
                     "sentence_index_neg": 9
@@ -4983,8 +4974,8 @@
                 {
                     "wf": "кишлаке",
                     "wtype": "word",
-                    "off_start": 121,
-                    "off_end": 128,
+                    "off_start": 119,
+                    "off_end": 126,
                     "next_word": 23,
                     "sentence_index": 22,
                     "sentence_index_neg": 8
@@ -4992,8 +4983,8 @@
                 {
                     "wf": "вот",
                     "wtype": "word",
-                    "off_start": 129,
-                    "off_end": 132,
+                    "off_start": 127,
+                    "off_end": 130,
                     "next_word": 24,
                     "sentence_index": 23,
                     "sentence_index_neg": 7
@@ -5001,8 +4992,8 @@
                 {
                     "wf": "выше,",
                     "wtype": "word",
-                    "off_start": 133,
-                    "off_end": 138,
+                    "off_start": 131,
+                    "off_end": 136,
                     "next_word": 25,
                     "sentence_index": 24,
                     "sentence_index_neg": 6
@@ -5010,8 +5001,8 @@
                 {
                     "wf": "нам",
                     "wtype": "word",
-                    "off_start": 139,
-                    "off_end": 142,
+                    "off_start": 137,
+                    "off_end": 140,
                     "next_word": 26,
                     "sentence_index": 25,
                     "sentence_index_neg": 5
@@ -5019,8 +5010,8 @@
                 {
                     "wf": "открыли",
                     "wtype": "word",
-                    "off_start": 143,
-                    "off_end": 150,
+                    "off_start": 141,
+                    "off_end": 148,
                     "next_word": 27,
                     "sentence_index": 26,
                     "sentence_index_neg": 4
@@ -5028,8 +5019,8 @@
                 {
                     "wf": "7летнюю",
                     "wtype": "word",
-                    "off_start": 151,
-                    "off_end": 158,
+                    "off_start": 149,
+                    "off_end": 156,
                     "next_word": 28,
                     "sentence_index": 27,
                     "sentence_index_neg": 3
@@ -5037,8 +5028,8 @@
                 {
                     "wf": "школу",
                     "wtype": "word",
-                    "off_start": 159,
-                    "off_end": 164,
+                    "off_start": 157,
+                    "off_end": 162,
                     "next_word": 29,
                     "sentence_index": 28,
                     "sentence_index_neg": 2
@@ -5046,8 +5037,8 @@
                 {
                     "wf": "и...",
                     "wtype": "word",
-                    "off_start": 165,
-                    "off_end": 169,
+                    "off_start": 163,
+                    "off_end": 167,
                     "next_word": 30,
                     "sentence_index": 29,
                     "sentence_index_neg": 1
@@ -5060,7 +5051,7 @@
             "para_alignment": [
                 {
                     "off_start": 0,
-                    "off_end": 161,
+                    "off_end": 157,
                     "para_id": 2
                 }
             ],
@@ -5069,7 +5060,7 @@
                     "off_start_src": 20.672,
                     "off_end_src": 41.537,
                     "off_start_sent": 0,
-                    "off_end_sent": 161,
+                    "off_end_sent": 157,
                     "mtype": "audio",
                     "src_id": "20672.0_41537.0",
                     "src": "sgh_txt_DG_Bio1.wav"

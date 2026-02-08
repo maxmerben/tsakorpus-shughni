@@ -17,6 +17,7 @@
         "translated by": "AN99",
         "glossed by": "Maksim Melenchenko",
         "comment": "студентам, потом Максиму",
+        "public comment": "AN04 retells the plot of the Pear Film as he heard it from A99’s secondhand retelling",
         "speakers": [
             "A"
         ],
@@ -6043,7 +6044,7 @@
                 },
                 {
                     "wf": "—",
-                    "wtype": "word",
+                    "wtype": "punct",
                     "off_start": 65,
                     "off_end": 66,
                     "next_word": 11,

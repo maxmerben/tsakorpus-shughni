@@ -1,3 +1,0 @@
-normal	normale
-strict	e përpiktë
-simplified	e thjeshtuar

@@ -206,16 +206,16 @@ msgid "Word:"
 msgstr "Слово:"
 
 #: templates/index/query_area.html:21
-msgid "Morpheme:"
-msgstr "Морфема:"
+msgid "Lemma:"
+msgstr "Лемма:"
 
 #: templates/index/query_area.html:22
 msgid "Grammar:"
-msgstr "Грамматика:"
+msgstr "Тэг:"
 
 #: templates/index/query_area.html:26
 msgid "Gloss:"
-msgstr "Глоссы:"
+msgstr "Глосса:"
 
 #: templates/index/query_area.html:31
 #: templates/modals/subcorpus_selection.html:56

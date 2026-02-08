@@ -1,8 +1,0 @@
-IPA	API
-UPA	APO
-corpus	corpus
-cyrillic	cyrillique
-dictionary	dictionnaire
-latin	latine
-original	originale
-

@@ -58792,7 +58792,7 @@
                 },
                 {
                     "wf": "—",
-                    "wtype": "word",
+                    "wtype": "punct",
                     "off_start": 105,
                     "off_end": 106,
                     "next_word": 19,
@@ -61472,7 +61472,7 @@
                 },
                 {
                     "wf": "—",
-                    "wtype": "word",
+                    "wtype": "punct",
                     "off_start": 92,
                     "off_end": 93,
                     "next_word": 17,
@@ -62326,7 +62326,7 @@
                 },
                 {
                     "wf": "—",
-                    "wtype": "word",
+                    "wtype": "punct",
                     "off_start": 137,
                     "off_end": 138,
                     "next_word": 25,
@@ -66477,7 +66477,7 @@
                 },
                 {
                     "wf": "—",
-                    "wtype": "word",
+                    "wtype": "punct",
                     "off_start": 29,
                     "off_end": 30,
                     "next_word": 7,
@@ -69376,7 +69376,7 @@
                 },
                 {
                     "wf": "—",
-                    "wtype": "word",
+                    "wtype": "punct",
                     "off_start": 66,
                     "off_end": 67,
                     "next_word": 12,
@@ -73732,7 +73732,7 @@
                 },
                 {
                     "wf": "—",
-                    "wtype": "word",
+                    "wtype": "punct",
                     "off_start": 120,
                     "off_end": 121,
                     "next_word": 22,
@@ -75483,7 +75483,7 @@
                 },
                 {
                     "wf": "—",
-                    "wtype": "word",
+                    "wtype": "punct",
                     "off_start": 171,
                     "off_end": 172,
                     "next_word": 29,

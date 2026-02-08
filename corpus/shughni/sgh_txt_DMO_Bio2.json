@@ -2842,7 +2842,7 @@
             ]
         },
         {
-            "text": "25.1",
+            "text": "tar di qišloq as di taraf Widoǰ lůvām.",
             "words": [
                 {
                     "wf": "tar",
@@ -2965,10 +2965,10 @@
                     ]
                 },
                 {
-                    "wf": "Weidoǰ",
+                    "wf": "Widoǰ",
                     "wtype": "word",
                     "off_start": 26,
-                    "off_end": 33,
+                    "off_end": 32,
                     "next_word": 7,
                     "sentence_index": 6,
                     "sentence_index_neg": 2,
@@ -2977,18 +2977,18 @@
                             "gr.pos": [
                                 "NPROP"
                             ],
-                            "parts": "Weidoǰ",
-                            "gloss": "Weidoǰ",
-                            "lex": "Weidoǰ",
-                            "gloss_index": "Weidoǰ{Weidoǰ}-"
+                            "parts": "Widoǰ",
+                            "gloss": "Widoj",
+                            "lex": "Widoǰ",
+                            "gloss_index": "Widoj{Widoǰ}-"
                         }
                     ]
                 },
                 {
-                    "wf": "lův-ām.",
+                    "wf": "lůvām.",
                     "wtype": "word",
-                    "off_start": 34,
-                    "off_end": 41,
+                    "off_start": 33,
+                    "off_end": 39,
                     "next_word": 8,
                     "sentence_index": 7,
                     "sentence_index_neg": 1,
@@ -2996,12 +2996,12 @@
                         {
                             "gr.pos": [
                                 "V",
-                                "CL.AGR"
+                                "V.AGR"
                             ],
-                            "parts": "lův=ām",
-                            "gloss": "say=1PL",
+                            "parts": "lův-ām",
+                            "gloss": "say-PRS.1PL",
                             "lex": "lův",
-                            "gloss_index": "say{lův}-1PL{=ām}-"
+                            "gloss_index": "say{lův}-PRS.1PL{-ām}-"
                         }
                     ]
                 }
@@ -3013,18 +3013,18 @@
             "para_alignment": [
                 {
                     "off_start": 0,
-                    "off_end": 41,
+                    "off_end": 39,
                     "para_id": 25
                 }
             ],
             "src_alignment": [
                 {
-                    "off_start_src": 63.55,
-                    "off_end_src": 63.6,
+                    "off_start_src": 64.15,
+                    "off_end_src": 67.455,
                     "off_start_sent": 0,
-                    "off_end_sent": 41,
+                    "off_end_sent": 39,
                     "mtype": "audio",
-                    "src_id": "63550.0_63600.0",
+                    "src_id": "64150.0_67455.0",
                     "src": "sgh_txt_DMO_Bio2.wav"
                 }
             ]
@@ -3067,12 +3067,12 @@
             ],
             "src_alignment": [
                 {
-                    "off_start_src": 64.353,
+                    "off_start_src": 67.479,
                     "off_end_src": 68.071,
                     "off_start_sent": 0,
                     "off_end_sent": 5,
                     "mtype": "audio",
-                    "src_id": "64353.0_68071.0",
+                    "src_id": "67479.0_68071.0",
                     "src": "sgh_txt_DMO_Bio2.wav"
                 }
             ]
@@ -8860,33 +8860,24 @@
             ]
         },
         {
-            "text": " | Потом, родной",
+            "text": "Потом, родной",
             "words": [
-                {
-                    "wf": "|",
-                    "wtype": "word",
-                    "off_start": 0,
-                    "off_end": 1,
-                    "next_word": 1,
-                    "sentence_index": 0,
-                    "sentence_index_neg": 3
-                },
                 {
                     "wf": "Потом,",
                     "wtype": "word",
-                    "off_start": 2,
-                    "off_end": 8,
-                    "next_word": 2,
-                    "sentence_index": 1,
+                    "off_start": 0,
+                    "off_end": 6,
+                    "next_word": 1,
+                    "sentence_index": 0,
                     "sentence_index_neg": 2
                 },
                 {
                     "wf": "родной",
                     "wtype": "word",
-                    "off_start": 9,
-                    "off_end": 15,
-                    "next_word": 3,
-                    "sentence_index": 2,
+                    "off_start": 7,
+                    "off_end": 13,
+                    "next_word": 2,
+                    "sentence_index": 1,
                     "sentence_index_neg": 1
                 }
             ],
@@ -8914,60 +8905,51 @@
             ]
         },
         {
-            "text": " | мой дед же был Довлатшо.",
+            "text": "мой дед же был Довлатшо.",
             "words": [
-                {
-                    "wf": "|",
-                    "wtype": "word",
-                    "off_start": 0,
-                    "off_end": 1,
-                    "next_word": 1,
-                    "sentence_index": 0,
-                    "sentence_index_neg": 6
-                },
                 {
                     "wf": "мой",
                     "wtype": "word",
-                    "off_start": 2,
-                    "off_end": 5,
-                    "next_word": 2,
-                    "sentence_index": 1,
+                    "off_start": 0,
+                    "off_end": 3,
+                    "next_word": 1,
+                    "sentence_index": 0,
                     "sentence_index_neg": 5
                 },
                 {
                     "wf": "дед",
                     "wtype": "word",
-                    "off_start": 6,
-                    "off_end": 9,
-                    "next_word": 3,
-                    "sentence_index": 2,
+                    "off_start": 4,
+                    "off_end": 7,
+                    "next_word": 2,
+                    "sentence_index": 1,
                     "sentence_index_neg": 4
                 },
                 {
                     "wf": "же",
                     "wtype": "word",
-                    "off_start": 10,
-                    "off_end": 12,
-                    "next_word": 4,
-                    "sentence_index": 3,
+                    "off_start": 8,
+                    "off_end": 10,
+                    "next_word": 3,
+                    "sentence_index": 2,
                     "sentence_index_neg": 3
                 },
                 {
                     "wf": "был",
                     "wtype": "word",
-                    "off_start": 13,
-                    "off_end": 16,
-                    "next_word": 5,
-                    "sentence_index": 4,
+                    "off_start": 11,
+                    "off_end": 14,
+                    "next_word": 4,
+                    "sentence_index": 3,
                     "sentence_index_neg": 2
                 },
                 {
                     "wf": "Довлатшо.",
                     "wtype": "word",
-                    "off_start": 17,
-                    "off_end": 26,
-                    "next_word": 6,
-                    "sentence_index": 5,
+                    "off_start": 15,
+                    "off_end": 24,
+                    "next_word": 5,
+                    "sentence_index": 4,
                     "sentence_index_neg": 1
                 }
             ],
@@ -8995,51 +8977,42 @@
             ]
         },
         {
-            "text": " | Его отец был Муменшо.",
+            "text": "Его отец был Муменшо.",
             "words": [
-                {
-                    "wf": "|",
-                    "wtype": "word",
-                    "off_start": 0,
-                    "off_end": 1,
-                    "next_word": 1,
-                    "sentence_index": 0,
-                    "sentence_index_neg": 5
-                },
                 {
                     "wf": "Его",
                     "wtype": "word",
-                    "off_start": 2,
-                    "off_end": 5,
-                    "next_word": 2,
-                    "sentence_index": 1,
+                    "off_start": 0,
+                    "off_end": 3,
+                    "next_word": 1,
+                    "sentence_index": 0,
                     "sentence_index_neg": 4
                 },
                 {
                     "wf": "отец",
                     "wtype": "word",
-                    "off_start": 6,
-                    "off_end": 10,
-                    "next_word": 3,
-                    "sentence_index": 2,
+                    "off_start": 4,
+                    "off_end": 8,
+                    "next_word": 2,
+                    "sentence_index": 1,
                     "sentence_index_neg": 3
                 },
                 {
                     "wf": "был",
                     "wtype": "word",
-                    "off_start": 11,
-                    "off_end": 14,
-                    "next_word": 4,
-                    "sentence_index": 3,
+                    "off_start": 9,
+                    "off_end": 12,
+                    "next_word": 3,
+                    "sentence_index": 2,
                     "sentence_index_neg": 2
                 },
                 {
                     "wf": "Муменшо.",
                     "wtype": "word",
-                    "off_start": 15,
-                    "off_end": 23,
-                    "next_word": 5,
-                    "sentence_index": 4,
+                    "off_start": 13,
+                    "off_end": 21,
+                    "next_word": 4,
+                    "sentence_index": 3,
                     "sentence_index_neg": 1
                 }
             ],
@@ -9112,33 +9085,24 @@
             ]
         },
         {
-            "text": " | Коздекон был.",
+            "text": "Коздекон был.",
             "words": [
-                {
-                    "wf": "|",
-                    "wtype": "word",
-                    "off_start": 0,
-                    "off_end": 1,
-                    "next_word": 1,
-                    "sentence_index": 0,
-                    "sentence_index_neg": 3
-                },
                 {
                     "wf": "Коздекон",
                     "wtype": "word",
-                    "off_start": 2,
-                    "off_end": 10,
-                    "next_word": 2,
-                    "sentence_index": 1,
+                    "off_start": 0,
+                    "off_end": 8,
+                    "next_word": 1,
+                    "sentence_index": 0,
                     "sentence_index_neg": 2
                 },
                 {
                     "wf": "был.",
                     "wtype": "word",
-                    "off_start": 11,
-                    "off_end": 15,
-                    "next_word": 3,
-                    "sentence_index": 2,
+                    "off_start": 9,
+                    "off_end": 13,
+                    "next_word": 2,
+                    "sentence_index": 1,
                     "sentence_index_neg": 1
                 }
             ],
@@ -9166,69 +9130,60 @@
             ]
         },
         {
-            "text": " | Вот своих троих дедов я знаю.",
+            "text": "Вот своих троих дедов я знаю.",
             "words": [
-                {
-                    "wf": "|",
-                    "wtype": "word",
-                    "off_start": 0,
-                    "off_end": 1,
-                    "next_word": 1,
-                    "sentence_index": 0,
-                    "sentence_index_neg": 7
-                },
                 {
                     "wf": "Вот",
                     "wtype": "word",
-                    "off_start": 2,
-                    "off_end": 5,
-                    "next_word": 2,
-                    "sentence_index": 1,
+                    "off_start": 0,
+                    "off_end": 3,
+                    "next_word": 1,
+                    "sentence_index": 0,
                     "sentence_index_neg": 6
                 },
                 {
                     "wf": "своих",
                     "wtype": "word",
-                    "off_start": 6,
-                    "off_end": 11,
-                    "next_word": 3,
-                    "sentence_index": 2,
+                    "off_start": 4,
+                    "off_end": 9,
+                    "next_word": 2,
+                    "sentence_index": 1,
                     "sentence_index_neg": 5
                 },
                 {
                     "wf": "троих",
                     "wtype": "word",
-                    "off_start": 12,
-                    "off_end": 17,
-                    "next_word": 4,
-                    "sentence_index": 3,
+                    "off_start": 10,
+                    "off_end": 15,
+                    "next_word": 3,
+                    "sentence_index": 2,
                     "sentence_index_neg": 4
                 },
                 {
                     "wf": "дедов",
                     "wtype": "word",
-                    "off_start": 18,
-                    "off_end": 23,
-                    "next_word": 5,
-                    "sentence_index": 4,
+                    "off_start": 16,
+                    "off_end": 21,
+                    "next_word": 4,
+                    "sentence_index": 3,
                     "sentence_index_neg": 3
                 },
                 {
                     "wf": "я",
                     "wtype": "word",
-                    "off_start": 24,
-                    "off_end": 25,
-                    "next_word": 6,
-                    "sentence_index": 5,
+                    "off_start": 22,
+                    "off_end": 23,
+                    "next_word": 5,
+                    "sentence_index": 4,
                     "sentence_index_neg": 2
                 },
                 {
                     "wf": "знаю.",
                     "wtype": "word",
-                    "off_start": 26,
-                    "off_end": 31,
-                    "next_word": 7,
-                    "sentence_index": 6,
+                    "off_start": 24,
+                    "off_end": 29,
+                    "next_word": 6,
+                    "sentence_index": 5,
                     "sentence_index_neg": 1
                 }
             ],
@@ -9256,78 +9211,69 @@
             ]
         },
         {
-            "text": " | [обращение], я родился здесь, в этом кишлаке,",
+            "text": "[обращение], я родился здесь, в этом кишлаке,",
             "words": [
-                {
-                    "wf": "|",
-                    "wtype": "word",
-                    "off_start": 0,
-                    "off_end": 1,
-                    "next_word": 1,
-                    "sentence_index": 0,
-                    "sentence_index_neg": 8
-                },
                 {
                     "wf": "[обращение],",
                     "wtype": "word",
-                    "off_start": 2,
-                    "off_end": 14,
-                    "next_word": 2,
-                    "sentence_index": 1,
+                    "off_start": 0,
+                    "off_end": 12,
+                    "next_word": 1,
+                    "sentence_index": 0,
                     "sentence_index_neg": 7
                 },
                 {
                     "wf": "я",
                     "wtype": "word",
-                    "off_start": 15,
-                    "off_end": 16,
-                    "next_word": 3,
-                    "sentence_index": 2,
+                    "off_start": 13,
+                    "off_end": 14,
+                    "next_word": 2,
+                    "sentence_index": 1,
                     "sentence_index_neg": 6
                 },
                 {
                     "wf": "родился",
                     "wtype": "word",
-                    "off_start": 17,
-                    "off_end": 24,
-                    "next_word": 4,
-                    "sentence_index": 3,
+                    "off_start": 15,
+                    "off_end": 22,
+                    "next_word": 3,
+                    "sentence_index": 2,
                     "sentence_index_neg": 5
                 },
                 {
                     "wf": "здесь,",
                     "wtype": "word",
-                    "off_start": 25,
-                    "off_end": 31,
-                    "next_word": 5,
-                    "sentence_index": 4,
+                    "off_start": 23,
+                    "off_end": 29,
+                    "next_word": 4,
+                    "sentence_index": 3,
                     "sentence_index_neg": 4
                 },
                 {
                     "wf": "в",
                     "wtype": "word",
-                    "off_start": 32,
-                    "off_end": 33,
-                    "next_word": 6,
-                    "sentence_index": 5,
+                    "off_start": 30,
+                    "off_end": 31,
+                    "next_word": 5,
+                    "sentence_index": 4,
                     "sentence_index_neg": 3
                 },
                 {
                     "wf": "этом",
                     "wtype": "word",
-                    "off_start": 34,
-                    "off_end": 38,
-                    "next_word": 7,
-                    "sentence_index": 6,
+                    "off_start": 32,
+                    "off_end": 36,
+                    "next_word": 6,
+                    "sentence_index": 5,
                     "sentence_index_neg": 2
                 },
                 {
                     "wf": "кишлаке,",
                     "wtype": "word",
-                    "off_start": 39,
-                    "off_end": 47,
-                    "next_word": 8,
-                    "sentence_index": 7,
+                    "off_start": 37,
+                    "off_end": 45,
+                    "next_word": 7,
+                    "sentence_index": 6,
                     "sentence_index_neg": 1
                 }
             ],
@@ -9355,33 +9301,24 @@
             ]
         },
         {
-            "text": " | называется Дашт.",
+            "text": "называется Дашт.",
             "words": [
-                {
-                    "wf": "|",
-                    "wtype": "word",
-                    "off_start": 0,
-                    "off_end": 1,
-                    "next_word": 1,
-                    "sentence_index": 0,
-                    "sentence_index_neg": 3
-                },
                 {
                     "wf": "называется",
                     "wtype": "word",
-                    "off_start": 2,
-                    "off_end": 12,
-                    "next_word": 2,
-                    "sentence_index": 1,
+                    "off_start": 0,
+                    "off_end": 10,
+                    "next_word": 1,
+                    "sentence_index": 0,
                     "sentence_index_neg": 2
                 },
                 {
                     "wf": "Дашт.",
                     "wtype": "word",
-                    "off_start": 13,
-                    "off_end": 18,
-                    "next_word": 3,
-                    "sentence_index": 2,
+                    "off_start": 11,
+                    "off_end": 16,
+                    "next_word": 2,
+                    "sentence_index": 1,
                     "sentence_index_neg": 1
                 }
             ],
@@ -9409,24 +9346,15 @@
             ]
         },
         {
-            "text": " | Дашт",
+            "text": "Дашт",
             "words": [
-                {
-                    "wf": "|",
-                    "wtype": "word",
-                    "off_start": 0,
-                    "off_end": 1,
-                    "next_word": 1,
-                    "sentence_index": 0,
-                    "sentence_index_neg": 2
-                },
                 {
                     "wf": "Дашт",
                     "wtype": "word",
-                    "off_start": 2,
-                    "off_end": 6,
-                    "next_word": 2,
-                    "sentence_index": 1,
+                    "off_start": 0,
+                    "off_end": 4,
+                    "next_word": 1,
+                    "sentence_index": 0,
                     "sentence_index_neg": 1
                 }
             ],
@@ -9454,114 +9382,105 @@
             ]
         },
         {
-            "text": " | То есть, большое и широкое место было дальше, чем он находится.",
+            "text": "То есть, большое и широкое место было дальше, чем он находится.",
             "words": [
-                {
-                    "wf": "|",
-                    "wtype": "word",
-                    "off_start": 0,
-                    "off_end": 1,
-                    "next_word": 1,
-                    "sentence_index": 0,
-                    "sentence_index_neg": 12
-                },
                 {
                     "wf": "То",
                     "wtype": "word",
-                    "off_start": 2,
-                    "off_end": 4,
-                    "next_word": 2,
-                    "sentence_index": 1,
+                    "off_start": 0,
+                    "off_end": 2,
+                    "next_word": 1,
+                    "sentence_index": 0,
                     "sentence_index_neg": 11
                 },
                 {
                     "wf": "есть,",
                     "wtype": "word",
-                    "off_start": 5,
-                    "off_end": 10,
-                    "next_word": 3,
-                    "sentence_index": 2,
+                    "off_start": 3,
+                    "off_end": 8,
+                    "next_word": 2,
+                    "sentence_index": 1,
                     "sentence_index_neg": 10
                 },
                 {
                     "wf": "большое",
                     "wtype": "word",
-                    "off_start": 11,
-                    "off_end": 18,
-                    "next_word": 4,
-                    "sentence_index": 3,
+                    "off_start": 9,
+                    "off_end": 16,
+                    "next_word": 3,
+                    "sentence_index": 2,
                     "sentence_index_neg": 9
                 },
                 {
                     "wf": "и",
                     "wtype": "word",
-                    "off_start": 19,
-                    "off_end": 20,
-                    "next_word": 5,
-                    "sentence_index": 4,
+                    "off_start": 17,
+                    "off_end": 18,
+                    "next_word": 4,
+                    "sentence_index": 3,
                     "sentence_index_neg": 8
                 },
                 {
                     "wf": "широкое",
                     "wtype": "word",
-                    "off_start": 21,
-                    "off_end": 28,
-                    "next_word": 6,
-                    "sentence_index": 5,
+                    "off_start": 19,
+                    "off_end": 26,
+                    "next_word": 5,
+                    "sentence_index": 4,
                     "sentence_index_neg": 7
                 },
                 {
                     "wf": "место",
                     "wtype": "word",
-                    "off_start": 29,
-                    "off_end": 34,
-                    "next_word": 7,
-                    "sentence_index": 6,
+                    "off_start": 27,
+                    "off_end": 32,
+                    "next_word": 6,
+                    "sentence_index": 5,
                     "sentence_index_neg": 6
                 },
                 {
                     "wf": "было",
                     "wtype": "word",
-                    "off_start": 35,
-                    "off_end": 39,
-                    "next_word": 8,
-                    "sentence_index": 7,
+                    "off_start": 33,
+                    "off_end": 37,
+                    "next_word": 7,
+                    "sentence_index": 6,
                     "sentence_index_neg": 5
                 },
                 {
                     "wf": "дальше,",
                     "wtype": "word",
-                    "off_start": 40,
-                    "off_end": 47,
-                    "next_word": 9,
-                    "sentence_index": 8,
+                    "off_start": 38,
+                    "off_end": 45,
+                    "next_word": 8,
+                    "sentence_index": 7,
                     "sentence_index_neg": 4
                 },
                 {
                     "wf": "чем",
                     "wtype": "word",
-                    "off_start": 48,
-                    "off_end": 51,
-                    "next_word": 10,
-                    "sentence_index": 9,
+                    "off_start": 46,
+                    "off_end": 49,
+                    "next_word": 9,
+                    "sentence_index": 8,
                     "sentence_index_neg": 3
                 },
                 {
                     "wf": "он",
                     "wtype": "word",
-                    "off_start": 52,
-                    "off_end": 54,
-                    "next_word": 11,
-                    "sentence_index": 10,
+                    "off_start": 50,
+                    "off_end": 52,
+                    "next_word": 10,
+                    "sentence_index": 9,
                     "sentence_index_neg": 2
                 },
                 {
                     "wf": "находится.",
                     "wtype": "word",
-                    "off_start": 55,
-                    "off_end": 65,
-                    "next_word": 12,
-                    "sentence_index": 11,
+                    "off_start": 53,
+                    "off_end": 63,
+                    "next_word": 11,
+                    "sentence_index": 10,
                     "sentence_index_neg": 1
                 }
             ],
@@ -9589,24 +9508,15 @@
             ]
         },
         {
-            "text": " | Он.",
+            "text": "Он.",
             "words": [
-                {
-                    "wf": "|",
-                    "wtype": "word",
-                    "off_start": 0,
-                    "off_end": 1,
-                    "next_word": 1,
-                    "sentence_index": 0,
-                    "sentence_index_neg": 2
-                },
                 {
                     "wf": "Он.",
                     "wtype": "word",
-                    "off_start": 2,
-                    "off_end": 5,
-                    "next_word": 2,
-                    "sentence_index": 1,
+                    "off_start": 0,
+                    "off_end": 3,
+                    "next_word": 1,
+                    "sentence_index": 0,
                     "sentence_index_neg": 1
                 }
             ],
@@ -9634,24 +9544,15 @@
             ]
         },
         {
-            "text": " | Ну...",
+            "text": "Ну...",
             "words": [
-                {
-                    "wf": "|",
-                    "wtype": "word",
-                    "off_start": 0,
-                    "off_end": 1,
-                    "next_word": 1,
-                    "sentence_index": 0,
-                    "sentence_index_neg": 2
-                },
                 {
                     "wf": "Ну...",
                     "wtype": "word",
-                    "off_start": 2,
-                    "off_end": 7,
-                    "next_word": 2,
-                    "sentence_index": 1,
+                    "off_start": 0,
+                    "off_end": 5,
+                    "next_word": 1,
+                    "sentence_index": 0,
                     "sentence_index_neg": 1
                 }
             ],
@@ -9679,42 +9580,33 @@
             ]
         },
         {
-            "text": " | ...В 1944 году.",
+            "text": "...В 1944 году.",
             "words": [
-                {
-                    "wf": "|",
-                    "wtype": "word",
-                    "off_start": 0,
-                    "off_end": 1,
-                    "next_word": 1,
-                    "sentence_index": 0,
-                    "sentence_index_neg": 4
-                },
                 {
                     "wf": "...В",
                     "wtype": "word",
-                    "off_start": 2,
-                    "off_end": 6,
-                    "next_word": 2,
-                    "sentence_index": 1,
+                    "off_start": 0,
+                    "off_end": 4,
+                    "next_word": 1,
+                    "sentence_index": 0,
                     "sentence_index_neg": 3
                 },
                 {
                     "wf": "1944",
                     "wtype": "word",
-                    "off_start": 7,
-                    "off_end": 11,
-                    "next_word": 3,
-                    "sentence_index": 2,
+                    "off_start": 5,
+                    "off_end": 9,
+                    "next_word": 2,
+                    "sentence_index": 1,
                     "sentence_index_neg": 2
                 },
                 {
                     "wf": "году.",
                     "wtype": "word",
-                    "off_start": 12,
-                    "off_end": 17,
-                    "next_word": 4,
-                    "sentence_index": 3,
+                    "off_start": 10,
+                    "off_end": 15,
+                    "next_word": 3,
+                    "sentence_index": 2,
                     "sentence_index_neg": 1
                 }
             ],
@@ -9742,33 +9634,24 @@
             ]
         },
         {
-            "text": " | Во время...",
+            "text": "Во время...",
             "words": [
-                {
-                    "wf": "|",
-                    "wtype": "word",
-                    "off_start": 0,
-                    "off_end": 1,
-                    "next_word": 1,
-                    "sentence_index": 0,
-                    "sentence_index_neg": 3
-                },
                 {
                     "wf": "Во",
                     "wtype": "word",
-                    "off_start": 2,
-                    "off_end": 4,
-                    "next_word": 2,
-                    "sentence_index": 1,
+                    "off_start": 0,
+                    "off_end": 2,
+                    "next_word": 1,
+                    "sentence_index": 0,
                     "sentence_index_neg": 2
                 },
                 {
                     "wf": "время...",
                     "wtype": "word",
-                    "off_start": 5,
-                    "off_end": 13,
-                    "next_word": 3,
-                    "sentence_index": 2,
+                    "off_start": 3,
+                    "off_end": 11,
+                    "next_word": 2,
+                    "sentence_index": 1,
                     "sentence_index_neg": 1
                 }
             ],
@@ -9796,24 +9679,15 @@
             ]
         },
         {
-            "text": " | Нашего...",
+            "text": "Нашего...",
             "words": [
-                {
-                    "wf": "|",
-                    "wtype": "word",
-                    "off_start": 0,
-                    "off_end": 1,
-                    "next_word": 1,
-                    "sentence_index": 0,
-                    "sentence_index_neg": 2
-                },
                 {
                     "wf": "Нашего...",
                     "wtype": "word",
-                    "off_start": 2,
-                    "off_end": 11,
-                    "next_word": 2,
-                    "sentence_index": 1,
+                    "off_start": 0,
+                    "off_end": 9,
+                    "next_word": 1,
+                    "sentence_index": 0,
                     "sentence_index_neg": 1
                 }
             ],
@@ -9841,42 +9715,33 @@
             ]
         },
         {
-            "text": " | Был Советский союз.",
+            "text": "Был Советский союз.",
             "words": [
-                {
-                    "wf": "|",
-                    "wtype": "word",
-                    "off_start": 0,
-                    "off_end": 1,
-                    "next_word": 1,
-                    "sentence_index": 0,
-                    "sentence_index_neg": 4
-                },
                 {
                     "wf": "Был",
                     "wtype": "word",
-                    "off_start": 2,
-                    "off_end": 5,
-                    "next_word": 2,
-                    "sentence_index": 1,
+                    "off_start": 0,
+                    "off_end": 3,
+                    "next_word": 1,
+                    "sentence_index": 0,
                     "sentence_index_neg": 3
                 },
                 {
                     "wf": "Советский",
                     "wtype": "word",
-                    "off_start": 6,
-                    "off_end": 15,
-                    "next_word": 3,
-                    "sentence_index": 2,
+                    "off_start": 4,
+                    "off_end": 13,
+                    "next_word": 2,
+                    "sentence_index": 1,
                     "sentence_index_neg": 2
                 },
                 {
                     "wf": "союз.",
                     "wtype": "word",
-                    "off_start": 16,
-                    "off_end": 21,
-                    "next_word": 4,
-                    "sentence_index": 3,
+                    "off_start": 14,
+                    "off_end": 19,
+                    "next_word": 3,
+                    "sentence_index": 2,
                     "sentence_index_neg": 1
                 }
             ],
@@ -9904,123 +9769,114 @@
             ]
         },
         {
-            "text": " | Был Советский союз, в то время война... война в то время была.",
+            "text": "Был Советский союз, в то время война... война в то время была.",
             "words": [
-                {
-                    "wf": "|",
-                    "wtype": "word",
-                    "off_start": 0,
-                    "off_end": 1,
-                    "next_word": 1,
-                    "sentence_index": 0,
-                    "sentence_index_neg": 13
-                },
                 {
                     "wf": "Был",
                     "wtype": "word",
-                    "off_start": 2,
-                    "off_end": 5,
-                    "next_word": 2,
-                    "sentence_index": 1,
+                    "off_start": 0,
+                    "off_end": 3,
+                    "next_word": 1,
+                    "sentence_index": 0,
                     "sentence_index_neg": 12
                 },
                 {
                     "wf": "Советский",
                     "wtype": "word",
-                    "off_start": 6,
-                    "off_end": 15,
-                    "next_word": 3,
-                    "sentence_index": 2,
+                    "off_start": 4,
+                    "off_end": 13,
+                    "next_word": 2,
+                    "sentence_index": 1,
                     "sentence_index_neg": 11
                 },
                 {
                     "wf": "союз,",
                     "wtype": "word",
-                    "off_start": 16,
-                    "off_end": 21,
-                    "next_word": 4,
-                    "sentence_index": 3,
+                    "off_start": 14,
+                    "off_end": 19,
+                    "next_word": 3,
+                    "sentence_index": 2,
                     "sentence_index_neg": 10
                 },
                 {
                     "wf": "в",
                     "wtype": "word",
-                    "off_start": 22,
-                    "off_end": 23,
-                    "next_word": 5,
-                    "sentence_index": 4,
+                    "off_start": 20,
+                    "off_end": 21,
+                    "next_word": 4,
+                    "sentence_index": 3,
                     "sentence_index_neg": 9
                 },
                 {
                     "wf": "то",
                     "wtype": "word",
-                    "off_start": 24,
-                    "off_end": 26,
-                    "next_word": 6,
-                    "sentence_index": 5,
+                    "off_start": 22,
+                    "off_end": 24,
+                    "next_word": 5,
+                    "sentence_index": 4,
                     "sentence_index_neg": 8
                 },
                 {
                     "wf": "время",
                     "wtype": "word",
-                    "off_start": 27,
-                    "off_end": 32,
-                    "next_word": 7,
-                    "sentence_index": 6,
+                    "off_start": 25,
+                    "off_end": 30,
+                    "next_word": 6,
+                    "sentence_index": 5,
                     "sentence_index_neg": 7
                 },
                 {
                     "wf": "война...",
                     "wtype": "word",
-                    "off_start": 33,
-                    "off_end": 41,
-                    "next_word": 8,
-                    "sentence_index": 7,
+                    "off_start": 31,
+                    "off_end": 39,
+                    "next_word": 7,
+                    "sentence_index": 6,
                     "sentence_index_neg": 6
                 },
                 {
                     "wf": "война",
                     "wtype": "word",
-                    "off_start": 42,
-                    "off_end": 47,
-                    "next_word": 9,
-                    "sentence_index": 8,
+                    "off_start": 40,
+                    "off_end": 45,
+                    "next_word": 8,
+                    "sentence_index": 7,
                     "sentence_index_neg": 5
                 },
                 {
                     "wf": "в",
                     "wtype": "word",
-                    "off_start": 48,
-                    "off_end": 49,
-                    "next_word": 10,
-                    "sentence_index": 9,
+                    "off_start": 46,
+                    "off_end": 47,
+                    "next_word": 9,
+                    "sentence_index": 8,
                     "sentence_index_neg": 4
                 },
                 {
                     "wf": "то",
                     "wtype": "word",
-                    "off_start": 50,
-                    "off_end": 52,
-                    "next_word": 11,
-                    "sentence_index": 10,
+                    "off_start": 48,
+                    "off_end": 50,
+                    "next_word": 10,
+                    "sentence_index": 9,
                     "sentence_index_neg": 3
                 },
                 {
                     "wf": "время",
                     "wtype": "word",
-                    "off_start": 53,
-                    "off_end": 58,
-                    "next_word": 12,
-                    "sentence_index": 11,
+                    "off_start": 51,
+                    "off_end": 56,
+                    "next_word": 11,
+                    "sentence_index": 10,
                     "sentence_index_neg": 2
                 },
                 {
                     "wf": "была.",
                     "wtype": "word",
-                    "off_start": 59,
-                    "off_end": 64,
-                    "next_word": 13,
-                    "sentence_index": 12,
+                    "off_start": 57,
+                    "off_end": 62,
+                    "next_word": 12,
+                    "sentence_index": 11,
                     "sentence_index_neg": 1
                 }
             ],
@@ -10048,132 +9904,123 @@
             ]
         },
         {
-            "text": " | То есть, в сорок четвертом я[...]...говорю, что я родился. А в сорок пятом...",
+            "text": "То есть, в сорок четвертом я[...]...говорю, что я родился. А в сорок пятом...",
             "words": [
-                {
-                    "wf": "|",
-                    "wtype": "word",
-                    "off_start": 0,
-                    "off_end": 1,
-                    "next_word": 1,
-                    "sentence_index": 0,
-                    "sentence_index_neg": 14
-                },
                 {
                     "wf": "То",
                     "wtype": "word",
-                    "off_start": 2,
-                    "off_end": 4,
-                    "next_word": 2,
-                    "sentence_index": 1,
+                    "off_start": 0,
+                    "off_end": 2,
+                    "next_word": 1,
+                    "sentence_index": 0,
                     "sentence_index_neg": 13
                 },
                 {
                     "wf": "есть,",
                     "wtype": "word",
-                    "off_start": 5,
-                    "off_end": 10,
-                    "next_word": 3,
-                    "sentence_index": 2,
+                    "off_start": 3,
+                    "off_end": 8,
+                    "next_word": 2,
+                    "sentence_index": 1,
                     "sentence_index_neg": 12
                 },
                 {
                     "wf": "в",
                     "wtype": "word",
-                    "off_start": 11,
-                    "off_end": 12,
-                    "next_word": 4,
-                    "sentence_index": 3,
+                    "off_start": 9,
+                    "off_end": 10,
+                    "next_word": 3,
+                    "sentence_index": 2,
                     "sentence_index_neg": 11
                 },
                 {
                     "wf": "сорок",
                     "wtype": "word",
-                    "off_start": 13,
-                    "off_end": 18,
-                    "next_word": 5,
-                    "sentence_index": 4,
+                    "off_start": 11,
+                    "off_end": 16,
+                    "next_word": 4,
+                    "sentence_index": 3,
                     "sentence_index_neg": 10
                 },
                 {
                     "wf": "четвертом",
                     "wtype": "word",
-                    "off_start": 19,
-                    "off_end": 28,
-                    "next_word": 6,
-                    "sentence_index": 5,
+                    "off_start": 17,
+                    "off_end": 26,
+                    "next_word": 5,
+                    "sentence_index": 4,
                     "sentence_index_neg": 9
                 },
                 {
                     "wf": "я[...]...говорю,",
                     "wtype": "word",
-                    "off_start": 29,
-                    "off_end": 45,
-                    "next_word": 7,
-                    "sentence_index": 6,
+                    "off_start": 27,
+                    "off_end": 43,
+                    "next_word": 6,
+                    "sentence_index": 5,
                     "sentence_index_neg": 8
                 },
                 {
                     "wf": "что",
                     "wtype": "word",
-                    "off_start": 46,
-                    "off_end": 49,
-                    "next_word": 8,
-                    "sentence_index": 7,
+                    "off_start": 44,
+                    "off_end": 47,
+                    "next_word": 7,
+                    "sentence_index": 6,
                     "sentence_index_neg": 7
                 },
                 {
                     "wf": "я",
                     "wtype": "word",
-                    "off_start": 50,
-                    "off_end": 51,
-                    "next_word": 9,
-                    "sentence_index": 8,
+                    "off_start": 48,
+                    "off_end": 49,
+                    "next_word": 8,
+                    "sentence_index": 7,
                     "sentence_index_neg": 6
                 },
                 {
                     "wf": "родился.",
                     "wtype": "word",
-                    "off_start": 52,
-                    "off_end": 60,
-                    "next_word": 10,
-                    "sentence_index": 9,
+                    "off_start": 50,
+                    "off_end": 58,
+                    "next_word": 9,
+                    "sentence_index": 8,
                     "sentence_index_neg": 5
                 },
                 {
                     "wf": "А",
                     "wtype": "word",
-                    "off_start": 61,
-                    "off_end": 62,
-                    "next_word": 11,
-                    "sentence_index": 10,
+                    "off_start": 59,
+                    "off_end": 60,
+                    "next_word": 10,
+                    "sentence_index": 9,
                     "sentence_index_neg": 4
                 },
                 {
                     "wf": "в",
                     "wtype": "word",
-                    "off_start": 63,
-                    "off_end": 64,
-                    "next_word": 12,
-                    "sentence_index": 11,
+                    "off_start": 61,
+                    "off_end": 62,
+                    "next_word": 11,
+                    "sentence_index": 10,
                     "sentence_index_neg": 3
                 },
                 {
                     "wf": "сорок",
                     "wtype": "word",
-                    "off_start": 65,
-                    "off_end": 70,
-                    "next_word": 13,
-                    "sentence_index": 12,
+                    "off_start": 63,
+                    "off_end": 68,
+                    "next_word": 12,
+                    "sentence_index": 11,
                     "sentence_index_neg": 2
                 },
                 {
                     "wf": "пятом...",
                     "wtype": "word",
-                    "off_start": 71,
-                    "off_end": 79,
-                    "next_word": 14,
-                    "sentence_index": 13,
+                    "off_start": 69,
+                    "off_end": 77,
+                    "next_word": 13,
+                    "sentence_index": 12,
                     "sentence_index_neg": 1
                 }
             ],
@@ -10201,60 +10048,51 @@
             ]
         },
         {
-            "text": " | Когда была Вторая мировая война.",
+            "text": "Когда была Вторая мировая война.",
             "words": [
-                {
-                    "wf": "|",
-                    "wtype": "word",
-                    "off_start": 0,
-                    "off_end": 1,
-                    "next_word": 1,
-                    "sentence_index": 0,
-                    "sentence_index_neg": 6
-                },
                 {
                     "wf": "Когда",
                     "wtype": "word",
-                    "off_start": 2,
-                    "off_end": 7,
-                    "next_word": 2,
-                    "sentence_index": 1,
+                    "off_start": 0,
+                    "off_end": 5,
+                    "next_word": 1,
+                    "sentence_index": 0,
                     "sentence_index_neg": 5
                 },
                 {
                     "wf": "была",
                     "wtype": "word",
-                    "off_start": 8,
-                    "off_end": 12,
-                    "next_word": 3,
-                    "sentence_index": 2,
+                    "off_start": 6,
+                    "off_end": 10,
+                    "next_word": 2,
+                    "sentence_index": 1,
                     "sentence_index_neg": 4
                 },
                 {
                     "wf": "Вторая",
                     "wtype": "word",
-                    "off_start": 13,
-                    "off_end": 19,
-                    "next_word": 4,
-                    "sentence_index": 3,
+                    "off_start": 11,
+                    "off_end": 17,
+                    "next_word": 3,
+                    "sentence_index": 2,
                     "sentence_index_neg": 3
                 },
                 {
                     "wf": "мировая",
                     "wtype": "word",
-                    "off_start": 20,
-                    "off_end": 27,
-                    "next_word": 5,
-                    "sentence_index": 4,
+                    "off_start": 18,
+                    "off_end": 25,
+                    "next_word": 4,
+                    "sentence_index": 3,
                     "sentence_index_neg": 2
                 },
                 {
                     "wf": "война.",
                     "wtype": "word",
-                    "off_start": 28,
-                    "off_end": 34,
-                    "next_word": 6,
-                    "sentence_index": 5,
+                    "off_start": 26,
+                    "off_end": 32,
+                    "next_word": 5,
+                    "sentence_index": 4,
                     "sentence_index_neg": 1
                 }
             ],
@@ -10282,33 +10120,24 @@
             ]
         },
         {
-            "text": " | Германия с...",
+            "text": "Германия с...",
             "words": [
-                {
-                    "wf": "|",
-                    "wtype": "word",
-                    "off_start": 0,
-                    "off_end": 1,
-                    "next_word": 1,
-                    "sentence_index": 0,
-                    "sentence_index_neg": 3
-                },
                 {
                     "wf": "Германия",
                     "wtype": "word",
-                    "off_start": 2,
-                    "off_end": 10,
-                    "next_word": 2,
-                    "sentence_index": 1,
+                    "off_start": 0,
+                    "off_end": 8,
+                    "next_word": 1,
+                    "sentence_index": 0,
                     "sentence_index_neg": 2
                 },
                 {
                     "wf": "с...",
                     "wtype": "word",
-                    "off_start": 11,
-                    "off_end": 15,
-                    "next_word": 3,
-                    "sentence_index": 2,
+                    "off_start": 9,
+                    "off_end": 13,
+                    "next_word": 2,
+                    "sentence_index": 1,
                     "sentence_index_neg": 1
                 }
             ],
@@ -10336,42 +10165,33 @@
             ]
         },
         {
-            "text": " | С Советским союзом.",
+            "text": "С Советским союзом.",
             "words": [
                 {
-                    "wf": "|",
+                    "wf": "С",
                     "wtype": "word",
                     "off_start": 0,
                     "off_end": 1,
                     "next_word": 1,
                     "sentence_index": 0,
-                    "sentence_index_neg": 4
-                },
-                {
-                    "wf": "С",
-                    "wtype": "word",
-                    "off_start": 2,
-                    "off_end": 3,
-                    "next_word": 2,
-                    "sentence_index": 1,
                     "sentence_index_neg": 3
                 },
                 {
                     "wf": "Советским",
                     "wtype": "word",
-                    "off_start": 4,
-                    "off_end": 13,
-                    "next_word": 3,
-                    "sentence_index": 2,
+                    "off_start": 2,
+                    "off_end": 11,
+                    "next_word": 2,
+                    "sentence_index": 1,
                     "sentence_index_neg": 2
                 },
                 {
                     "wf": "союзом.",
                     "wtype": "word",
-                    "off_start": 14,
-                    "off_end": 21,
-                    "next_word": 4,
-                    "sentence_index": 3,
+                    "off_start": 12,
+                    "off_end": 19,
+                    "next_word": 3,
+                    "sentence_index": 2,
                     "sentence_index_neg": 1
                 }
             ],
@@ -10399,33 +10219,24 @@
             ]
         },
         {
-            "text": " | Когда воевала.",
+            "text": "Когда воевала.",
             "words": [
-                {
-                    "wf": "|",
-                    "wtype": "word",
-                    "off_start": 0,
-                    "off_end": 1,
-                    "next_word": 1,
-                    "sentence_index": 0,
-                    "sentence_index_neg": 3
-                },
                 {
                     "wf": "Когда",
                     "wtype": "word",
-                    "off_start": 2,
-                    "off_end": 7,
-                    "next_word": 2,
-                    "sentence_index": 1,
+                    "off_start": 0,
+                    "off_end": 5,
+                    "next_word": 1,
+                    "sentence_index": 0,
                     "sentence_index_neg": 2
                 },
                 {
                     "wf": "воевала.",
                     "wtype": "word",
-                    "off_start": 8,
-                    "off_end": 16,
-                    "next_word": 3,
-                    "sentence_index": 2,
+                    "off_start": 6,
+                    "off_end": 14,
+                    "next_word": 2,
+                    "sentence_index": 1,
                     "sentence_index_neg": 1
                 }
             ],
@@ -10453,78 +10264,69 @@
             ]
         },
         {
-            "text": " | И вот в это время я родился.",
+            "text": "И вот в это время я родился.",
             "words": [
                 {
-                    "wf": "|",
+                    "wf": "И",
                     "wtype": "word",
                     "off_start": 0,
                     "off_end": 1,
                     "next_word": 1,
                     "sentence_index": 0,
-                    "sentence_index_neg": 8
-                },
-                {
-                    "wf": "И",
-                    "wtype": "word",
-                    "off_start": 2,
-                    "off_end": 3,
-                    "next_word": 2,
-                    "sentence_index": 1,
                     "sentence_index_neg": 7
                 },
                 {
                     "wf": "вот",
                     "wtype": "word",
-                    "off_start": 4,
-                    "off_end": 7,
-                    "next_word": 3,
-                    "sentence_index": 2,
+                    "off_start": 2,
+                    "off_end": 5,
+                    "next_word": 2,
+                    "sentence_index": 1,
                     "sentence_index_neg": 6
                 },
                 {
                     "wf": "в",
                     "wtype": "word",
-                    "off_start": 8,
-                    "off_end": 9,
-                    "next_word": 4,
-                    "sentence_index": 3,
+                    "off_start": 6,
+                    "off_end": 7,
+                    "next_word": 3,
+                    "sentence_index": 2,
                     "sentence_index_neg": 5
                 },
                 {
                     "wf": "это",
                     "wtype": "word",
-                    "off_start": 10,
-                    "off_end": 13,
-                    "next_word": 5,
-                    "sentence_index": 4,
+                    "off_start": 8,
+                    "off_end": 11,
+                    "next_word": 4,
+                    "sentence_index": 3,
                     "sentence_index_neg": 4
                 },
                 {
                     "wf": "время",
                     "wtype": "word",
-                    "off_start": 14,
-                    "off_end": 19,
-                    "next_word": 6,
-                    "sentence_index": 5,
+                    "off_start": 12,
+                    "off_end": 17,
+                    "next_word": 5,
+                    "sentence_index": 4,
                     "sentence_index_neg": 3
                 },
                 {
                     "wf": "я",
                     "wtype": "word",
-                    "off_start": 20,
-                    "off_end": 21,
-                    "next_word": 7,
-                    "sentence_index": 6,
+                    "off_start": 18,
+                    "off_end": 19,
+                    "next_word": 6,
+                    "sentence_index": 5,
                     "sentence_index_neg": 2
                 },
                 {
                     "wf": "родился.",
                     "wtype": "word",
-                    "off_start": 22,
-                    "off_end": 30,
-                    "next_word": 8,
-                    "sentence_index": 7,
+                    "off_start": 20,
+                    "off_end": 28,
+                    "next_word": 7,
+                    "sentence_index": 6,
                     "sentence_index_neg": 1
                 }
             ],
@@ -10552,42 +10354,33 @@
             ]
         },
         {
-            "text": " | Здесь я вырос.",
+            "text": "Здесь я вырос.",
             "words": [
-                {
-                    "wf": "|",
-                    "wtype": "word",
-                    "off_start": 0,
-                    "off_end": 1,
-                    "next_word": 1,
-                    "sentence_index": 0,
-                    "sentence_index_neg": 4
-                },
                 {
                     "wf": "Здесь",
                     "wtype": "word",
-                    "off_start": 2,
-                    "off_end": 7,
-                    "next_word": 2,
-                    "sentence_index": 1,
+                    "off_start": 0,
+                    "off_end": 5,
+                    "next_word": 1,
+                    "sentence_index": 0,
                     "sentence_index_neg": 3
                 },
                 {
                     "wf": "я",
                     "wtype": "word",
-                    "off_start": 8,
-                    "off_end": 9,
-                    "next_word": 3,
-                    "sentence_index": 2,
+                    "off_start": 6,
+                    "off_end": 7,
+                    "next_word": 2,
+                    "sentence_index": 1,
                     "sentence_index_neg": 2
                 },
                 {
                     "wf": "вырос.",
                     "wtype": "word",
-                    "off_start": 10,
-                    "off_end": 16,
-                    "next_word": 4,
-                    "sentence_index": 3,
+                    "off_start": 8,
+                    "off_end": 14,
+                    "next_word": 3,
+                    "sentence_index": 2,
                     "sentence_index_neg": 1
                 }
             ],
@@ -10615,96 +10408,87 @@
             ]
         },
         {
-            "text": " | В кишлаке с той стороны, который мы называем Видодж.",
+            "text": "В кишлаке с той стороны, который мы называем Видодж.",
             "words": [
                 {
-                    "wf": "|",
+                    "wf": "В",
                     "wtype": "word",
                     "off_start": 0,
                     "off_end": 1,
                     "next_word": 1,
                     "sentence_index": 0,
-                    "sentence_index_neg": 10
-                },
-                {
-                    "wf": "В",
-                    "wtype": "word",
-                    "off_start": 2,
-                    "off_end": 3,
-                    "next_word": 2,
-                    "sentence_index": 1,
                     "sentence_index_neg": 9
                 },
                 {
                     "wf": "кишлаке",
                     "wtype": "word",
-                    "off_start": 4,
-                    "off_end": 11,
-                    "next_word": 3,
-                    "sentence_index": 2,
+                    "off_start": 2,
+                    "off_end": 9,
+                    "next_word": 2,
+                    "sentence_index": 1,
                     "sentence_index_neg": 8
                 },
                 {
                     "wf": "с",
                     "wtype": "word",
-                    "off_start": 12,
-                    "off_end": 13,
-                    "next_word": 4,
-                    "sentence_index": 3,
+                    "off_start": 10,
+                    "off_end": 11,
+                    "next_word": 3,
+                    "sentence_index": 2,
                     "sentence_index_neg": 7
                 },
                 {
                     "wf": "той",
                     "wtype": "word",
-                    "off_start": 14,
-                    "off_end": 17,
-                    "next_word": 5,
-                    "sentence_index": 4,
+                    "off_start": 12,
+                    "off_end": 15,
+                    "next_word": 4,
+                    "sentence_index": 3,
                     "sentence_index_neg": 6
                 },
                 {
                     "wf": "стороны,",
                     "wtype": "word",
-                    "off_start": 18,
-                    "off_end": 26,
-                    "next_word": 6,
-                    "sentence_index": 5,
+                    "off_start": 16,
+                    "off_end": 24,
+                    "next_word": 5,
+                    "sentence_index": 4,
                     "sentence_index_neg": 5
                 },
                 {
                     "wf": "который",
                     "wtype": "word",
-                    "off_start": 27,
-                    "off_end": 34,
-                    "next_word": 7,
-                    "sentence_index": 6,
+                    "off_start": 25,
+                    "off_end": 32,
+                    "next_word": 6,
+                    "sentence_index": 5,
                     "sentence_index_neg": 4
                 },
                 {
                     "wf": "мы",
                     "wtype": "word",
-                    "off_start": 35,
-                    "off_end": 37,
-                    "next_word": 8,
-                    "sentence_index": 7,
+                    "off_start": 33,
+                    "off_end": 35,
+                    "next_word": 7,
+                    "sentence_index": 6,
                     "sentence_index_neg": 3
                 },
                 {
                     "wf": "называем",
                     "wtype": "word",
-                    "off_start": 38,
-                    "off_end": 46,
-                    "next_word": 9,
-                    "sentence_index": 8,
+                    "off_start": 36,
+                    "off_end": 44,
+                    "next_word": 8,
+                    "sentence_index": 7,
                     "sentence_index_neg": 2
                 },
                 {
                     "wf": "Видодж.",
                     "wtype": "word",
-                    "off_start": 47,
-                    "off_end": 54,
-                    "next_word": 10,
-                    "sentence_index": 9,
+                    "off_start": 45,
+                    "off_end": 52,
+                    "next_word": 9,
+                    "sentence_index": 8,
                     "sentence_index_neg": 1
                 }
             ],
@@ -10715,18 +10499,18 @@
             "para_alignment": [
                 {
                     "off_start": 0,
-                    "off_end": 41,
+                    "off_end": 39,
                     "para_id": 25
                 }
             ],
             "src_alignment": [
                 {
-                    "off_start_src": 63.55,
-                    "off_end_src": 63.6,
+                    "off_start_src": 64.15,
+                    "off_end_src": 67.455,
                     "off_start_sent": 0,
-                    "off_end_sent": 41,
+                    "off_end_sent": 39,
                     "mtype": "audio",
-                    "src_id": "63550.0_63600.0",
+                    "src_id": "64150.0_67455.0",
                     "src": "sgh_txt_DMO_Bio2.wav"
                 }
             ]
@@ -10757,62 +10541,53 @@
             ],
             "src_alignment": [
                 {
-                    "off_start_src": 64.353,
+                    "off_start_src": 67.479,
                     "off_end_src": 68.071,
                     "off_start_sent": 0,
                     "off_end_sent": 5,
                     "mtype": "audio",
-                    "src_id": "64353.0_68071.0",
+                    "src_id": "67479.0_68071.0",
                     "src": "sgh_txt_DMO_Bio2.wav"
                 }
             ]
         },
         {
-            "text": " | я закончил 11-ый класс.",
+            "text": "я закончил 11-ый класс.",
             "words": [
                 {
-                    "wf": "|",
+                    "wf": "я",
                     "wtype": "word",
                     "off_start": 0,
                     "off_end": 1,
                     "next_word": 1,
                     "sentence_index": 0,
-                    "sentence_index_neg": 5
-                },
-                {
-                    "wf": "я",
-                    "wtype": "word",
-                    "off_start": 2,
-                    "off_end": 3,
-                    "next_word": 2,
-                    "sentence_index": 1,
                     "sentence_index_neg": 4
                 },
                 {
                     "wf": "закончил",
                     "wtype": "word",
-                    "off_start": 4,
-                    "off_end": 12,
-                    "next_word": 3,
-                    "sentence_index": 2,
+                    "off_start": 2,
+                    "off_end": 10,
+                    "next_word": 2,
+                    "sentence_index": 1,
                     "sentence_index_neg": 3
                 },
                 {
                     "wf": "11-ый",
                     "wtype": "word",
-                    "off_start": 13,
-                    "off_end": 18,
-                    "next_word": 4,
-                    "sentence_index": 3,
+                    "off_start": 11,
+                    "off_end": 16,
+                    "next_word": 3,
+                    "sentence_index": 2,
                     "sentence_index_neg": 2
                 },
                 {
                     "wf": "класс.",
                     "wtype": "word",
-                    "off_start": 19,
-                    "off_end": 25,
-                    "next_word": 5,
-                    "sentence_index": 4,
+                    "off_start": 17,
+                    "off_end": 23,
+                    "next_word": 4,
+                    "sentence_index": 3,
                     "sentence_index_neg": 1
                 }
             ],
@@ -10840,69 +10615,60 @@
             ]
         },
         {
-            "text": " | Ну... Это было в 1963 году.",
+            "text": "Ну... Это было в 1963 году.",
             "words": [
-                {
-                    "wf": "|",
-                    "wtype": "word",
-                    "off_start": 0,
-                    "off_end": 1,
-                    "next_word": 1,
-                    "sentence_index": 0,
-                    "sentence_index_neg": 7
-                },
                 {
                     "wf": "Ну...",
                     "wtype": "word",
-                    "off_start": 2,
-                    "off_end": 7,
-                    "next_word": 2,
-                    "sentence_index": 1,
+                    "off_start": 0,
+                    "off_end": 5,
+                    "next_word": 1,
+                    "sentence_index": 0,
                     "sentence_index_neg": 6
                 },
                 {
                     "wf": "Это",
                     "wtype": "word",
-                    "off_start": 8,
-                    "off_end": 11,
-                    "next_word": 3,
-                    "sentence_index": 2,
+                    "off_start": 6,
+                    "off_end": 9,
+                    "next_word": 2,
+                    "sentence_index": 1,
                     "sentence_index_neg": 5
                 },
                 {
                     "wf": "было",
                     "wtype": "word",
-                    "off_start": 12,
-                    "off_end": 16,
-                    "next_word": 4,
-                    "sentence_index": 3,
+                    "off_start": 10,
+                    "off_end": 14,
+                    "next_word": 3,
+                    "sentence_index": 2,
                     "sentence_index_neg": 4
                 },
                 {
                     "wf": "в",
                     "wtype": "word",
-                    "off_start": 17,
-                    "off_end": 18,
-                    "next_word": 5,
-                    "sentence_index": 4,
+                    "off_start": 15,
+                    "off_end": 16,
+                    "next_word": 4,
+                    "sentence_index": 3,
                     "sentence_index_neg": 3
                 },
                 {
                     "wf": "1963",
                     "wtype": "word",
-                    "off_start": 19,
-                    "off_end": 23,
-                    "next_word": 6,
-                    "sentence_index": 5,
+                    "off_start": 17,
+                    "off_end": 21,
+                    "next_word": 5,
+                    "sentence_index": 4,
                     "sentence_index_neg": 2
                 },
                 {
                     "wf": "году.",
                     "wtype": "word",
-                    "off_start": 24,
-                    "off_end": 29,
-                    "next_word": 7,
-                    "sentence_index": 6,
+                    "off_start": 22,
+                    "off_end": 27,
+                    "next_word": 6,
+                    "sentence_index": 5,
                     "sentence_index_neg": 1
                 }
             ],
@@ -10966,51 +10732,42 @@
             ]
         },
         {
-            "text": " | Это я закончил и...",
+            "text": "Это я закончил и...",
             "words": [
-                {
-                    "wf": "|",
-                    "wtype": "word",
-                    "off_start": 0,
-                    "off_end": 1,
-                    "next_word": 1,
-                    "sentence_index": 0,
-                    "sentence_index_neg": 5
-                },
                 {
                     "wf": "Это",
                     "wtype": "word",
-                    "off_start": 2,
-                    "off_end": 5,
-                    "next_word": 2,
-                    "sentence_index": 1,
+                    "off_start": 0,
+                    "off_end": 3,
+                    "next_word": 1,
+                    "sentence_index": 0,
                     "sentence_index_neg": 4
                 },
                 {
                     "wf": "я",
                     "wtype": "word",
-                    "off_start": 6,
-                    "off_end": 7,
-                    "next_word": 3,
-                    "sentence_index": 2,
+                    "off_start": 4,
+                    "off_end": 5,
+                    "next_word": 2,
+                    "sentence_index": 1,
                     "sentence_index_neg": 3
                 },
                 {
                     "wf": "закончил",
                     "wtype": "word",
-                    "off_start": 8,
-                    "off_end": 16,
-                    "next_word": 4,
-                    "sentence_index": 3,
+                    "off_start": 6,
+                    "off_end": 14,
+                    "next_word": 3,
+                    "sentence_index": 2,
                     "sentence_index_neg": 2
                 },
                 {
                     "wf": "и...",
                     "wtype": "word",
-                    "off_start": 17,
-                    "off_end": 21,
-                    "next_word": 5,
-                    "sentence_index": 4,
+                    "off_start": 15,
+                    "off_end": 19,
+                    "next_word": 4,
+                    "sentence_index": 3,
                     "sentence_index_neg": 1
                 }
             ],
@@ -11128,105 +10885,96 @@
             ]
         },
         {
-            "text": " | Падишах Советского союза... был человек по имени Никита Сергеевич Хрущёв.",
+            "text": "Падишах Советского союза... был человек по имени Никита Сергеевич Хрущёв.",
             "words": [
-                {
-                    "wf": "|",
-                    "wtype": "word",
-                    "off_start": 0,
-                    "off_end": 1,
-                    "next_word": 1,
-                    "sentence_index": 0,
-                    "sentence_index_neg": 11
-                },
                 {
                     "wf": "Падишах",
                     "wtype": "word",
-                    "off_start": 2,
-                    "off_end": 9,
-                    "next_word": 2,
-                    "sentence_index": 1,
+                    "off_start": 0,
+                    "off_end": 7,
+                    "next_word": 1,
+                    "sentence_index": 0,
                     "sentence_index_neg": 10
                 },
                 {
                     "wf": "Советского",
                     "wtype": "word",
-                    "off_start": 10,
-                    "off_end": 20,
-                    "next_word": 3,
-                    "sentence_index": 2,
+                    "off_start": 8,
+                    "off_end": 18,
+                    "next_word": 2,
+                    "sentence_index": 1,
                     "sentence_index_neg": 9
                 },
                 {
                     "wf": "союза...",
                     "wtype": "word",
-                    "off_start": 21,
-                    "off_end": 29,
-                    "next_word": 4,
-                    "sentence_index": 3,
+                    "off_start": 19,
+                    "off_end": 27,
+                    "next_word": 3,
+                    "sentence_index": 2,
                     "sentence_index_neg": 8
                 },
                 {
                     "wf": "был",
                     "wtype": "word",
-                    "off_start": 30,
-                    "off_end": 33,
-                    "next_word": 5,
-                    "sentence_index": 4,
+                    "off_start": 28,
+                    "off_end": 31,
+                    "next_word": 4,
+                    "sentence_index": 3,
                     "sentence_index_neg": 7
                 },
                 {
                     "wf": "человек",
                     "wtype": "word",
-                    "off_start": 34,
-                    "off_end": 41,
-                    "next_word": 6,
-                    "sentence_index": 5,
+                    "off_start": 32,
+                    "off_end": 39,
+                    "next_word": 5,
+                    "sentence_index": 4,
                     "sentence_index_neg": 6
                 },
                 {
                     "wf": "по",
                     "wtype": "word",
-                    "off_start": 42,
-                    "off_end": 44,
-                    "next_word": 7,
-                    "sentence_index": 6,
+                    "off_start": 40,
+                    "off_end": 42,
+                    "next_word": 6,
+                    "sentence_index": 5,
                     "sentence_index_neg": 5
                 },
                 {
                     "wf": "имени",
                     "wtype": "word",
-                    "off_start": 45,
-                    "off_end": 50,
-                    "next_word": 8,
-                    "sentence_index": 7,
+                    "off_start": 43,
+                    "off_end": 48,
+                    "next_word": 7,
+                    "sentence_index": 6,
                     "sentence_index_neg": 4
                 },
                 {
                     "wf": "Никита",
                     "wtype": "word",
-                    "off_start": 51,
-                    "off_end": 57,
-                    "next_word": 9,
-                    "sentence_index": 8,
+                    "off_start": 49,
+                    "off_end": 55,
+                    "next_word": 8,
+                    "sentence_index": 7,
                     "sentence_index_neg": 3
                 },
                 {
                     "wf": "Сергеевич",
                     "wtype": "word",
-                    "off_start": 58,
-                    "off_end": 67,
-                    "next_word": 10,
-                    "sentence_index": 9,
+                    "off_start": 56,
+                    "off_end": 65,
+                    "next_word": 9,
+                    "sentence_index": 8,
                     "sentence_index_neg": 2
                 },
                 {
                     "wf": "Хрущёв.",
                     "wtype": "word",
-                    "off_start": 68,
-                    "off_end": 75,
-                    "next_word": 11,
-                    "sentence_index": 10,
+                    "off_start": 66,
+                    "off_end": 73,
+                    "next_word": 10,
+                    "sentence_index": 9,
                     "sentence_index_neg": 1
                 }
             ],
@@ -11254,42 +11002,33 @@
             ]
         },
         {
-            "text": " | В то время...",
+            "text": "В то время...",
             "words": [
                 {
-                    "wf": "|",
+                    "wf": "В",
                     "wtype": "word",
                     "off_start": 0,
                     "off_end": 1,
                     "next_word": 1,
                     "sentence_index": 0,
-                    "sentence_index_neg": 4
-                },
-                {
-                    "wf": "В",
-                    "wtype": "word",
-                    "off_start": 2,
-                    "off_end": 3,
-                    "next_word": 2,
-                    "sentence_index": 1,
                     "sentence_index_neg": 3
                 },
                 {
                     "wf": "то",
                     "wtype": "word",
-                    "off_start": 4,
-                    "off_end": 6,
-                    "next_word": 3,
-                    "sentence_index": 2,
+                    "off_start": 2,
+                    "off_end": 4,
+                    "next_word": 2,
+                    "sentence_index": 1,
                     "sentence_index_neg": 2
                 },
                 {
                     "wf": "время...",
                     "wtype": "word",
-                    "off_start": 7,
-                    "off_end": 15,
-                    "next_word": 4,
-                    "sentence_index": 3,
+                    "off_start": 5,
+                    "off_end": 13,
+                    "next_word": 3,
+                    "sentence_index": 2,
                     "sentence_index_neg": 1
                 }
             ],
@@ -11317,60 +11056,51 @@
             ]
         },
         {
-            "text": " | До нас было десять классов.",
+            "text": "До нас было десять классов.",
             "words": [
-                {
-                    "wf": "|",
-                    "wtype": "word",
-                    "off_start": 0,
-                    "off_end": 1,
-                    "next_word": 1,
-                    "sentence_index": 0,
-                    "sentence_index_neg": 6
-                },
                 {
                     "wf": "До",
                     "wtype": "word",
-                    "off_start": 2,
-                    "off_end": 4,
-                    "next_word": 2,
-                    "sentence_index": 1,
+                    "off_start": 0,
+                    "off_end": 2,
+                    "next_word": 1,
+                    "sentence_index": 0,
                     "sentence_index_neg": 5
                 },
                 {
                     "wf": "нас",
                     "wtype": "word",
-                    "off_start": 5,
-                    "off_end": 8,
-                    "next_word": 3,
-                    "sentence_index": 2,
+                    "off_start": 3,
+                    "off_end": 6,
+                    "next_word": 2,
+                    "sentence_index": 1,
                     "sentence_index_neg": 4
                 },
                 {
                     "wf": "было",
                     "wtype": "word",
-                    "off_start": 9,
-                    "off_end": 13,
-                    "next_word": 4,
-                    "sentence_index": 3,
+                    "off_start": 7,
+                    "off_end": 11,
+                    "next_word": 3,
+                    "sentence_index": 2,
                     "sentence_index_neg": 3
                 },
                 {
                     "wf": "десять",
                     "wtype": "word",
-                    "off_start": 14,
-                    "off_end": 20,
-                    "next_word": 5,
-                    "sentence_index": 4,
+                    "off_start": 12,
+                    "off_end": 18,
+                    "next_word": 4,
+                    "sentence_index": 3,
                     "sentence_index_neg": 2
                 },
                 {
                     "wf": "классов.",
                     "wtype": "word",
-                    "off_start": 21,
-                    "off_end": 29,
-                    "next_word": 6,
-                    "sentence_index": 5,
+                    "off_start": 19,
+                    "off_end": 27,
+                    "next_word": 5,
+                    "sentence_index": 4,
                     "sentence_index_neg": 1
                 }
             ],
@@ -11398,78 +11128,69 @@
             ]
         },
         {
-            "text": " | Начиная с нас... Мы заканчивали 11 классов....",
+            "text": "Начиная с нас... Мы заканчивали 11 классов....",
             "words": [
-                {
-                    "wf": "|",
-                    "wtype": "word",
-                    "off_start": 0,
-                    "off_end": 1,
-                    "next_word": 1,
-                    "sentence_index": 0,
-                    "sentence_index_neg": 8
-                },
                 {
                     "wf": "Начиная",
                     "wtype": "word",
-                    "off_start": 2,
-                    "off_end": 9,
-                    "next_word": 2,
-                    "sentence_index": 1,
+                    "off_start": 0,
+                    "off_end": 7,
+                    "next_word": 1,
+                    "sentence_index": 0,
                     "sentence_index_neg": 7
                 },
                 {
                     "wf": "с",
                     "wtype": "word",
-                    "off_start": 10,
-                    "off_end": 11,
-                    "next_word": 3,
-                    "sentence_index": 2,
+                    "off_start": 8,
+                    "off_end": 9,
+                    "next_word": 2,
+                    "sentence_index": 1,
                     "sentence_index_neg": 6
                 },
                 {
                     "wf": "нас...",
                     "wtype": "word",
-                    "off_start": 12,
-                    "off_end": 18,
-                    "next_word": 4,
-                    "sentence_index": 3,
+                    "off_start": 10,
+                    "off_end": 16,
+                    "next_word": 3,
+                    "sentence_index": 2,
                     "sentence_index_neg": 5
                 },
                 {
                     "wf": "Мы",
                     "wtype": "word",
-                    "off_start": 19,
-                    "off_end": 21,
-                    "next_word": 5,
-                    "sentence_index": 4,
+                    "off_start": 17,
+                    "off_end": 19,
+                    "next_word": 4,
+                    "sentence_index": 3,
                     "sentence_index_neg": 4
                 },
                 {
                     "wf": "заканчивали",
                     "wtype": "word",
-                    "off_start": 22,
-                    "off_end": 33,
-                    "next_word": 6,
-                    "sentence_index": 5,
+                    "off_start": 20,
+                    "off_end": 31,
+                    "next_word": 5,
+                    "sentence_index": 4,
                     "sentence_index_neg": 3
                 },
                 {
                     "wf": "11",
                     "wtype": "word",
-                    "off_start": 34,
-                    "off_end": 36,
-                    "next_word": 7,
-                    "sentence_index": 6,
+                    "off_start": 32,
+                    "off_end": 34,
+                    "next_word": 6,
+                    "sentence_index": 5,
                     "sentence_index_neg": 2
                 },
                 {
                     "wf": "классов....",
                     "wtype": "word",
-                    "off_start": 37,
-                    "off_end": 48,
-                    "next_word": 8,
-                    "sentence_index": 7,
+                    "off_start": 35,
+                    "off_end": 46,
+                    "next_word": 7,
+                    "sentence_index": 6,
                     "sentence_index_neg": 1
                 }
             ],
@@ -11497,33 +11218,24 @@
             ]
         },
         {
-            "text": " | Заканчивали 11<классов>",
+            "text": "Заканчивали 11<классов>",
             "words": [
-                {
-                    "wf": "|",
-                    "wtype": "word",
-                    "off_start": 0,
-                    "off_end": 1,
-                    "next_word": 1,
-                    "sentence_index": 0,
-                    "sentence_index_neg": 3
-                },
                 {
                     "wf": "Заканчивали",
                     "wtype": "word",
-                    "off_start": 2,
-                    "off_end": 13,
-                    "next_word": 2,
-                    "sentence_index": 1,
+                    "off_start": 0,
+                    "off_end": 11,
+                    "next_word": 1,
+                    "sentence_index": 0,
                     "sentence_index_neg": 2
                 },
                 {
                     "wf": "11<классов>",
                     "wtype": "word",
-                    "off_start": 14,
-                    "off_end": 25,
-                    "next_word": 3,
-                    "sentence_index": 2,
+                    "off_start": 12,
+                    "off_end": 23,
+                    "next_word": 2,
+                    "sentence_index": 1,
                     "sentence_index_neg": 1
                 }
             ],
@@ -11551,69 +11263,60 @@
             ]
         },
         {
-            "text": " | Как раз в 63-ем году меня...",
+            "text": "Как раз в 63-ем году меня...",
             "words": [
-                {
-                    "wf": "|",
-                    "wtype": "word",
-                    "off_start": 0,
-                    "off_end": 1,
-                    "next_word": 1,
-                    "sentence_index": 0,
-                    "sentence_index_neg": 7
-                },
                 {
                     "wf": "Как",
                     "wtype": "word",
-                    "off_start": 2,
-                    "off_end": 5,
-                    "next_word": 2,
-                    "sentence_index": 1,
+                    "off_start": 0,
+                    "off_end": 3,
+                    "next_word": 1,
+                    "sentence_index": 0,
                     "sentence_index_neg": 6
                 },
                 {
                     "wf": "раз",
                     "wtype": "word",
-                    "off_start": 6,
-                    "off_end": 9,
-                    "next_word": 3,
-                    "sentence_index": 2,
+                    "off_start": 4,
+                    "off_end": 7,
+                    "next_word": 2,
+                    "sentence_index": 1,
                     "sentence_index_neg": 5
                 },
                 {
                     "wf": "в",
                     "wtype": "word",
-                    "off_start": 10,
-                    "off_end": 11,
-                    "next_word": 4,
-                    "sentence_index": 3,
+                    "off_start": 8,
+                    "off_end": 9,
+                    "next_word": 3,
+                    "sentence_index": 2,
                     "sentence_index_neg": 4
                 },
                 {
                     "wf": "63-ем",
                     "wtype": "word",
-                    "off_start": 12,
-                    "off_end": 17,
-                    "next_word": 5,
-                    "sentence_index": 4,
+                    "off_start": 10,
+                    "off_end": 15,
+                    "next_word": 4,
+                    "sentence_index": 3,
                     "sentence_index_neg": 3
                 },
                 {
                     "wf": "году",
                     "wtype": "word",
-                    "off_start": 18,
-                    "off_end": 22,
-                    "next_word": 6,
-                    "sentence_index": 5,
+                    "off_start": 16,
+                    "off_end": 20,
+                    "next_word": 5,
+                    "sentence_index": 4,
                     "sentence_index_neg": 2
                 },
                 {
                     "wf": "меня...",
                     "wtype": "word",
-                    "off_start": 23,
-                    "off_end": 30,
-                    "next_word": 7,
-                    "sentence_index": 6,
+                    "off_start": 21,
+                    "off_end": 28,
+                    "next_word": 6,
+                    "sentence_index": 5,
                     "sentence_index_neg": 1
                 }
             ],
@@ -11641,33 +11344,24 @@
             ]
         },
         {
-            "text": " | дорогой мой...",
+            "text": "дорогой мой...",
             "words": [
-                {
-                    "wf": "|",
-                    "wtype": "word",
-                    "off_start": 0,
-                    "off_end": 1,
-                    "next_word": 1,
-                    "sentence_index": 0,
-                    "sentence_index_neg": 3
-                },
                 {
                     "wf": "дорогой",
                     "wtype": "word",
-                    "off_start": 2,
-                    "off_end": 9,
-                    "next_word": 2,
-                    "sentence_index": 1,
+                    "off_start": 0,
+                    "off_end": 7,
+                    "next_word": 1,
+                    "sentence_index": 0,
                     "sentence_index_neg": 2
                 },
                 {
                     "wf": "мой...",
                     "wtype": "word",
-                    "off_start": 10,
-                    "off_end": 16,
-                    "next_word": 3,
-                    "sentence_index": 2,
+                    "off_start": 8,
+                    "off_end": 14,
+                    "next_word": 2,
+                    "sentence_index": 1,
                     "sentence_index_neg": 1
                 }
             ],
@@ -11695,51 +11389,42 @@
             ]
         },
         {
-            "text": " | Призвали в армию Советов.",
+            "text": "Призвали в армию Советов.",
             "words": [
-                {
-                    "wf": "|",
-                    "wtype": "word",
-                    "off_start": 0,
-                    "off_end": 1,
-                    "next_word": 1,
-                    "sentence_index": 0,
-                    "sentence_index_neg": 5
-                },
                 {
                     "wf": "Призвали",
                     "wtype": "word",
-                    "off_start": 2,
-                    "off_end": 10,
-                    "next_word": 2,
-                    "sentence_index": 1,
+                    "off_start": 0,
+                    "off_end": 8,
+                    "next_word": 1,
+                    "sentence_index": 0,
                     "sentence_index_neg": 4
                 },
                 {
                     "wf": "в",
                     "wtype": "word",
-                    "off_start": 11,
-                    "off_end": 12,
-                    "next_word": 3,
-                    "sentence_index": 2,
+                    "off_start": 9,
+                    "off_end": 10,
+                    "next_word": 2,
+                    "sentence_index": 1,
                     "sentence_index_neg": 3
                 },
                 {
                     "wf": "армию",
                     "wtype": "word",
-                    "off_start": 13,
-                    "off_end": 18,
-                    "next_word": 4,
-                    "sentence_index": 3,
+                    "off_start": 11,
+                    "off_end": 16,
+                    "next_word": 3,
+                    "sentence_index": 2,
                     "sentence_index_neg": 2
                 },
                 {
                     "wf": "Советов.",
                     "wtype": "word",
-                    "off_start": 19,
-                    "off_end": 27,
-                    "next_word": 5,
-                    "sentence_index": 4,
+                    "off_start": 17,
+                    "off_end": 25,
+                    "next_word": 4,
+                    "sentence_index": 3,
                     "sentence_index_neg": 1
                 }
             ],
@@ -11767,24 +11452,15 @@
             ]
         },
         {
-            "text": " | 63-66",
+            "text": "63-66",
             "words": [
-                {
-                    "wf": "|",
-                    "wtype": "word",
-                    "off_start": 0,
-                    "off_end": 1,
-                    "next_word": 1,
-                    "sentence_index": 0,
-                    "sentence_index_neg": 2
-                },
                 {
                     "wf": "63-66",
                     "wtype": "word",
-                    "off_start": 2,
-                    "off_end": 7,
-                    "next_word": 2,
-                    "sentence_index": 1,
+                    "off_start": 0,
+                    "off_end": 5,
+                    "next_word": 1,
+                    "sentence_index": 0,
                     "sentence_index_neg": 1
                 }
             ],
@@ -11812,60 +11488,51 @@
             ]
         },
         {
-            "text": " | Я там три года служил.",
+            "text": "Я там три года служил.",
             "words": [
                 {
-                    "wf": "|",
+                    "wf": "Я",
                     "wtype": "word",
                     "off_start": 0,
                     "off_end": 1,
                     "next_word": 1,
                     "sentence_index": 0,
-                    "sentence_index_neg": 6
-                },
-                {
-                    "wf": "Я",
-                    "wtype": "word",
-                    "off_start": 2,
-                    "off_end": 3,
-                    "next_word": 2,
-                    "sentence_index": 1,
                     "sentence_index_neg": 5
                 },
                 {
                     "wf": "там",
                     "wtype": "word",
-                    "off_start": 4,
-                    "off_end": 7,
-                    "next_word": 3,
-                    "sentence_index": 2,
+                    "off_start": 2,
+                    "off_end": 5,
+                    "next_word": 2,
+                    "sentence_index": 1,
                     "sentence_index_neg": 4
                 },
                 {
                     "wf": "три",
                     "wtype": "word",
-                    "off_start": 8,
-                    "off_end": 11,
-                    "next_word": 4,
-                    "sentence_index": 3,
+                    "off_start": 6,
+                    "off_end": 9,
+                    "next_word": 3,
+                    "sentence_index": 2,
                     "sentence_index_neg": 3
                 },
                 {
                     "wf": "года",
                     "wtype": "word",
-                    "off_start": 12,
-                    "off_end": 16,
-                    "next_word": 5,
-                    "sentence_index": 4,
+                    "off_start": 10,
+                    "off_end": 14,
+                    "next_word": 4,
+                    "sentence_index": 3,
                     "sentence_index_neg": 2
                 },
                 {
                     "wf": "служил.",
                     "wtype": "word",
-                    "off_start": 17,
-                    "off_end": 24,
-                    "next_word": 6,
-                    "sentence_index": 5,
+                    "off_start": 15,
+                    "off_end": 22,
+                    "next_word": 5,
+                    "sentence_index": 4,
                     "sentence_index_neg": 1
                 }
             ],
@@ -11893,60 +11560,51 @@
             ]
         },
         {
-            "text": " | Ну, из армии пришел и...",
+            "text": "Ну, из армии пришел и...",
             "words": [
-                {
-                    "wf": "|",
-                    "wtype": "word",
-                    "off_start": 0,
-                    "off_end": 1,
-                    "next_word": 1,
-                    "sentence_index": 0,
-                    "sentence_index_neg": 6
-                },
                 {
                     "wf": "Ну,",
                     "wtype": "word",
-                    "off_start": 2,
-                    "off_end": 5,
-                    "next_word": 2,
-                    "sentence_index": 1,
+                    "off_start": 0,
+                    "off_end": 3,
+                    "next_word": 1,
+                    "sentence_index": 0,
                     "sentence_index_neg": 5
                 },
                 {
                     "wf": "из",
                     "wtype": "word",
-                    "off_start": 6,
-                    "off_end": 8,
-                    "next_word": 3,
-                    "sentence_index": 2,
+                    "off_start": 4,
+                    "off_end": 6,
+                    "next_word": 2,
+                    "sentence_index": 1,
                     "sentence_index_neg": 4
                 },
                 {
                     "wf": "армии",
                     "wtype": "word",
-                    "off_start": 9,
-                    "off_end": 14,
-                    "next_word": 4,
-                    "sentence_index": 3,
+                    "off_start": 7,
+                    "off_end": 12,
+                    "next_word": 3,
+                    "sentence_index": 2,
                     "sentence_index_neg": 3
                 },
                 {
                     "wf": "пришел",
                     "wtype": "word",
-                    "off_start": 15,
-                    "off_end": 21,
-                    "next_word": 5,
-                    "sentence_index": 4,
+                    "off_start": 13,
+                    "off_end": 19,
+                    "next_word": 4,
+                    "sentence_index": 3,
                     "sentence_index_neg": 2
                 },
                 {
                     "wf": "и...",
                     "wtype": "word",
-                    "off_start": 22,
-                    "off_end": 26,
-                    "next_word": 6,
-                    "sentence_index": 5,
+                    "off_start": 20,
+                    "off_end": 24,
+                    "next_word": 5,
+                    "sentence_index": 4,
                     "sentence_index_neg": 1
                 }
             ],
@@ -11974,33 +11632,24 @@
             ]
         },
         {
-            "text": " | Брат мой...",
+            "text": "Брат мой...",
             "words": [
-                {
-                    "wf": "|",
-                    "wtype": "word",
-                    "off_start": 0,
-                    "off_end": 1,
-                    "next_word": 1,
-                    "sentence_index": 0,
-                    "sentence_index_neg": 3
-                },
                 {
                     "wf": "Брат",
                     "wtype": "word",
-                    "off_start": 2,
-                    "off_end": 6,
-                    "next_word": 2,
-                    "sentence_index": 1,
+                    "off_start": 0,
+                    "off_end": 4,
+                    "next_word": 1,
+                    "sentence_index": 0,
                     "sentence_index_neg": 2
                 },
                 {
                     "wf": "мой...",
                     "wtype": "word",
-                    "off_start": 7,
-                    "off_end": 13,
-                    "next_word": 3,
-                    "sentence_index": 2,
+                    "off_start": 5,
+                    "off_end": 11,
+                    "next_word": 2,
+                    "sentence_index": 1,
                     "sentence_index_neg": 1
                 }
             ],
@@ -12028,78 +11677,69 @@
             ]
         },
         {
-            "text": " | Ну, один год я работал на ГЭС.",
+            "text": "Ну, один год я работал на ГЭС.",
             "words": [
-                {
-                    "wf": "|",
-                    "wtype": "word",
-                    "off_start": 0,
-                    "off_end": 1,
-                    "next_word": 1,
-                    "sentence_index": 0,
-                    "sentence_index_neg": 8
-                },
                 {
                     "wf": "Ну,",
                     "wtype": "word",
-                    "off_start": 2,
-                    "off_end": 5,
-                    "next_word": 2,
-                    "sentence_index": 1,
+                    "off_start": 0,
+                    "off_end": 3,
+                    "next_word": 1,
+                    "sentence_index": 0,
                     "sentence_index_neg": 7
                 },
                 {
                     "wf": "один",
                     "wtype": "word",
-                    "off_start": 6,
-                    "off_end": 10,
-                    "next_word": 3,
-                    "sentence_index": 2,
+                    "off_start": 4,
+                    "off_end": 8,
+                    "next_word": 2,
+                    "sentence_index": 1,
                     "sentence_index_neg": 6
                 },
                 {
                     "wf": "год",
                     "wtype": "word",
-                    "off_start": 11,
-                    "off_end": 14,
-                    "next_word": 4,
-                    "sentence_index": 3,
+                    "off_start": 9,
+                    "off_end": 12,
+                    "next_word": 3,
+                    "sentence_index": 2,
                     "sentence_index_neg": 5
                 },
                 {
                     "wf": "я",
                     "wtype": "word",
-                    "off_start": 15,
-                    "off_end": 16,
-                    "next_word": 5,
-                    "sentence_index": 4,
+                    "off_start": 13,
+                    "off_end": 14,
+                    "next_word": 4,
+                    "sentence_index": 3,
                     "sentence_index_neg": 4
                 },
                 {
                     "wf": "работал",
                     "wtype": "word",
-                    "off_start": 17,
-                    "off_end": 24,
-                    "next_word": 6,
-                    "sentence_index": 5,
+                    "off_start": 15,
+                    "off_end": 22,
+                    "next_word": 5,
+                    "sentence_index": 4,
                     "sentence_index_neg": 3
                 },
                 {
                     "wf": "на",
                     "wtype": "word",
-                    "off_start": 25,
-                    "off_end": 27,
-                    "next_word": 7,
-                    "sentence_index": 6,
+                    "off_start": 23,
+                    "off_end": 25,
+                    "next_word": 6,
+                    "sentence_index": 5,
                     "sentence_index_neg": 2
                 },
                 {
                     "wf": "ГЭС.",
                     "wtype": "word",
-                    "off_start": 28,
-                    "off_end": 32,
-                    "next_word": 8,
-                    "sentence_index": 7,
+                    "off_start": 26,
+                    "off_end": 30,
+                    "next_word": 7,
+                    "sentence_index": 6,
                     "sentence_index_neg": 1
                 }
             ],
@@ -12127,51 +11767,42 @@
             ]
         },
         {
-            "text": " | Работал на ГЭС и...",
+            "text": "Работал на ГЭС и...",
             "words": [
-                {
-                    "wf": "|",
-                    "wtype": "word",
-                    "off_start": 0,
-                    "off_end": 1,
-                    "next_word": 1,
-                    "sentence_index": 0,
-                    "sentence_index_neg": 5
-                },
                 {
                     "wf": "Работал",
                     "wtype": "word",
-                    "off_start": 2,
-                    "off_end": 9,
-                    "next_word": 2,
-                    "sentence_index": 1,
+                    "off_start": 0,
+                    "off_end": 7,
+                    "next_word": 1,
+                    "sentence_index": 0,
                     "sentence_index_neg": 4
                 },
                 {
                     "wf": "на",
                     "wtype": "word",
-                    "off_start": 10,
-                    "off_end": 12,
-                    "next_word": 3,
-                    "sentence_index": 2,
+                    "off_start": 8,
+                    "off_end": 10,
+                    "next_word": 2,
+                    "sentence_index": 1,
                     "sentence_index_neg": 3
                 },
                 {
                     "wf": "ГЭС",
                     "wtype": "word",
-                    "off_start": 13,
-                    "off_end": 16,
-                    "next_word": 4,
-                    "sentence_index": 3,
+                    "off_start": 11,
+                    "off_end": 14,
+                    "next_word": 3,
+                    "sentence_index": 2,
                     "sentence_index_neg": 2
                 },
                 {
                     "wf": "и...",
                     "wtype": "word",
-                    "off_start": 17,
-                    "off_end": 21,
-                    "next_word": 5,
-                    "sentence_index": 4,
+                    "off_start": 15,
+                    "off_end": 19,
+                    "next_word": 4,
+                    "sentence_index": 3,
                     "sentence_index_neg": 1
                 }
             ],
@@ -12199,60 +11830,51 @@
             ]
         },
         {
-            "text": " | Потом я поступил в Политехнический...",
+            "text": "Потом я поступил в Политехнический...",
             "words": [
-                {
-                    "wf": "|",
-                    "wtype": "word",
-                    "off_start": 0,
-                    "off_end": 1,
-                    "next_word": 1,
-                    "sentence_index": 0,
-                    "sentence_index_neg": 6
-                },
                 {
                     "wf": "Потом",
                     "wtype": "word",
-                    "off_start": 2,
-                    "off_end": 7,
-                    "next_word": 2,
-                    "sentence_index": 1,
+                    "off_start": 0,
+                    "off_end": 5,
+                    "next_word": 1,
+                    "sentence_index": 0,
                     "sentence_index_neg": 5
                 },
                 {
                     "wf": "я",
                     "wtype": "word",
-                    "off_start": 8,
-                    "off_end": 9,
-                    "next_word": 3,
-                    "sentence_index": 2,
+                    "off_start": 6,
+                    "off_end": 7,
+                    "next_word": 2,
+                    "sentence_index": 1,
                     "sentence_index_neg": 4
                 },
                 {
                     "wf": "поступил",
                     "wtype": "word",
-                    "off_start": 10,
-                    "off_end": 18,
-                    "next_word": 4,
-                    "sentence_index": 3,
+                    "off_start": 8,
+                    "off_end": 16,
+                    "next_word": 3,
+                    "sentence_index": 2,
                     "sentence_index_neg": 3
                 },
                 {
                     "wf": "в",
                     "wtype": "word",
-                    "off_start": 19,
-                    "off_end": 20,
-                    "next_word": 5,
-                    "sentence_index": 4,
+                    "off_start": 17,
+                    "off_end": 18,
+                    "next_word": 4,
+                    "sentence_index": 3,
                     "sentence_index_neg": 2
                 },
                 {
                     "wf": "Политехнический...",
                     "wtype": "word",
-                    "off_start": 21,
-                    "off_end": 39,
-                    "next_word": 6,
-                    "sentence_index": 5,
+                    "off_start": 19,
+                    "off_end": 37,
+                    "next_word": 5,
+                    "sentence_index": 4,
                     "sentence_index_neg": 1
                 }
             ],
@@ -12280,24 +11902,15 @@
             ]
         },
         {
-            "text": " | Тогда...",
+            "text": "Тогда...",
             "words": [
-                {
-                    "wf": "|",
-                    "wtype": "word",
-                    "off_start": 0,
-                    "off_end": 1,
-                    "next_word": 1,
-                    "sentence_index": 0,
-                    "sentence_index_neg": 2
-                },
                 {
                     "wf": "Тогда...",
                     "wtype": "word",
-                    "off_start": 2,
-                    "off_end": 10,
-                    "next_word": 2,
-                    "sentence_index": 1,
+                    "off_start": 0,
+                    "off_end": 8,
+                    "next_word": 1,
+                    "sentence_index": 0,
                     "sentence_index_neg": 1
                 }
             ],
@@ -12325,96 +11938,87 @@
             ]
         },
         {
-            "text": " | Имени Гагарина... этот... был... этот Политехнический в... в Душанбе.",
+            "text": "Имени Гагарина... этот... был... этот Политехнический в... в Душанбе.",
             "words": [
-                {
-                    "wf": "|",
-                    "wtype": "word",
-                    "off_start": 0,
-                    "off_end": 1,
-                    "next_word": 1,
-                    "sentence_index": 0,
-                    "sentence_index_neg": 10
-                },
                 {
                     "wf": "Имени",
                     "wtype": "word",
-                    "off_start": 2,
-                    "off_end": 7,
-                    "next_word": 2,
-                    "sentence_index": 1,
+                    "off_start": 0,
+                    "off_end": 5,
+                    "next_word": 1,
+                    "sentence_index": 0,
                     "sentence_index_neg": 9
                 },
                 {
                     "wf": "Гагарина...",
                     "wtype": "word",
-                    "off_start": 8,
-                    "off_end": 19,
-                    "next_word": 3,
-                    "sentence_index": 2,
+                    "off_start": 6,
+                    "off_end": 17,
+                    "next_word": 2,
+                    "sentence_index": 1,
                     "sentence_index_neg": 8
                 },
                 {
                     "wf": "этот...",
                     "wtype": "word",
-                    "off_start": 20,
-                    "off_end": 27,
-                    "next_word": 4,
-                    "sentence_index": 3,
+                    "off_start": 18,
+                    "off_end": 25,
+                    "next_word": 3,
+                    "sentence_index": 2,
                     "sentence_index_neg": 7
                 },
                 {
                     "wf": "был...",
                     "wtype": "word",
-                    "off_start": 28,
-                    "off_end": 34,
-                    "next_word": 5,
-                    "sentence_index": 4,
+                    "off_start": 26,
+                    "off_end": 32,
+                    "next_word": 4,
+                    "sentence_index": 3,
                     "sentence_index_neg": 6
                 },
                 {
                     "wf": "этот",
                     "wtype": "word",
-                    "off_start": 35,
-                    "off_end": 39,
-                    "next_word": 6,
-                    "sentence_index": 5,
+                    "off_start": 33,
+                    "off_end": 37,
+                    "next_word": 5,
+                    "sentence_index": 4,
                     "sentence_index_neg": 5
                 },
                 {
                     "wf": "Политехнический",
                     "wtype": "word",
-                    "off_start": 40,
-                    "off_end": 55,
-                    "next_word": 7,
-                    "sentence_index": 6,
+                    "off_start": 38,
+                    "off_end": 53,
+                    "next_word": 6,
+                    "sentence_index": 5,
                     "sentence_index_neg": 4
                 },
                 {
                     "wf": "в...",
                     "wtype": "word",
-                    "off_start": 56,
-                    "off_end": 60,
-                    "next_word": 8,
-                    "sentence_index": 7,
+                    "off_start": 54,
+                    "off_end": 58,
+                    "next_word": 7,
+                    "sentence_index": 6,
                     "sentence_index_neg": 3
                 },
                 {
                     "wf": "в",
                     "wtype": "word",
-                    "off_start": 61,
-                    "off_end": 62,
-                    "next_word": 9,
-                    "sentence_index": 8,
+                    "off_start": 59,
+                    "off_end": 60,
+                    "next_word": 8,
+                    "sentence_index": 7,
                     "sentence_index_neg": 2
                 },
                 {
                     "wf": "Душанбе.",
                     "wtype": "word",
-                    "off_start": 63,
-                    "off_end": 71,
-                    "next_word": 10,
-                    "sentence_index": 9,
+                    "off_start": 61,
+                    "off_end": 69,
+                    "next_word": 9,
+                    "sentence_index": 8,
                     "sentence_index_neg": 1
                 }
             ],
@@ -12442,60 +12046,51 @@
             ]
         },
         {
-            "text": " | Поступил туда, год учился и...",
+            "text": "Поступил туда, год учился и...",
             "words": [
-                {
-                    "wf": "|",
-                    "wtype": "word",
-                    "off_start": 0,
-                    "off_end": 1,
-                    "next_word": 1,
-                    "sentence_index": 0,
-                    "sentence_index_neg": 6
-                },
                 {
                     "wf": "Поступил",
                     "wtype": "word",
-                    "off_start": 2,
-                    "off_end": 10,
-                    "next_word": 2,
-                    "sentence_index": 1,
+                    "off_start": 0,
+                    "off_end": 8,
+                    "next_word": 1,
+                    "sentence_index": 0,
                     "sentence_index_neg": 5
                 },
                 {
                     "wf": "туда,",
                     "wtype": "word",
-                    "off_start": 11,
-                    "off_end": 16,
-                    "next_word": 3,
-                    "sentence_index": 2,
+                    "off_start": 9,
+                    "off_end": 14,
+                    "next_word": 2,
+                    "sentence_index": 1,
                     "sentence_index_neg": 4
                 },
                 {
                     "wf": "год",
                     "wtype": "word",
-                    "off_start": 17,
-                    "off_end": 20,
-                    "next_word": 4,
-                    "sentence_index": 3,
+                    "off_start": 15,
+                    "off_end": 18,
+                    "next_word": 3,
+                    "sentence_index": 2,
                     "sentence_index_neg": 3
                 },
                 {
                     "wf": "учился",
                     "wtype": "word",
-                    "off_start": 21,
-                    "off_end": 27,
-                    "next_word": 5,
-                    "sentence_index": 4,
+                    "off_start": 19,
+                    "off_end": 25,
+                    "next_word": 4,
+                    "sentence_index": 3,
                     "sentence_index_neg": 2
                 },
                 {
                     "wf": "и...",
                     "wtype": "word",
-                    "off_start": 28,
-                    "off_end": 32,
-                    "next_word": 6,
-                    "sentence_index": 5,
+                    "off_start": 26,
+                    "off_end": 30,
+                    "next_word": 5,
+                    "sentence_index": 4,
                     "sentence_index_neg": 1
                 }
             ],
@@ -12523,60 +12118,51 @@
             ]
         },
         {
-            "text": " | Опять я заболел этой болезнью...",
+            "text": "Опять я заболел этой болезнью...",
             "words": [
-                {
-                    "wf": "|",
-                    "wtype": "word",
-                    "off_start": 0,
-                    "off_end": 1,
-                    "next_word": 1,
-                    "sentence_index": 0,
-                    "sentence_index_neg": 6
-                },
                 {
                     "wf": "Опять",
                     "wtype": "word",
-                    "off_start": 2,
-                    "off_end": 7,
-                    "next_word": 2,
-                    "sentence_index": 1,
+                    "off_start": 0,
+                    "off_end": 5,
+                    "next_word": 1,
+                    "sentence_index": 0,
                     "sentence_index_neg": 5
                 },
                 {
                     "wf": "я",
                     "wtype": "word",
-                    "off_start": 8,
-                    "off_end": 9,
-                    "next_word": 3,
-                    "sentence_index": 2,
+                    "off_start": 6,
+                    "off_end": 7,
+                    "next_word": 2,
+                    "sentence_index": 1,
                     "sentence_index_neg": 4
                 },
                 {
                     "wf": "заболел",
                     "wtype": "word",
-                    "off_start": 10,
-                    "off_end": 17,
-                    "next_word": 4,
-                    "sentence_index": 3,
+                    "off_start": 8,
+                    "off_end": 15,
+                    "next_word": 3,
+                    "sentence_index": 2,
                     "sentence_index_neg": 3
                 },
                 {
                     "wf": "этой",
                     "wtype": "word",
-                    "off_start": 18,
-                    "off_end": 22,
-                    "next_word": 5,
-                    "sentence_index": 4,
+                    "off_start": 16,
+                    "off_end": 20,
+                    "next_word": 4,
+                    "sentence_index": 3,
                     "sentence_index_neg": 2
                 },
                 {
                     "wf": "болезнью...",
                     "wtype": "word",
-                    "off_start": 23,
-                    "off_end": 34,
-                    "next_word": 6,
-                    "sentence_index": 5,
+                    "off_start": 21,
+                    "off_end": 32,
+                    "next_word": 5,
+                    "sentence_index": 4,
                     "sentence_index_neg": 1
                 }
             ],
@@ -12604,42 +12190,33 @@
             ]
         },
         {
-            "text": " | Мой позвоночник заболел.",
+            "text": "Мой позвоночник заболел.",
             "words": [
-                {
-                    "wf": "|",
-                    "wtype": "word",
-                    "off_start": 0,
-                    "off_end": 1,
-                    "next_word": 1,
-                    "sentence_index": 0,
-                    "sentence_index_neg": 4
-                },
                 {
                     "wf": "Мой",
                     "wtype": "word",
-                    "off_start": 2,
-                    "off_end": 5,
-                    "next_word": 2,
-                    "sentence_index": 1,
+                    "off_start": 0,
+                    "off_end": 3,
+                    "next_word": 1,
+                    "sentence_index": 0,
                     "sentence_index_neg": 3
                 },
                 {
                     "wf": "позвоночник",
                     "wtype": "word",
-                    "off_start": 6,
-                    "off_end": 17,
-                    "next_word": 3,
-                    "sentence_index": 2,
+                    "off_start": 4,
+                    "off_end": 15,
+                    "next_word": 2,
+                    "sentence_index": 1,
                     "sentence_index_neg": 2
                 },
                 {
                     "wf": "заболел.",
                     "wtype": "word",
-                    "off_start": 18,
-                    "off_end": 26,
-                    "next_word": 4,
-                    "sentence_index": 3,
+                    "off_start": 16,
+                    "off_end": 24,
+                    "next_word": 3,
+                    "sentence_index": 2,
                     "sentence_index_neg": 1
                 }
             ],
@@ -12667,69 +12244,60 @@
             ]
         },
         {
-            "text": " | Ну, один год учился, и дальше...",
+            "text": "Ну, один год учился, и дальше...",
             "words": [
-                {
-                    "wf": "|",
-                    "wtype": "word",
-                    "off_start": 0,
-                    "off_end": 1,
-                    "next_word": 1,
-                    "sentence_index": 0,
-                    "sentence_index_neg": 7
-                },
                 {
                     "wf": "Ну,",
                     "wtype": "word",
-                    "off_start": 2,
-                    "off_end": 5,
-                    "next_word": 2,
-                    "sentence_index": 1,
+                    "off_start": 0,
+                    "off_end": 3,
+                    "next_word": 1,
+                    "sentence_index": 0,
                     "sentence_index_neg": 6
                 },
                 {
                     "wf": "один",
                     "wtype": "word",
-                    "off_start": 6,
-                    "off_end": 10,
-                    "next_word": 3,
-                    "sentence_index": 2,
+                    "off_start": 4,
+                    "off_end": 8,
+                    "next_word": 2,
+                    "sentence_index": 1,
                     "sentence_index_neg": 5
                 },
                 {
                     "wf": "год",
                     "wtype": "word",
-                    "off_start": 11,
-                    "off_end": 14,
-                    "next_word": 4,
-                    "sentence_index": 3,
+                    "off_start": 9,
+                    "off_end": 12,
+                    "next_word": 3,
+                    "sentence_index": 2,
                     "sentence_index_neg": 4
                 },
                 {
                     "wf": "учился,",
                     "wtype": "word",
-                    "off_start": 15,
-                    "off_end": 22,
-                    "next_word": 5,
-                    "sentence_index": 4,
+                    "off_start": 13,
+                    "off_end": 20,
+                    "next_word": 4,
+                    "sentence_index": 3,
                     "sentence_index_neg": 3
                 },
                 {
                     "wf": "и",
                     "wtype": "word",
-                    "off_start": 23,
-                    "off_end": 24,
-                    "next_word": 6,
-                    "sentence_index": 5,
+                    "off_start": 21,
+                    "off_end": 22,
+                    "next_word": 5,
+                    "sentence_index": 4,
                     "sentence_index_neg": 2
                 },
                 {
                     "wf": "дальше...",
                     "wtype": "word",
-                    "off_start": 25,
-                    "off_end": 34,
-                    "next_word": 7,
-                    "sentence_index": 6,
+                    "off_start": 23,
+                    "off_end": 32,
+                    "next_word": 6,
+                    "sentence_index": 5,
                     "sentence_index_neg": 1
                 }
             ],
@@ -12757,69 +12325,60 @@
             ]
         },
         {
-            "text": " | Ну, ходить в школу из-за болезни...",
+            "text": "Ну, ходить в школу из-за болезни...",
             "words": [
-                {
-                    "wf": "|",
-                    "wtype": "word",
-                    "off_start": 0,
-                    "off_end": 1,
-                    "next_word": 1,
-                    "sentence_index": 0,
-                    "sentence_index_neg": 7
-                },
                 {
                     "wf": "Ну,",
                     "wtype": "word",
-                    "off_start": 2,
-                    "off_end": 5,
-                    "next_word": 2,
-                    "sentence_index": 1,
+                    "off_start": 0,
+                    "off_end": 3,
+                    "next_word": 1,
+                    "sentence_index": 0,
                     "sentence_index_neg": 6
                 },
                 {
                     "wf": "ходить",
                     "wtype": "word",
-                    "off_start": 6,
-                    "off_end": 12,
-                    "next_word": 3,
-                    "sentence_index": 2,
+                    "off_start": 4,
+                    "off_end": 10,
+                    "next_word": 2,
+                    "sentence_index": 1,
                     "sentence_index_neg": 5
                 },
                 {
                     "wf": "в",
                     "wtype": "word",
-                    "off_start": 13,
-                    "off_end": 14,
-                    "next_word": 4,
-                    "sentence_index": 3,
+                    "off_start": 11,
+                    "off_end": 12,
+                    "next_word": 3,
+                    "sentence_index": 2,
                     "sentence_index_neg": 4
                 },
                 {
                     "wf": "школу",
                     "wtype": "word",
-                    "off_start": 15,
-                    "off_end": 20,
-                    "next_word": 5,
-                    "sentence_index": 4,
+                    "off_start": 13,
+                    "off_end": 18,
+                    "next_word": 4,
+                    "sentence_index": 3,
                     "sentence_index_neg": 3
                 },
                 {
                     "wf": "из-за",
                     "wtype": "word",
-                    "off_start": 21,
-                    "off_end": 26,
-                    "next_word": 6,
-                    "sentence_index": 5,
+                    "off_start": 19,
+                    "off_end": 24,
+                    "next_word": 5,
+                    "sentence_index": 4,
                     "sentence_index_neg": 2
                 },
                 {
                     "wf": "болезни...",
                     "wtype": "word",
-                    "off_start": 27,
-                    "off_end": 37,
-                    "next_word": 7,
-                    "sentence_index": 6,
+                    "off_start": 25,
+                    "off_end": 35,
+                    "next_word": 6,
+                    "sentence_index": 5,
                     "sentence_index_neg": 1
                 }
             ],
@@ -12847,42 +12406,33 @@
             ]
         },
         {
-            "text": " | ...попал в больницу",
+            "text": "...попал в больницу",
             "words": [
-                {
-                    "wf": "|",
-                    "wtype": "word",
-                    "off_start": 0,
-                    "off_end": 1,
-                    "next_word": 1,
-                    "sentence_index": 0,
-                    "sentence_index_neg": 4
-                },
                 {
                     "wf": "...попал",
                     "wtype": "word",
-                    "off_start": 2,
-                    "off_end": 10,
-                    "next_word": 2,
-                    "sentence_index": 1,
+                    "off_start": 0,
+                    "off_end": 8,
+                    "next_word": 1,
+                    "sentence_index": 0,
                     "sentence_index_neg": 3
                 },
                 {
                     "wf": "в",
                     "wtype": "word",
-                    "off_start": 11,
-                    "off_end": 12,
-                    "next_word": 3,
-                    "sentence_index": 2,
+                    "off_start": 9,
+                    "off_end": 10,
+                    "next_word": 2,
+                    "sentence_index": 1,
                     "sentence_index_neg": 2
                 },
                 {
                     "wf": "больницу",
                     "wtype": "word",
-                    "off_start": 13,
-                    "off_end": 21,
-                    "next_word": 4,
-                    "sentence_index": 3,
+                    "off_start": 11,
+                    "off_end": 19,
+                    "next_word": 3,
+                    "sentence_index": 2,
                     "sentence_index_neg": 1
                 }
             ],
@@ -12910,87 +12460,78 @@
             ]
         },
         {
-            "text": " | Ну, и остался в больнице где-то восемь месяцев.",
+            "text": "Ну, и остался в больнице где-то восемь месяцев.",
             "words": [
-                {
-                    "wf": "|",
-                    "wtype": "word",
-                    "off_start": 0,
-                    "off_end": 1,
-                    "next_word": 1,
-                    "sentence_index": 0,
-                    "sentence_index_neg": 9
-                },
                 {
                     "wf": "Ну,",
                     "wtype": "word",
-                    "off_start": 2,
-                    "off_end": 5,
-                    "next_word": 2,
-                    "sentence_index": 1,
+                    "off_start": 0,
+                    "off_end": 3,
+                    "next_word": 1,
+                    "sentence_index": 0,
                     "sentence_index_neg": 8
                 },
                 {
                     "wf": "и",
                     "wtype": "word",
-                    "off_start": 6,
-                    "off_end": 7,
-                    "next_word": 3,
-                    "sentence_index": 2,
+                    "off_start": 4,
+                    "off_end": 5,
+                    "next_word": 2,
+                    "sentence_index": 1,
                     "sentence_index_neg": 7
                 },
                 {
                     "wf": "остался",
                     "wtype": "word",
-                    "off_start": 8,
-                    "off_end": 15,
-                    "next_word": 4,
-                    "sentence_index": 3,
+                    "off_start": 6,
+                    "off_end": 13,
+                    "next_word": 3,
+                    "sentence_index": 2,
                     "sentence_index_neg": 6
                 },
                 {
                     "wf": "в",
                     "wtype": "word",
-                    "off_start": 16,
-                    "off_end": 17,
-                    "next_word": 5,
-                    "sentence_index": 4,
+                    "off_start": 14,
+                    "off_end": 15,
+                    "next_word": 4,
+                    "sentence_index": 3,
                     "sentence_index_neg": 5
                 },
                 {
                     "wf": "больнице",
                     "wtype": "word",
-                    "off_start": 18,
-                    "off_end": 26,
-                    "next_word": 6,
-                    "sentence_index": 5,
+                    "off_start": 16,
+                    "off_end": 24,
+                    "next_word": 5,
+                    "sentence_index": 4,
                     "sentence_index_neg": 4
                 },
                 {
                     "wf": "где-то",
                     "wtype": "word",
-                    "off_start": 27,
-                    "off_end": 33,
-                    "next_word": 7,
-                    "sentence_index": 6,
+                    "off_start": 25,
+                    "off_end": 31,
+                    "next_word": 6,
+                    "sentence_index": 5,
                     "sentence_index_neg": 3
                 },
                 {
                     "wf": "восемь",
                     "wtype": "word",
-                    "off_start": 34,
-                    "off_end": 40,
-                    "next_word": 8,
-                    "sentence_index": 7,
+                    "off_start": 32,
+                    "off_end": 38,
+                    "next_word": 7,
+                    "sentence_index": 6,
                     "sentence_index_neg": 2
                 },
                 {
                     "wf": "месяцев.",
                     "wtype": "word",
-                    "off_start": 41,
-                    "off_end": 49,
-                    "next_word": 9,
-                    "sentence_index": 8,
+                    "off_start": 39,
+                    "off_end": 47,
+                    "next_word": 8,
+                    "sentence_index": 7,
                     "sentence_index_neg": 1
                 }
             ],
@@ -13018,60 +12559,51 @@
             ]
         },
         {
-            "text": " | Ну, потом после этого вышел.",
+            "text": "Ну, потом после этого вышел.",
             "words": [
-                {
-                    "wf": "|",
-                    "wtype": "word",
-                    "off_start": 0,
-                    "off_end": 1,
-                    "next_word": 1,
-                    "sentence_index": 0,
-                    "sentence_index_neg": 6
-                },
                 {
                     "wf": "Ну,",
                     "wtype": "word",
-                    "off_start": 2,
-                    "off_end": 5,
-                    "next_word": 2,
-                    "sentence_index": 1,
+                    "off_start": 0,
+                    "off_end": 3,
+                    "next_word": 1,
+                    "sentence_index": 0,
                     "sentence_index_neg": 5
                 },
                 {
                     "wf": "потом",
                     "wtype": "word",
-                    "off_start": 6,
-                    "off_end": 11,
-                    "next_word": 3,
-                    "sentence_index": 2,
+                    "off_start": 4,
+                    "off_end": 9,
+                    "next_word": 2,
+                    "sentence_index": 1,
                     "sentence_index_neg": 4
                 },
                 {
                     "wf": "после",
                     "wtype": "word",
-                    "off_start": 12,
-                    "off_end": 17,
-                    "next_word": 4,
-                    "sentence_index": 3,
+                    "off_start": 10,
+                    "off_end": 15,
+                    "next_word": 3,
+                    "sentence_index": 2,
                     "sentence_index_neg": 3
                 },
                 {
                     "wf": "этого",
                     "wtype": "word",
-                    "off_start": 18,
-                    "off_end": 23,
-                    "next_word": 5,
-                    "sentence_index": 4,
+                    "off_start": 16,
+                    "off_end": 21,
+                    "next_word": 4,
+                    "sentence_index": 3,
                     "sentence_index_neg": 2
                 },
                 {
                     "wf": "вышел.",
                     "wtype": "word",
-                    "off_start": 24,
-                    "off_end": 30,
-                    "next_word": 6,
-                    "sentence_index": 5,
+                    "off_start": 22,
+                    "off_end": 28,
+                    "next_word": 5,
+                    "sentence_index": 4,
                     "sentence_index_neg": 1
                 }
             ],
@@ -13171,69 +12703,60 @@
             ]
         },
         {
-            "text": " | ‎‎...пришел опять сюда в свой кишлак",
+            "text": "‎‎...пришел опять сюда в свой кишлак",
             "words": [
-                {
-                    "wf": "|",
-                    "wtype": "word",
-                    "off_start": 0,
-                    "off_end": 1,
-                    "next_word": 1,
-                    "sentence_index": 0,
-                    "sentence_index_neg": 7
-                },
                 {
                     "wf": "‎‎...пришел",
                     "wtype": "word",
-                    "off_start": 2,
-                    "off_end": 13,
-                    "next_word": 2,
-                    "sentence_index": 1,
+                    "off_start": 0,
+                    "off_end": 11,
+                    "next_word": 1,
+                    "sentence_index": 0,
                     "sentence_index_neg": 6
                 },
                 {
                     "wf": "опять",
                     "wtype": "word",
-                    "off_start": 14,
-                    "off_end": 19,
-                    "next_word": 3,
-                    "sentence_index": 2,
+                    "off_start": 12,
+                    "off_end": 17,
+                    "next_word": 2,
+                    "sentence_index": 1,
                     "sentence_index_neg": 5
                 },
                 {
                     "wf": "сюда",
                     "wtype": "word",
-                    "off_start": 20,
-                    "off_end": 24,
-                    "next_word": 4,
-                    "sentence_index": 3,
+                    "off_start": 18,
+                    "off_end": 22,
+                    "next_word": 3,
+                    "sentence_index": 2,
                     "sentence_index_neg": 4
                 },
                 {
                     "wf": "в",
                     "wtype": "word",
-                    "off_start": 25,
-                    "off_end": 26,
-                    "next_word": 5,
-                    "sentence_index": 4,
+                    "off_start": 23,
+                    "off_end": 24,
+                    "next_word": 4,
+                    "sentence_index": 3,
                     "sentence_index_neg": 3
                 },
                 {
                     "wf": "свой",
                     "wtype": "word",
-                    "off_start": 27,
-                    "off_end": 31,
-                    "next_word": 6,
-                    "sentence_index": 5,
+                    "off_start": 25,
+                    "off_end": 29,
+                    "next_word": 5,
+                    "sentence_index": 4,
                     "sentence_index_neg": 2
                 },
                 {
                     "wf": "кишлак",
                     "wtype": "word",
-                    "off_start": 32,
-                    "off_end": 38,
-                    "next_word": 7,
-                    "sentence_index": 6,
+                    "off_start": 30,
+                    "off_end": 36,
+                    "next_word": 6,
+                    "sentence_index": 5,
                     "sentence_index_neg": 1
                 }
             ],
@@ -13261,42 +12784,33 @@
             ]
         },
         {
-            "text": " | Потом, дорогой мой...",
+            "text": "Потом, дорогой мой...",
             "words": [
-                {
-                    "wf": "|",
-                    "wtype": "word",
-                    "off_start": 0,
-                    "off_end": 1,
-                    "next_word": 1,
-                    "sentence_index": 0,
-                    "sentence_index_neg": 4
-                },
                 {
                     "wf": "Потом,",
                     "wtype": "word",
-                    "off_start": 2,
-                    "off_end": 8,
-                    "next_word": 2,
-                    "sentence_index": 1,
+                    "off_start": 0,
+                    "off_end": 6,
+                    "next_word": 1,
+                    "sentence_index": 0,
                     "sentence_index_neg": 3
                 },
                 {
                     "wf": "дорогой",
                     "wtype": "word",
-                    "off_start": 9,
-                    "off_end": 16,
-                    "next_word": 3,
-                    "sentence_index": 2,
+                    "off_start": 7,
+                    "off_end": 14,
+                    "next_word": 2,
+                    "sentence_index": 1,
                     "sentence_index_neg": 2
                 },
                 {
                     "wf": "мой...",
                     "wtype": "word",
-                    "off_start": 17,
-                    "off_end": 23,
-                    "next_word": 4,
-                    "sentence_index": 3,
+                    "off_start": 15,
+                    "off_end": 21,
+                    "next_word": 3,
+                    "sentence_index": 2,
                     "sentence_index_neg": 1
                 }
             ],
@@ -13324,78 +12838,69 @@
             ]
         },
         {
-            "text": " | ‎‎Я не пошел в свой институт, а...",
+            "text": "‎‎Я не пошел в свой институт, а...",
             "words": [
-                {
-                    "wf": "|",
-                    "wtype": "word",
-                    "off_start": 0,
-                    "off_end": 1,
-                    "next_word": 1,
-                    "sentence_index": 0,
-                    "sentence_index_neg": 8
-                },
                 {
                     "wf": "‎‎Я",
                     "wtype": "word",
-                    "off_start": 2,
-                    "off_end": 5,
-                    "next_word": 2,
-                    "sentence_index": 1,
+                    "off_start": 0,
+                    "off_end": 3,
+                    "next_word": 1,
+                    "sentence_index": 0,
                     "sentence_index_neg": 7
                 },
                 {
                     "wf": "не",
                     "wtype": "word",
-                    "off_start": 6,
-                    "off_end": 8,
-                    "next_word": 3,
-                    "sentence_index": 2,
+                    "off_start": 4,
+                    "off_end": 6,
+                    "next_word": 2,
+                    "sentence_index": 1,
                     "sentence_index_neg": 6
                 },
                 {
                     "wf": "пошел",
                     "wtype": "word",
-                    "off_start": 9,
-                    "off_end": 14,
-                    "next_word": 4,
-                    "sentence_index": 3,
+                    "off_start": 7,
+                    "off_end": 12,
+                    "next_word": 3,
+                    "sentence_index": 2,
                     "sentence_index_neg": 5
                 },
                 {
                     "wf": "в",
                     "wtype": "word",
-                    "off_start": 15,
-                    "off_end": 16,
-                    "next_word": 5,
-                    "sentence_index": 4,
+                    "off_start": 13,
+                    "off_end": 14,
+                    "next_word": 4,
+                    "sentence_index": 3,
                     "sentence_index_neg": 4
                 },
                 {
                     "wf": "свой",
                     "wtype": "word",
-                    "off_start": 17,
-                    "off_end": 21,
-                    "next_word": 6,
-                    "sentence_index": 5,
+                    "off_start": 15,
+                    "off_end": 19,
+                    "next_word": 5,
+                    "sentence_index": 4,
                     "sentence_index_neg": 3
                 },
                 {
                     "wf": "институт,",
                     "wtype": "word",
-                    "off_start": 22,
-                    "off_end": 31,
-                    "next_word": 7,
-                    "sentence_index": 6,
+                    "off_start": 20,
+                    "off_end": 29,
+                    "next_word": 6,
+                    "sentence_index": 5,
                     "sentence_index_neg": 2
                 },
                 {
                     "wf": "а...",
                     "wtype": "word",
-                    "off_start": 32,
-                    "off_end": 36,
-                    "next_word": 8,
-                    "sentence_index": 7,
+                    "off_start": 30,
+                    "off_end": 34,
+                    "next_word": 7,
+                    "sentence_index": 6,
                     "sentence_index_neg": 1
                 }
             ],
@@ -13423,51 +12928,42 @@
             ]
         },
         {
-            "text": " | ‎‎(пошёл в) систему торговли",
+            "text": "‎‎(пошёл в) систему торговли",
             "words": [
-                {
-                    "wf": "|",
-                    "wtype": "word",
-                    "off_start": 0,
-                    "off_end": 1,
-                    "next_word": 1,
-                    "sentence_index": 0,
-                    "sentence_index_neg": 5
-                },
                 {
                     "wf": "‎‎(пошёл",
                     "wtype": "word",
-                    "off_start": 2,
-                    "off_end": 10,
-                    "next_word": 2,
-                    "sentence_index": 1,
+                    "off_start": 0,
+                    "off_end": 8,
+                    "next_word": 1,
+                    "sentence_index": 0,
                     "sentence_index_neg": 4
                 },
                 {
                     "wf": "в)",
                     "wtype": "word",
-                    "off_start": 11,
-                    "off_end": 13,
-                    "next_word": 3,
-                    "sentence_index": 2,
+                    "off_start": 9,
+                    "off_end": 11,
+                    "next_word": 2,
+                    "sentence_index": 1,
                     "sentence_index_neg": 3
                 },
                 {
                     "wf": "систему",
                     "wtype": "word",
-                    "off_start": 14,
-                    "off_end": 21,
-                    "next_word": 4,
-                    "sentence_index": 3,
+                    "off_start": 12,
+                    "off_end": 19,
+                    "next_word": 3,
+                    "sentence_index": 2,
                     "sentence_index_neg": 2
                 },
                 {
                     "wf": "торговли",
                     "wtype": "word",
-                    "off_start": 22,
-                    "off_end": 30,
-                    "next_word": 5,
-                    "sentence_index": 4,
+                    "off_start": 20,
+                    "off_end": 28,
+                    "next_word": 4,
+                    "sentence_index": 3,
                     "sentence_index_neg": 1
                 }
             ],
@@ -13531,60 +13027,51 @@
             ]
         },
         {
-            "text": " | ‎‎В 1970 году я ...",
+            "text": "‎‎В 1970 году я ...",
             "words": [
-                {
-                    "wf": "|",
-                    "wtype": "word",
-                    "off_start": 0,
-                    "off_end": 1,
-                    "next_word": 1,
-                    "sentence_index": 0,
-                    "sentence_index_neg": 6
-                },
                 {
                     "wf": "‎‎В",
                     "wtype": "word",
-                    "off_start": 2,
-                    "off_end": 5,
-                    "next_word": 2,
-                    "sentence_index": 1,
+                    "off_start": 0,
+                    "off_end": 3,
+                    "next_word": 1,
+                    "sentence_index": 0,
                     "sentence_index_neg": 5
                 },
                 {
                     "wf": "1970",
                     "wtype": "word",
-                    "off_start": 6,
-                    "off_end": 10,
-                    "next_word": 3,
-                    "sentence_index": 2,
+                    "off_start": 4,
+                    "off_end": 8,
+                    "next_word": 2,
+                    "sentence_index": 1,
                     "sentence_index_neg": 4
                 },
                 {
                     "wf": "году",
                     "wtype": "word",
-                    "off_start": 11,
-                    "off_end": 15,
-                    "next_word": 4,
-                    "sentence_index": 3,
+                    "off_start": 9,
+                    "off_end": 13,
+                    "next_word": 3,
+                    "sentence_index": 2,
                     "sentence_index_neg": 3
                 },
                 {
                     "wf": "я",
                     "wtype": "word",
-                    "off_start": 16,
-                    "off_end": 17,
-                    "next_word": 5,
-                    "sentence_index": 4,
+                    "off_start": 14,
+                    "off_end": 15,
+                    "next_word": 4,
+                    "sentence_index": 3,
                     "sentence_index_neg": 2
                 },
                 {
                     "wf": "...",
                     "wtype": "punct",
-                    "off_start": 18,
-                    "off_end": 21,
-                    "next_word": 6,
-                    "sentence_index": 5,
+                    "off_start": 16,
+                    "off_end": 19,
+                    "next_word": 5,
+                    "sentence_index": 4,
                     "sentence_index_neg": 1
                 }
             ],
@@ -13612,69 +13099,60 @@
             ]
         },
         {
-            "text": " | я пошел в систему торговли до...",
+            "text": "я пошел в систему торговли до...",
             "words": [
                 {
-                    "wf": "|",
+                    "wf": "я",
                     "wtype": "word",
                     "off_start": 0,
                     "off_end": 1,
                     "next_word": 1,
                     "sentence_index": 0,
-                    "sentence_index_neg": 7
-                },
-                {
-                    "wf": "я",
-                    "wtype": "word",
-                    "off_start": 2,
-                    "off_end": 3,
-                    "next_word": 2,
-                    "sentence_index": 1,
                     "sentence_index_neg": 6
                 },
                 {
                     "wf": "пошел",
                     "wtype": "word",
-                    "off_start": 4,
-                    "off_end": 9,
-                    "next_word": 3,
-                    "sentence_index": 2,
+                    "off_start": 2,
+                    "off_end": 7,
+                    "next_word": 2,
+                    "sentence_index": 1,
                     "sentence_index_neg": 5
                 },
                 {
                     "wf": "в",
                     "wtype": "word",
-                    "off_start": 10,
-                    "off_end": 11,
-                    "next_word": 4,
-                    "sentence_index": 3,
+                    "off_start": 8,
+                    "off_end": 9,
+                    "next_word": 3,
+                    "sentence_index": 2,
                     "sentence_index_neg": 4
                 },
                 {
                     "wf": "систему",
                     "wtype": "word",
-                    "off_start": 12,
-                    "off_end": 19,
-                    "next_word": 5,
-                    "sentence_index": 4,
+                    "off_start": 10,
+                    "off_end": 17,
+                    "next_word": 4,
+                    "sentence_index": 3,
                     "sentence_index_neg": 3
                 },
                 {
                     "wf": "торговли",
                     "wtype": "word",
-                    "off_start": 20,
-                    "off_end": 28,
-                    "next_word": 6,
-                    "sentence_index": 5,
+                    "off_start": 18,
+                    "off_end": 26,
+                    "next_word": 5,
+                    "sentence_index": 4,
                     "sentence_index_neg": 2
                 },
                 {
                     "wf": "до...",
                     "wtype": "word",
-                    "off_start": 29,
-                    "off_end": 34,
-                    "next_word": 7,
-                    "sentence_index": 6,
+                    "off_start": 27,
+                    "off_end": 32,
+                    "next_word": 6,
+                    "sentence_index": 5,
                     "sentence_index_neg": 1
                 }
             ],
@@ -13702,33 +13180,24 @@
             ]
         },
         {
-            "text": " | ‎‎...примерно вот..",
+            "text": "‎‎...примерно вот..",
             "words": [
-                {
-                    "wf": "|",
-                    "wtype": "word",
-                    "off_start": 0,
-                    "off_end": 1,
-                    "next_word": 1,
-                    "sentence_index": 0,
-                    "sentence_index_neg": 3
-                },
                 {
                     "wf": "‎‎...примерно",
                     "wtype": "word",
-                    "off_start": 2,
-                    "off_end": 15,
-                    "next_word": 2,
-                    "sentence_index": 1,
+                    "off_start": 0,
+                    "off_end": 13,
+                    "next_word": 1,
+                    "sentence_index": 0,
                     "sentence_index_neg": 2
                 },
                 {
                     "wf": "вот..",
                     "wtype": "word",
-                    "off_start": 16,
-                    "off_end": 21,
-                    "next_word": 3,
-                    "sentence_index": 2,
+                    "off_start": 14,
+                    "off_end": 19,
+                    "next_word": 2,
+                    "sentence_index": 1,
                     "sentence_index_neg": 1
                 }
             ],
@@ -13756,42 +13225,33 @@
             ]
         },
         {
-            "text": " | До 2005-2006 годов...",
+            "text": "До 2005-2006 годов...",
             "words": [
-                {
-                    "wf": "|",
-                    "wtype": "word",
-                    "off_start": 0,
-                    "off_end": 1,
-                    "next_word": 1,
-                    "sentence_index": 0,
-                    "sentence_index_neg": 4
-                },
                 {
                     "wf": "До",
                     "wtype": "word",
-                    "off_start": 2,
-                    "off_end": 4,
-                    "next_word": 2,
-                    "sentence_index": 1,
+                    "off_start": 0,
+                    "off_end": 2,
+                    "next_word": 1,
+                    "sentence_index": 0,
                     "sentence_index_neg": 3
                 },
                 {
                     "wf": "2005-2006",
                     "wtype": "word",
-                    "off_start": 5,
-                    "off_end": 14,
-                    "next_word": 3,
-                    "sentence_index": 2,
+                    "off_start": 3,
+                    "off_end": 12,
+                    "next_word": 2,
+                    "sentence_index": 1,
                     "sentence_index_neg": 2
                 },
                 {
                     "wf": "годов...",
                     "wtype": "word",
-                    "off_start": 15,
-                    "off_end": 23,
-                    "next_word": 4,
-                    "sentence_index": 3,
+                    "off_start": 13,
+                    "off_end": 21,
+                    "next_word": 3,
+                    "sentence_index": 2,
                     "sentence_index_neg": 1
                 }
             ],
@@ -13927,51 +13387,42 @@
             ]
         },
         {
-            "text": " | ...в торговой системе работал",
+            "text": "...в торговой системе работал",
             "words": [
-                {
-                    "wf": "|",
-                    "wtype": "word",
-                    "off_start": 0,
-                    "off_end": 1,
-                    "next_word": 1,
-                    "sentence_index": 0,
-                    "sentence_index_neg": 5
-                },
                 {
                     "wf": "...в",
                     "wtype": "word",
-                    "off_start": 2,
-                    "off_end": 6,
-                    "next_word": 2,
-                    "sentence_index": 1,
+                    "off_start": 0,
+                    "off_end": 4,
+                    "next_word": 1,
+                    "sentence_index": 0,
                     "sentence_index_neg": 4
                 },
                 {
                     "wf": "торговой",
                     "wtype": "word",
-                    "off_start": 7,
-                    "off_end": 15,
-                    "next_word": 3,
-                    "sentence_index": 2,
+                    "off_start": 5,
+                    "off_end": 13,
+                    "next_word": 2,
+                    "sentence_index": 1,
                     "sentence_index_neg": 3
                 },
                 {
                     "wf": "системе",
                     "wtype": "word",
-                    "off_start": 16,
-                    "off_end": 23,
-                    "next_word": 4,
-                    "sentence_index": 3,
+                    "off_start": 14,
+                    "off_end": 21,
+                    "next_word": 3,
+                    "sentence_index": 2,
                     "sentence_index_neg": 2
                 },
                 {
                     "wf": "работал",
                     "wtype": "word",
-                    "off_start": 24,
-                    "off_end": 31,
-                    "next_word": 5,
-                    "sentence_index": 4,
+                    "off_start": 22,
+                    "off_end": 29,
+                    "next_word": 4,
+                    "sentence_index": 3,
                     "sentence_index_neg": 1
                 }
             ],

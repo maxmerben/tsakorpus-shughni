@@ -11340,7 +11340,7 @@
                 },
                 {
                     "wf": "—",
-                    "wtype": "word",
+                    "wtype": "punct",
                     "off_start": 70,
                     "off_end": 71,
                     "next_word": 16,

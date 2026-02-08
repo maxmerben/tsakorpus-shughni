@@ -3796,7 +3796,7 @@
                 },
                 {
                     "wf": "—",
-                    "wtype": "word",
+                    "wtype": "punct",
                     "off_start": 30,
                     "off_end": 31,
                     "next_word": 7,
@@ -3927,7 +3927,7 @@
                 },
                 {
                     "wf": "—",
-                    "wtype": "word",
+                    "wtype": "punct",
                     "off_start": 74,
                     "off_end": 75,
                     "next_word": 14,

@@ -3233,7 +3233,7 @@
                 },
                 {
                     "wf": "—",
-                    "wtype": "word",
+                    "wtype": "punct",
                     "off_start": 78,
                     "off_end": 79,
                     "next_word": 14,
@@ -3451,7 +3451,7 @@
                 },
                 {
                     "wf": "—",
-                    "wtype": "word",
+                    "wtype": "punct",
                     "off_start": 40,
                     "off_end": 41,
                     "next_word": 7,
@@ -7098,7 +7098,7 @@
                 },
                 {
                     "wf": "—",
-                    "wtype": "word",
+                    "wtype": "punct",
                     "off_start": 68,
                     "off_end": 69,
                     "next_word": 16,
@@ -8282,7 +8282,7 @@
                 },
                 {
                     "wf": "—",
-                    "wtype": "word",
+                    "wtype": "punct",
                     "off_start": 38,
                     "off_end": 39,
                     "next_word": 9,
@@ -18198,7 +18198,7 @@
                 },
                 {
                     "wf": "—",
-                    "wtype": "word",
+                    "wtype": "punct",
                     "off_start": 30,
                     "off_end": 31,
                     "next_word": 6,
@@ -18285,7 +18285,7 @@
             "words": [
                 {
                     "wf": "—",
-                    "wtype": "word",
+                    "wtype": "punct",
                     "off_start": 0,
                     "off_end": 1,
                     "next_word": 1,
@@ -24350,7 +24350,7 @@
                 },
                 {
                     "wf": "—",
-                    "wtype": "word",
+                    "wtype": "punct",
                     "off_start": 133,
                     "off_end": 134,
                     "next_word": 25,

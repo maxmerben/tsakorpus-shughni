@@ -17,6 +17,7 @@
         "translated by": "OO04",
         "glossed by": "Maksim Melenchenko",
         "comment": "студентам, потом Даше Ч",
+        "public comment": "AN99 retells the plot of the Pear Film as he heard it from O04’s firsthand retelling",
         "speakers": [
             "A"
         ],
@@ -1239,7 +1240,7 @@
                 },
                 {
                     "wf": "—",
-                    "wtype": "word",
+                    "wtype": "punct",
                     "off_start": 38,
                     "off_end": 39,
                     "next_word": 8,
@@ -8537,7 +8538,7 @@
                 },
                 {
                     "wf": "—",
-                    "wtype": "word",
+                    "wtype": "punct",
                     "off_start": 35,
                     "off_end": 36,
                     "next_word": 8,

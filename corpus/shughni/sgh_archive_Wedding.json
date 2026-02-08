@@ -2811,7 +2811,7 @@
                 },
                 {
                     "wf": "—",
-                    "wtype": "word",
+                    "wtype": "punct",
                     "off_start": 14,
                     "off_end": 15,
                     "next_word": 3,
@@ -2865,7 +2865,7 @@
                 },
                 {
                     "wf": "—",
-                    "wtype": "word",
+                    "wtype": "punct",
                     "off_start": 47,
                     "off_end": 48,
                     "next_word": 9,
@@ -3059,7 +3059,7 @@
                 },
                 {
                     "wf": "—",
-                    "wtype": "word",
+                    "wtype": "punct",
                     "off_start": 50,
                     "off_end": 51,
                     "next_word": 10,
@@ -3956,7 +3956,7 @@
                 },
                 {
                     "wf": "—",
-                    "wtype": "word",
+                    "wtype": "punct",
                     "off_start": 32,
                     "off_end": 33,
                     "next_word": 6,

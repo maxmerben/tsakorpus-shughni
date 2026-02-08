@@ -1,4 +1,0 @@
-normal	normal
-simplified	simplifié
-strict	exact
-

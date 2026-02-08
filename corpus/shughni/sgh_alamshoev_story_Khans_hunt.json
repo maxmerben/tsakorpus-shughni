@@ -2320,7 +2320,7 @@
                 },
                 {
                     "wf": "—",
-                    "wtype": "word",
+                    "wtype": "punct",
                     "off_start": 22,
                     "off_end": 23,
                     "next_word": 4,

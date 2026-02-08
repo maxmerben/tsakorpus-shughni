@@ -17,6 +17,7 @@
         "translated by": "OO04",
         "glossed by": "Maksim Melenchenko",
         "comment": "студентам; потом Максиму",
+        "public comment": "RES99 retells the plot of the Pear Film as she watched it",
         "speakers": [
             "A",
             "B"
@@ -18147,7 +18148,7 @@
                 },
                 {
                     "wf": "—",
-                    "wtype": "word",
+                    "wtype": "punct",
                     "off_start": 45,
                     "off_end": 46,
                     "next_word": 8,

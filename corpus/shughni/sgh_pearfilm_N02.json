@@ -16,6 +16,7 @@
         "recorded by": "Alexander Sergienko",
         "translated by": "FM05",
         "glossed by": "Maksim Melenchenko",
+        "public comment": "N02 retells the plot of the Pear Film as she watched it",
         "speakers": [
             "A"
         ],
@@ -14784,7 +14785,7 @@
                 },
                 {
                     "wf": "—",
-                    "wtype": "word",
+                    "wtype": "punct",
                     "off_start": 28,
                     "off_end": 29,
                     "next_word": 6,

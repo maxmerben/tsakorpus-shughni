@@ -2289,7 +2289,7 @@
                 },
                 {
                     "wf": "—",
-                    "wtype": "word",
+                    "wtype": "punct",
                     "off_start": 37,
                     "off_end": 38,
                     "next_word": 8,

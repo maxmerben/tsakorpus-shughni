@@ -179,7 +179,7 @@ msgstr "Lemma:"
 
 #: templates/index/query_area.html:22
 msgid "Grammar:"
-msgstr "Grammar:"
+msgstr "Grammar tag:"
 
 #: templates/index/query_area.html:26
 msgid "Gloss:"

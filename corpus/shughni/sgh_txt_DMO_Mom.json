@@ -7464,7 +7464,7 @@
                 },
                 {
                     "wf": "—",
-                    "wtype": "word",
+                    "wtype": "punct",
                     "off_start": 9,
                     "off_end": 10,
                     "next_word": 2,

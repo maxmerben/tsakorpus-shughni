@@ -1058,7 +1058,7 @@
           "value": ""
         },
         {
-          "name": "title_en",
+          "name": "title",
           "text": "",
           "type": "input_text",
           "value": ""
@@ -1420,7 +1420,7 @@
       ]
     ],
     "stat_options": [
-      "title_en",
+      "title",
       "subcorpus",
       "type",
       "genre",
@@ -1447,7 +1447,7 @@
   "use_nonpersistent_fulltext_id": true,
   "video": true,
   "viewable_meta": [
-    "title_en",
+    "title",
     "author",
     "year_from",
     "year_to",

@@ -20,24 +20,15 @@
     },
     "sentences": [
         {
-            "text": "[NSS] Wuzum tar qubūdiyen zindagi čūd.",
+            "text": "Wuzum tar qubūdiyen zindagi čūd.",
             "words": [
                 {
-                    "wf": "[NSS]",
+                    "wf": "Wuzum",
                     "wtype": "word",
                     "off_start": 0,
                     "off_end": 5,
                     "next_word": 1,
                     "sentence_index": 0,
-                    "sentence_index_neg": 6
-                },
-                {
-                    "wf": "wuzum",
-                    "wtype": "word",
-                    "off_start": 6,
-                    "off_end": 11,
-                    "next_word": 2,
-                    "sentence_index": 1,
                     "sentence_index_neg": 5,
                     "ana": [
                         {
@@ -55,10 +46,10 @@
                 {
                     "wf": "tar",
                     "wtype": "word",
-                    "off_start": 12,
-                    "off_end": 15,
-                    "next_word": 3,
-                    "sentence_index": 2,
+                    "off_start": 6,
+                    "off_end": 9,
+                    "next_word": 2,
+                    "sentence_index": 1,
                     "sentence_index_neg": 4,
                     "ana": [
                         {
@@ -75,14 +66,16 @@
                 {
                     "wf": "qubūdiyen",
                     "wtype": "word",
-                    "off_start": 16,
-                    "off_end": 25,
-                    "next_word": 4,
-                    "sentence_index": 3,
+                    "off_start": 10,
+                    "off_end": 19,
+                    "next_word": 3,
+                    "sentence_index": 2,
                     "sentence_index_neg": 3,
                     "ana": [
                         {
-                            "gr.pos": [],
+                            "gr.pos": [
+                                "NPROP"
+                            ],
                             "parts": "qubūdiyen",
                             "gloss": "Kubudian",
                             "lex": "qubūdiyen",
@@ -93,10 +86,10 @@
                 {
                     "wf": "zindagi",
                     "wtype": "word",
-                    "off_start": 26,
-                    "off_end": 33,
-                    "next_word": 5,
-                    "sentence_index": 4,
+                    "off_start": 20,
+                    "off_end": 27,
+                    "next_word": 4,
+                    "sentence_index": 3,
                     "sentence_index_neg": 2,
                     "ana": [
                         {
@@ -113,10 +106,10 @@
                 {
                     "wf": "čūd.",
                     "wtype": "word",
-                    "off_start": 34,
-                    "off_end": 38,
-                    "next_word": 6,
-                    "sentence_index": 5,
+                    "off_start": 28,
+                    "off_end": 32,
+                    "next_word": 5,
+                    "sentence_index": 4,
                     "sentence_index_neg": 1,
                     "ana": [
                         {
@@ -139,7 +132,7 @@
             "para_alignment": [
                 {
                     "off_start": 0,
-                    "off_end": 38,
+                    "off_end": 32,
                     "para_id": 1
                 }
             ],
@@ -148,10 +141,10 @@
                     "off_start_src": 12.89,
                     "off_end_src": 15.6,
                     "off_start_sent": 0,
-                    "off_end_sent": 38,
+                    "off_end_sent": 32,
                     "mtype": "audio",
                     "src_id": "12890.0_15600.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -344,7 +337,7 @@
                     "off_end_sent": 44,
                     "mtype": "audio",
                     "src_id": "16105.0_19566.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -469,7 +462,7 @@
                     "off_end_sent": 26,
                     "mtype": "audio",
                     "src_id": "20055.0_22330.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -671,7 +664,7 @@
                     "off_end_sent": 50,
                     "mtype": "audio",
                     "src_id": "22330.0_26126.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -899,7 +892,7 @@
                     "off_end_sent": 51,
                     "mtype": "audio",
                     "src_id": "26126.0_30780.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -1067,7 +1060,7 @@
                     "off_end_sent": 43,
                     "mtype": "audio",
                     "src_id": "31083.0_35192.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -1400,7 +1393,7 @@
                     "off_end_sent": 82,
                     "mtype": "audio",
                     "src_id": "35473.0_41453.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -1465,7 +1458,7 @@
                     "off_end_sent": 10,
                     "mtype": "audio",
                     "src_id": "41453.0_42203.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -1616,7 +1609,7 @@
                     "off_end_sent": 40,
                     "mtype": "audio",
                     "src_id": "42681.0_47386.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -1779,7 +1772,7 @@
                     "off_end_sent": 58,
                     "mtype": "audio",
                     "src_id": "47611.0_53530.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -2063,7 +2056,7 @@
                     "off_end_sent": 86,
                     "mtype": "audio",
                     "src_id": "53530.0_59769.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -2197,7 +2190,7 @@
                     "off_end_sent": 34,
                     "mtype": "audio",
                     "src_id": "60036.0_62874.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -2265,7 +2258,7 @@
                     "off_end_sent": 12,
                     "mtype": "audio",
                     "src_id": "62881.0_64201.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -2593,7 +2586,7 @@
                     "off_end_sent": 83,
                     "mtype": "audio",
                     "src_id": "64623.0_70531.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -2740,7 +2733,7 @@
                     "off_end_sent": 36,
                     "mtype": "audio",
                     "src_id": "70724.0_74727.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -2966,7 +2959,7 @@
                     "off_end_sent": 62,
                     "mtype": "audio",
                     "src_id": "76036.0_82593.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -3082,7 +3075,7 @@
                     "off_end_sent": 37,
                     "mtype": "audio",
                     "src_id": "82699.0_86398.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -3211,7 +3204,7 @@
                     "off_end_sent": 44,
                     "mtype": "audio",
                     "src_id": "86398.0_89779.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -3454,7 +3447,7 @@
                     "off_end_sent": 54,
                     "mtype": "audio",
                     "src_id": "89842.0_94599.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -3601,7 +3594,7 @@
                     "off_end_sent": 31,
                     "mtype": "audio",
                     "src_id": "94599.0_97273.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -3707,7 +3700,7 @@
                     "off_end_sent": 21,
                     "mtype": "audio",
                     "src_id": "97273.0_99165.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -3831,7 +3824,7 @@
                     "off_end_sent": 24,
                     "mtype": "audio",
                     "src_id": "99165.0_101180.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -4001,7 +3994,7 @@
                     "off_end_sent": 35,
                     "mtype": "audio",
                     "src_id": "101180.0_103923.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -4110,7 +4103,7 @@
                     "off_end_sent": 21,
                     "mtype": "audio",
                     "src_id": "103923.0_105613.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -4196,7 +4189,7 @@
                     "off_end_sent": 19,
                     "mtype": "audio",
                     "src_id": "105613.0_107230.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -4442,7 +4435,7 @@
                     "off_end_sent": 59,
                     "mtype": "audio",
                     "src_id": "107230.0_113099.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -4647,7 +4640,7 @@
                     "off_end_sent": 51,
                     "mtype": "audio",
                     "src_id": "113099.0_117559.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -4855,7 +4848,7 @@
                     "off_end_sent": 38,
                     "mtype": "audio",
                     "src_id": "117559.0_120735.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -5031,7 +5024,7 @@
                     "off_end_sent": 66,
                     "mtype": "audio",
                     "src_id": "120735.0_124929.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -5180,7 +5173,7 @@
                     "off_end_sent": 26,
                     "mtype": "audio",
                     "src_id": "124929.0_127068.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -5408,7 +5401,7 @@
                     "off_end_sent": 47,
                     "mtype": "audio",
                     "src_id": "127068.0_130209.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -5516,7 +5509,7 @@
                     "off_end_sent": 28,
                     "mtype": "audio",
                     "src_id": "130209.0_132427.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -5706,7 +5699,7 @@
                     "off_end_sent": 35,
                     "mtype": "audio",
                     "src_id": "132427.0_134972.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -5831,7 +5824,7 @@
                     "off_end_sent": 33,
                     "mtype": "audio",
                     "src_id": "134972.0_138451.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -6057,7 +6050,7 @@
                     "off_end_sent": 51,
                     "mtype": "audio",
                     "src_id": "138451.0_142344.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -6242,7 +6235,7 @@
                     "off_end_sent": 59,
                     "mtype": "audio",
                     "src_id": "142344.0_147399.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -6371,7 +6364,7 @@
                     "off_end_sent": 30,
                     "mtype": "audio",
                     "src_id": "147399.0_150433.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -6637,7 +6630,7 @@
                     "off_end_sent": 60,
                     "mtype": "audio",
                     "src_id": "150433.0_155692.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -6962,7 +6955,7 @@
                     "off_end_sent": 76,
                     "mtype": "audio",
                     "src_id": "155692.0_160662.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -7071,7 +7064,7 @@
                     "off_end_sent": 21,
                     "mtype": "audio",
                     "src_id": "160662.0_162563.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -7238,7 +7231,7 @@
                     "off_end_sent": 49,
                     "mtype": "audio",
                     "src_id": "162563.0_167359.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -7567,7 +7560,7 @@
                     "off_end_sent": 76,
                     "mtype": "audio",
                     "src_id": "167359.0_173197.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -7696,7 +7689,7 @@
                     "off_end_sent": 27,
                     "mtype": "audio",
                     "src_id": "173197.0_175333.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -7905,7 +7898,7 @@
                     "off_end_sent": 47,
                     "mtype": "audio",
                     "src_id": "175333.0_180463.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -8094,7 +8087,7 @@
                     "off_end_sent": 46,
                     "mtype": "audio",
                     "src_id": "180463.0_185180.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -8282,7 +8275,7 @@
                     "off_end_sent": 46,
                     "mtype": "audio",
                     "src_id": "185180.0_188877.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -8371,7 +8364,7 @@
                     "off_end_sent": 18,
                     "mtype": "audio",
                     "src_id": "188877.0_190763.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -8655,7 +8648,7 @@
                     "off_end_sent": 64,
                     "mtype": "audio",
                     "src_id": "190763.0_197410.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -8908,7 +8901,7 @@
                     "off_end_sent": 53,
                     "mtype": "audio",
                     "src_id": "197410.0_201801.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -8996,7 +8989,7 @@
                     "off_end_sent": 14,
                     "mtype": "audio",
                     "src_id": "201801.0_204979.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -9164,7 +9157,7 @@
                     "off_end_sent": 35,
                     "mtype": "audio",
                     "src_id": "204979.0_208300.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -9476,7 +9469,7 @@
                     "off_end_sent": 70,
                     "mtype": "audio",
                     "src_id": "208314.0_213593.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -9586,7 +9579,7 @@
                     "off_end_sent": 20,
                     "mtype": "audio",
                     "src_id": "213593.0_215163.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -9692,7 +9685,7 @@
                     "off_end_sent": 20,
                     "mtype": "audio",
                     "src_id": "215163.0_217396.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -9995,7 +9988,7 @@
                     "off_end_sent": 64,
                     "mtype": "audio",
                     "src_id": "217396.0_222765.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -10248,7 +10241,7 @@
                     "off_end_sent": 64,
                     "mtype": "audio",
                     "src_id": "222765.0_227472.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -10521,7 +10514,7 @@
                     "off_end_sent": 89,
                     "mtype": "audio",
                     "src_id": "227472.0_234316.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -10810,7 +10803,7 @@
                     "off_end_sent": 74,
                     "mtype": "audio",
                     "src_id": "234316.0_240172.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -10961,7 +10954,7 @@
                     "off_end_sent": 34,
                     "mtype": "audio",
                     "src_id": "240172.0_242991.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -11131,7 +11124,7 @@
                     "off_end_sent": 41,
                     "mtype": "audio",
                     "src_id": "242991.0_245975.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -11343,7 +11336,7 @@
                     "off_end_sent": 50,
                     "mtype": "audio",
                     "src_id": "245975.0_249317.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -11654,7 +11647,7 @@
                     "off_end_sent": 76,
                     "mtype": "audio",
                     "src_id": "249317.0_254471.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -12027,7 +12020,7 @@
                     "off_end_sent": 89,
                     "mtype": "audio",
                     "src_id": "254471.0_260413.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -12116,7 +12109,7 @@
                     "off_end_sent": 14,
                     "mtype": "audio",
                     "src_id": "260413.0_261744.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -12286,7 +12279,7 @@
                     "off_end_sent": 40,
                     "mtype": "audio",
                     "src_id": "261744.0_265098.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -12395,7 +12388,7 @@
                     "off_end_sent": 19,
                     "mtype": "audio",
                     "src_id": "265098.0_266261.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -12666,7 +12659,7 @@
                     "off_end_sent": 69,
                     "mtype": "audio",
                     "src_id": "266261.0_270227.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -12736,7 +12729,7 @@
                     "off_end_sent": 12,
                     "mtype": "audio",
                     "src_id": "270227.0_271709.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -12844,7 +12837,7 @@
                     "off_end_sent": 22,
                     "mtype": "audio",
                     "src_id": "271709.0_273323.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -12995,7 +12988,7 @@
                     "off_end_sent": 38,
                     "mtype": "audio",
                     "src_id": "273323.0_277904.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -13206,7 +13199,7 @@
                     "off_end_sent": 46,
                     "mtype": "audio",
                     "src_id": "277904.0_281459.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -13413,7 +13406,7 @@
                     "off_end_sent": 73,
                     "mtype": "audio",
                     "src_id": "281459.0_287365.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -13704,7 +13697,7 @@
                     "off_end_sent": 66,
                     "mtype": "audio",
                     "src_id": "287365.0_291320.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -13977,7 +13970,7 @@
                     "off_end_sent": 66,
                     "mtype": "audio",
                     "src_id": "291320.0_295595.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -14128,7 +14121,7 @@
                     "off_end_sent": 36,
                     "mtype": "audio",
                     "src_id": "295595.0_299723.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -14281,7 +14274,7 @@
                     "off_end_sent": 38,
                     "mtype": "audio",
                     "src_id": "299723.0_302547.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -14555,7 +14548,7 @@
                     "off_end_sent": 63,
                     "mtype": "audio",
                     "src_id": "302547.0_306475.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -14704,7 +14697,7 @@
                     "off_end_sent": 35,
                     "mtype": "audio",
                     "src_id": "306475.0_308966.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -14955,7 +14948,7 @@
                     "off_end_sent": 69,
                     "mtype": "audio",
                     "src_id": "308966.0_314335.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -15181,7 +15174,7 @@
                     "off_end_sent": 45,
                     "mtype": "audio",
                     "src_id": "314335.0_317251.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -15452,7 +15445,7 @@
                     "off_end_sent": 59,
                     "mtype": "audio",
                     "src_id": "317251.0_321614.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -15721,7 +15714,7 @@
                     "off_end_sent": 53,
                     "mtype": "audio",
                     "src_id": "321614.0_325967.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -16011,7 +16004,7 @@
                     "off_end_sent": 78,
                     "mtype": "audio",
                     "src_id": "325967.0_331632.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -16242,7 +16235,7 @@
                     "off_end_sent": 49,
                     "mtype": "audio",
                     "src_id": "331632.0_335413.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -16413,7 +16406,7 @@
                     "off_end_sent": 45,
                     "mtype": "audio",
                     "src_id": "335413.0_338469.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -16579,7 +16572,7 @@
                     "off_end_sent": 33,
                     "mtype": "audio",
                     "src_id": "338469.0_340411.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -16790,7 +16783,7 @@
                     "off_end_sent": 45,
                     "mtype": "audio",
                     "src_id": "340411.0_343715.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -16915,7 +16908,7 @@
                     "off_end_sent": 26,
                     "mtype": "audio",
                     "src_id": "343715.0_345508.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -17183,7 +17176,7 @@
                     "off_end_sent": 79,
                     "mtype": "audio",
                     "src_id": "345508.0_351305.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -17372,7 +17365,7 @@
                     "off_end_sent": 39,
                     "mtype": "audio",
                     "src_id": "351305.0_354225.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -17601,7 +17594,7 @@
                     "off_end_sent": 63,
                     "mtype": "audio",
                     "src_id": "354225.0_359055.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -17932,7 +17925,7 @@
                     "off_end_sent": 67,
                     "mtype": "audio",
                     "src_id": "359055.0_364977.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -18143,7 +18136,7 @@
                     "off_end_sent": 54,
                     "mtype": "audio",
                     "src_id": "364977.0_368400.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -18409,7 +18402,7 @@
                     "off_end_sent": 68,
                     "mtype": "audio",
                     "src_id": "368400.0_373242.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -18535,7 +18528,7 @@
                     "off_end_sent": 32,
                     "mtype": "audio",
                     "src_id": "373242.0_375759.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -18764,7 +18757,7 @@
                     "off_end_sent": 51,
                     "mtype": "audio",
                     "src_id": "375759.0_380993.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -18935,7 +18928,7 @@
                     "off_end_sent": 41,
                     "mtype": "audio",
                     "src_id": "380993.0_383618.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -19080,7 +19073,7 @@
                     "off_end_sent": 26,
                     "mtype": "audio",
                     "src_id": "383618.0_386495.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -19328,7 +19321,7 @@
                     "off_end_sent": 52,
                     "mtype": "audio",
                     "src_id": "386495.0_391060.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -19396,7 +19389,7 @@
                     "off_end_sent": 13,
                     "mtype": "audio",
                     "src_id": "391060.0_391667.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -19587,7 +19580,7 @@
                     "off_end_sent": 42,
                     "mtype": "audio",
                     "src_id": "391667.0_394198.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -19737,7 +19730,7 @@
                     "off_end_sent": 33,
                     "mtype": "audio",
                     "src_id": "394198.0_397900.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -19845,7 +19838,7 @@
                     "off_end_sent": 20,
                     "mtype": "audio",
                     "src_id": "397900.0_399304.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -20013,7 +20006,7 @@
                     "off_end_sent": 59,
                     "mtype": "audio",
                     "src_id": "399304.0_403704.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -20144,7 +20137,7 @@
                     "off_end_sent": 30,
                     "mtype": "audio",
                     "src_id": "403704.0_406144.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -20378,7 +20371,7 @@
                     "off_end_sent": 66,
                     "mtype": "audio",
                     "src_id": "406144.0_410959.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -20548,7 +20541,7 @@
                     "off_end_sent": 31,
                     "mtype": "audio",
                     "src_id": "410959.0_413097.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -20675,7 +20668,7 @@
                     "off_end_sent": 34,
                     "mtype": "audio",
                     "src_id": "413097.0_416100.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -20845,7 +20838,7 @@
                     "off_end_sent": 34,
                     "mtype": "audio",
                     "src_id": "416100.0_419632.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -21014,7 +21007,7 @@
                     "off_end_sent": 45,
                     "mtype": "audio",
                     "src_id": "419632.0_422565.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -21082,7 +21075,7 @@
                     "off_end_sent": 10,
                     "mtype": "audio",
                     "src_id": "422565.0_423718.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -21149,7 +21142,7 @@
                     "off_end_sent": 13,
                     "mtype": "audio",
                     "src_id": "423718.0_429901.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -21376,7 +21369,7 @@
                     "off_end_sent": 49,
                     "mtype": "audio",
                     "src_id": "430003.0_434493.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -21506,7 +21499,7 @@
                     "off_end_sent": 29,
                     "mtype": "audio",
                     "src_id": "434493.0_436931.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -21858,7 +21851,7 @@
                     "off_end_sent": 75,
                     "mtype": "audio",
                     "src_id": "436931.0_442287.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -21985,7 +21978,7 @@
                     "off_end_sent": 35,
                     "mtype": "audio",
                     "src_id": "442287.0_445567.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -22358,7 +22351,7 @@
                     "off_end_sent": 89,
                     "mtype": "audio",
                     "src_id": "447367.0_453593.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -22592,7 +22585,7 @@
                     "off_end_sent": 51,
                     "mtype": "audio",
                     "src_id": "453593.0_457227.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -22702,7 +22695,7 @@
                     "off_end_sent": 19,
                     "mtype": "audio",
                     "src_id": "457227.0_458452.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -22948,7 +22941,7 @@
                     "off_end_sent": 55,
                     "mtype": "audio",
                     "src_id": "458452.0_462730.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -23236,7 +23229,7 @@
                     "off_end_sent": 71,
                     "mtype": "audio",
                     "src_id": "462730.0_467953.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -23344,7 +23337,7 @@
                     "off_end_sent": 25,
                     "mtype": "audio",
                     "src_id": "467953.0_470549.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -23610,56 +23603,47 @@
                     "off_end_sent": 63,
                     "mtype": "audio",
                     "src_id": "470549.0_475451.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
         {
-            "text": "\n[NSS] Я жил в Кубудиане.",
+            "text": "Я жил в Кубудиане.",
             "words": [
-                {
-                    "wf": "[NSS]",
-                    "wtype": "word",
-                    "off_start": 0,
-                    "off_end": 5,
-                    "next_word": 1,
-                    "sentence_index": 0,
-                    "sentence_index_neg": 5
-                },
                 {
                     "wf": "Я",
                     "wtype": "word",
-                    "off_start": 6,
-                    "off_end": 7,
-                    "next_word": 2,
-                    "sentence_index": 1,
+                    "off_start": 0,
+                    "off_end": 1,
+                    "next_word": 1,
+                    "sentence_index": 0,
                     "sentence_index_neg": 4
                 },
                 {
                     "wf": "жил",
                     "wtype": "word",
-                    "off_start": 8,
-                    "off_end": 11,
-                    "next_word": 3,
-                    "sentence_index": 2,
+                    "off_start": 2,
+                    "off_end": 5,
+                    "next_word": 2,
+                    "sentence_index": 1,
                     "sentence_index_neg": 3
                 },
                 {
                     "wf": "в",
                     "wtype": "word",
-                    "off_start": 12,
-                    "off_end": 13,
-                    "next_word": 4,
-                    "sentence_index": 3,
+                    "off_start": 6,
+                    "off_end": 7,
+                    "next_word": 3,
+                    "sentence_index": 2,
                     "sentence_index_neg": 2
                 },
                 {
                     "wf": "Кубудиане.",
                     "wtype": "word",
-                    "off_start": 14,
-                    "off_end": 24,
-                    "next_word": 5,
-                    "sentence_index": 4,
+                    "off_start": 8,
+                    "off_end": 18,
+                    "next_word": 4,
+                    "sentence_index": 3,
                     "sentence_index_neg": 1
                 }
             ],
@@ -23670,7 +23654,7 @@
             "para_alignment": [
                 {
                     "off_start": 0,
-                    "off_end": 38,
+                    "off_end": 32,
                     "para_id": 1
                 }
             ],
@@ -23679,10 +23663,10 @@
                     "off_start_src": 12.89,
                     "off_end_src": 15.6,
                     "off_start_sent": 0,
-                    "off_end_sent": 38,
+                    "off_end_sent": 32,
                     "mtype": "audio",
                     "src_id": "12890.0_15600.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -23772,7 +23756,7 @@
                     "off_end_sent": 44,
                     "mtype": "audio",
                     "src_id": "16105.0_19566.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -23835,7 +23819,7 @@
                     "off_end_sent": 26,
                     "mtype": "audio",
                     "src_id": "20055.0_22330.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -23934,7 +23918,7 @@
                     "off_end_sent": 50,
                     "mtype": "audio",
                     "src_id": "22330.0_26126.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -24042,7 +24026,7 @@
                     "off_end_sent": 51,
                     "mtype": "audio",
                     "src_id": "26126.0_30780.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -24150,7 +24134,7 @@
                     "off_end_sent": 43,
                     "mtype": "audio",
                     "src_id": "31083.0_35192.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -24321,7 +24305,7 @@
                     "off_end_sent": 82,
                     "mtype": "audio",
                     "src_id": "35473.0_41453.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -24366,7 +24350,7 @@
                     "off_end_sent": 10,
                     "mtype": "audio",
                     "src_id": "41453.0_42203.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -24447,7 +24431,7 @@
                     "off_end_sent": 40,
                     "mtype": "audio",
                     "src_id": "42681.0_47386.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -24546,7 +24530,7 @@
                     "off_end_sent": 58,
                     "mtype": "audio",
                     "src_id": "47611.0_53530.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -24708,7 +24692,7 @@
                     "off_end_sent": 86,
                     "mtype": "audio",
                     "src_id": "53530.0_59769.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -24789,7 +24773,7 @@
                     "off_end_sent": 34,
                     "mtype": "audio",
                     "src_id": "60036.0_62874.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -24843,7 +24827,7 @@
                     "off_end_sent": 12,
                     "mtype": "audio",
                     "src_id": "62881.0_64201.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -24951,7 +24935,7 @@
                     "off_end_sent": 83,
                     "mtype": "audio",
                     "src_id": "64623.0_70531.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -25023,7 +25007,7 @@
                     "off_end_sent": 36,
                     "mtype": "audio",
                     "src_id": "70724.0_74727.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -25113,7 +25097,7 @@
                     "off_end_sent": 62,
                     "mtype": "audio",
                     "src_id": "76036.0_82593.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -25185,7 +25169,7 @@
                     "off_end_sent": 37,
                     "mtype": "audio",
                     "src_id": "82699.0_86398.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -25266,7 +25250,7 @@
                     "off_end_sent": 44,
                     "mtype": "audio",
                     "src_id": "86398.0_89779.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -25365,7 +25349,7 @@
                     "off_end_sent": 54,
                     "mtype": "audio",
                     "src_id": "89842.0_94599.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -25437,7 +25421,7 @@
                     "off_end_sent": 31,
                     "mtype": "audio",
                     "src_id": "94599.0_97273.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -25500,7 +25484,7 @@
                     "off_end_sent": 21,
                     "mtype": "audio",
                     "src_id": "97273.0_99165.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -25572,7 +25556,7 @@
                     "off_end_sent": 24,
                     "mtype": "audio",
                     "src_id": "99165.0_101180.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -25653,7 +25637,7 @@
                     "off_end_sent": 35,
                     "mtype": "audio",
                     "src_id": "101180.0_103923.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -25716,7 +25700,7 @@
                     "off_end_sent": 21,
                     "mtype": "audio",
                     "src_id": "103923.0_105613.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -25770,7 +25754,7 @@
                     "off_end_sent": 19,
                     "mtype": "audio",
                     "src_id": "105613.0_107230.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -25887,7 +25871,7 @@
                     "off_end_sent": 59,
                     "mtype": "audio",
                     "src_id": "107230.0_113099.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -26004,7 +25988,7 @@
                     "off_end_sent": 51,
                     "mtype": "audio",
                     "src_id": "113099.0_117559.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -26103,7 +26087,7 @@
                     "off_end_sent": 38,
                     "mtype": "audio",
                     "src_id": "117559.0_120735.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -26202,7 +26186,7 @@
                     "off_end_sent": 66,
                     "mtype": "audio",
                     "src_id": "120735.0_124929.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -26292,7 +26276,7 @@
                     "off_end_sent": 26,
                     "mtype": "audio",
                     "src_id": "124929.0_127068.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -26427,7 +26411,7 @@
                     "off_end_sent": 47,
                     "mtype": "audio",
                     "src_id": "127068.0_130209.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -26508,7 +26492,7 @@
                     "off_end_sent": 28,
                     "mtype": "audio",
                     "src_id": "130209.0_132427.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -26598,7 +26582,7 @@
                     "off_end_sent": 35,
                     "mtype": "audio",
                     "src_id": "132427.0_134972.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -26679,7 +26663,7 @@
                     "off_end_sent": 33,
                     "mtype": "audio",
                     "src_id": "134972.0_138451.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -26796,7 +26780,7 @@
                     "off_end_sent": 51,
                     "mtype": "audio",
                     "src_id": "138451.0_142344.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -26904,7 +26888,7 @@
                     "off_end_sent": 59,
                     "mtype": "audio",
                     "src_id": "142344.0_147399.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -26958,7 +26942,7 @@
                     "off_end_sent": 30,
                     "mtype": "audio",
                     "src_id": "147399.0_150433.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -27075,7 +27059,7 @@
                     "off_end_sent": 60,
                     "mtype": "audio",
                     "src_id": "150433.0_155692.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -27201,7 +27185,7 @@
                     "off_end_sent": 76,
                     "mtype": "audio",
                     "src_id": "155692.0_160662.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -27264,7 +27248,7 @@
                     "off_end_sent": 21,
                     "mtype": "audio",
                     "src_id": "160662.0_162563.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -27354,7 +27338,7 @@
                     "off_end_sent": 49,
                     "mtype": "audio",
                     "src_id": "162563.0_167359.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -27516,7 +27500,7 @@
                     "off_end_sent": 76,
                     "mtype": "audio",
                     "src_id": "167359.0_173197.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -27570,7 +27554,7 @@
                     "off_end_sent": 27,
                     "mtype": "audio",
                     "src_id": "173197.0_175333.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -27669,7 +27653,7 @@
                     "off_end_sent": 47,
                     "mtype": "audio",
                     "src_id": "175333.0_180463.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -27741,7 +27725,7 @@
                     "off_end_sent": 46,
                     "mtype": "audio",
                     "src_id": "180463.0_185180.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -27840,7 +27824,7 @@
                     "off_end_sent": 46,
                     "mtype": "audio",
                     "src_id": "185180.0_188877.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -27885,7 +27869,7 @@
                     "off_end_sent": 18,
                     "mtype": "audio",
                     "src_id": "188877.0_190763.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -27993,7 +27977,7 @@
                     "off_end_sent": 64,
                     "mtype": "audio",
                     "src_id": "190763.0_197410.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -28101,7 +28085,7 @@
                     "off_end_sent": 53,
                     "mtype": "audio",
                     "src_id": "197410.0_201801.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -28155,7 +28139,7 @@
                     "off_end_sent": 14,
                     "mtype": "audio",
                     "src_id": "201801.0_204979.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -28218,7 +28202,7 @@
                     "off_end_sent": 35,
                     "mtype": "audio",
                     "src_id": "204979.0_208300.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -28353,7 +28337,7 @@
                     "off_end_sent": 70,
                     "mtype": "audio",
                     "src_id": "208314.0_213593.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -28425,7 +28409,7 @@
                     "off_end_sent": 20,
                     "mtype": "audio",
                     "src_id": "213593.0_215163.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -28488,7 +28472,7 @@
                     "off_end_sent": 20,
                     "mtype": "audio",
                     "src_id": "215163.0_217396.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -28641,7 +28625,7 @@
                     "off_end_sent": 64,
                     "mtype": "audio",
                     "src_id": "217396.0_222765.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -28758,7 +28742,7 @@
                     "off_end_sent": 64,
                     "mtype": "audio",
                     "src_id": "222765.0_227472.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -28893,7 +28877,7 @@
                     "off_end_sent": 89,
                     "mtype": "audio",
                     "src_id": "227472.0_234316.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -29019,7 +29003,7 @@
                     "off_end_sent": 74,
                     "mtype": "audio",
                     "src_id": "234316.0_240172.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -29091,7 +29075,7 @@
                     "off_end_sent": 34,
                     "mtype": "audio",
                     "src_id": "240172.0_242991.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -29172,7 +29156,7 @@
                     "off_end_sent": 41,
                     "mtype": "audio",
                     "src_id": "242991.0_245975.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -29280,7 +29264,7 @@
                     "off_end_sent": 50,
                     "mtype": "audio",
                     "src_id": "245975.0_249317.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -29442,7 +29426,7 @@
                     "off_end_sent": 76,
                     "mtype": "audio",
                     "src_id": "249317.0_254471.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -29640,7 +29624,7 @@
                     "off_end_sent": 89,
                     "mtype": "audio",
                     "src_id": "254471.0_260413.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -29694,7 +29678,7 @@
                     "off_end_sent": 14,
                     "mtype": "audio",
                     "src_id": "260413.0_261744.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -29793,7 +29777,7 @@
                     "off_end_sent": 40,
                     "mtype": "audio",
                     "src_id": "261744.0_265098.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -29847,7 +29831,7 @@
                     "off_end_sent": 19,
                     "mtype": "audio",
                     "src_id": "265098.0_266261.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -29973,7 +29957,7 @@
                     "off_end_sent": 69,
                     "mtype": "audio",
                     "src_id": "266261.0_270227.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -30027,7 +30011,7 @@
                     "off_end_sent": 12,
                     "mtype": "audio",
                     "src_id": "270227.0_271709.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -30090,7 +30074,7 @@
                     "off_end_sent": 22,
                     "mtype": "audio",
                     "src_id": "271709.0_273323.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -30198,7 +30182,7 @@
                     "off_end_sent": 38,
                     "mtype": "audio",
                     "src_id": "273323.0_277904.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -30297,7 +30281,7 @@
                     "off_end_sent": 46,
                     "mtype": "audio",
                     "src_id": "277904.0_281459.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -30423,7 +30407,7 @@
                     "off_end_sent": 73,
                     "mtype": "audio",
                     "src_id": "281459.0_287365.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -30549,7 +30533,7 @@
                     "off_end_sent": 66,
                     "mtype": "audio",
                     "src_id": "287365.0_291320.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -30711,7 +30695,7 @@
                     "off_end_sent": 66,
                     "mtype": "audio",
                     "src_id": "291320.0_295595.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -30783,7 +30767,7 @@
                     "off_end_sent": 36,
                     "mtype": "audio",
                     "src_id": "295595.0_299723.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -30882,7 +30866,7 @@
                     "off_end_sent": 38,
                     "mtype": "audio",
                     "src_id": "299723.0_302547.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -31017,7 +31001,7 @@
                     "off_end_sent": 63,
                     "mtype": "audio",
                     "src_id": "302547.0_306475.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -31080,7 +31064,7 @@
                     "off_end_sent": 35,
                     "mtype": "audio",
                     "src_id": "306475.0_308966.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -31170,7 +31154,7 @@
                     "off_end_sent": 69,
                     "mtype": "audio",
                     "src_id": "308966.0_314335.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -31278,7 +31262,7 @@
                     "off_end_sent": 45,
                     "mtype": "audio",
                     "src_id": "314335.0_317251.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -31422,7 +31406,7 @@
                     "off_end_sent": 59,
                     "mtype": "audio",
                     "src_id": "317251.0_321614.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -31530,7 +31514,7 @@
                     "off_end_sent": 53,
                     "mtype": "audio",
                     "src_id": "321614.0_325967.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -31665,7 +31649,7 @@
                     "off_end_sent": 78,
                     "mtype": "audio",
                     "src_id": "325967.0_331632.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -31782,7 +31766,7 @@
                     "off_end_sent": 49,
                     "mtype": "audio",
                     "src_id": "331632.0_335413.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -31863,7 +31847,7 @@
                     "off_end_sent": 45,
                     "mtype": "audio",
                     "src_id": "335413.0_338469.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -31953,7 +31937,7 @@
                     "off_end_sent": 33,
                     "mtype": "audio",
                     "src_id": "338469.0_340411.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -32052,7 +32036,7 @@
                     "off_end_sent": 45,
                     "mtype": "audio",
                     "src_id": "340411.0_343715.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -32124,7 +32108,7 @@
                     "off_end_sent": 26,
                     "mtype": "audio",
                     "src_id": "343715.0_345508.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -32304,7 +32288,7 @@
                     "off_end_sent": 79,
                     "mtype": "audio",
                     "src_id": "345508.0_351305.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -32403,7 +32387,7 @@
                     "off_end_sent": 39,
                     "mtype": "audio",
                     "src_id": "351305.0_354225.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -32538,7 +32522,7 @@
                     "off_end_sent": 63,
                     "mtype": "audio",
                     "src_id": "354225.0_359055.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -32664,7 +32648,7 @@
                     "off_end_sent": 67,
                     "mtype": "audio",
                     "src_id": "359055.0_364977.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -32790,7 +32774,7 @@
                     "off_end_sent": 54,
                     "mtype": "audio",
                     "src_id": "364977.0_368400.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -32952,7 +32936,7 @@
                     "off_end_sent": 68,
                     "mtype": "audio",
                     "src_id": "368400.0_373242.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -33042,7 +33026,7 @@
                     "off_end_sent": 32,
                     "mtype": "audio",
                     "src_id": "373242.0_375759.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -33132,7 +33116,7 @@
                     "off_end_sent": 51,
                     "mtype": "audio",
                     "src_id": "375759.0_380993.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -33204,7 +33188,7 @@
                     "off_end_sent": 41,
                     "mtype": "audio",
                     "src_id": "380993.0_383618.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -33276,7 +33260,7 @@
                     "off_end_sent": 26,
                     "mtype": "audio",
                     "src_id": "383618.0_386495.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -33384,7 +33368,7 @@
                     "off_end_sent": 52,
                     "mtype": "audio",
                     "src_id": "386495.0_391060.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -33420,7 +33404,7 @@
                     "off_end_sent": 13,
                     "mtype": "audio",
                     "src_id": "391060.0_391667.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -33519,7 +33503,7 @@
                     "off_end_sent": 42,
                     "mtype": "audio",
                     "src_id": "391667.0_394198.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -33600,7 +33584,7 @@
                     "off_end_sent": 33,
                     "mtype": "audio",
                     "src_id": "394198.0_397900.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -33663,7 +33647,7 @@
                     "off_end_sent": 20,
                     "mtype": "audio",
                     "src_id": "397900.0_399304.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -33753,7 +33737,7 @@
                     "off_end_sent": 59,
                     "mtype": "audio",
                     "src_id": "399304.0_403704.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -33825,7 +33809,7 @@
                     "off_end_sent": 30,
                     "mtype": "audio",
                     "src_id": "403704.0_406144.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -33942,7 +33926,7 @@
                     "off_end_sent": 66,
                     "mtype": "audio",
                     "src_id": "406144.0_410959.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -34032,7 +34016,7 @@
                     "off_end_sent": 31,
                     "mtype": "audio",
                     "src_id": "410959.0_413097.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -34122,7 +34106,7 @@
                     "off_end_sent": 34,
                     "mtype": "audio",
                     "src_id": "413097.0_416100.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -34194,7 +34178,7 @@
                     "off_end_sent": 34,
                     "mtype": "audio",
                     "src_id": "416100.0_419632.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -34266,7 +34250,7 @@
                     "off_end_sent": 45,
                     "mtype": "audio",
                     "src_id": "419632.0_422565.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -34311,7 +34295,7 @@
                     "off_end_sent": 10,
                     "mtype": "audio",
                     "src_id": "422565.0_423718.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -34356,7 +34340,7 @@
                     "off_end_sent": 13,
                     "mtype": "audio",
                     "src_id": "423718.0_429901.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -34464,7 +34448,7 @@
                     "off_end_sent": 49,
                     "mtype": "audio",
                     "src_id": "430003.0_434493.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -34545,7 +34529,7 @@
                     "off_end_sent": 29,
                     "mtype": "audio",
                     "src_id": "434493.0_436931.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -34680,7 +34664,7 @@
                     "off_end_sent": 75,
                     "mtype": "audio",
                     "src_id": "436931.0_442287.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -34770,7 +34754,7 @@
                     "off_end_sent": 35,
                     "mtype": "audio",
                     "src_id": "442287.0_445567.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -34932,7 +34916,7 @@
                     "off_end_sent": 89,
                     "mtype": "audio",
                     "src_id": "447367.0_453593.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -35058,7 +35042,7 @@
                     "off_end_sent": 51,
                     "mtype": "audio",
                     "src_id": "453593.0_457227.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -35121,7 +35105,7 @@
                     "off_end_sent": 19,
                     "mtype": "audio",
                     "src_id": "457227.0_458452.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -35256,7 +35240,7 @@
                     "off_end_sent": 55,
                     "mtype": "audio",
                     "src_id": "458452.0_462730.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -35409,7 +35393,7 @@
                     "off_end_sent": 71,
                     "mtype": "audio",
                     "src_id": "462730.0_467953.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -35481,7 +35465,7 @@
                     "off_end_sent": 25,
                     "mtype": "audio",
                     "src_id": "467953.0_470549.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         },
@@ -35598,7 +35582,7 @@
                     "off_end_sent": 63,
                     "mtype": "audio",
                     "src_id": "470549.0_475451.0",
-                    "src": ""
+                    "src": "sgh_txt_NSS_Prophets.wav"
                 }
             ]
         }

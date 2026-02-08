@@ -29,7 +29,7 @@
             "words": [
                 {
                     "wf": "—",
-                    "wtype": "word",
+                    "wtype": "punct",
                     "off_start": 0,
                     "off_end": 1,
                     "next_word": 1,
@@ -65,7 +65,7 @@
             "words": [
                 {
                     "wf": "—",
-                    "wtype": "word",
+                    "wtype": "punct",
                     "off_start": 0,
                     "off_end": 1,
                     "next_word": 1,
@@ -2034,7 +2034,7 @@
             "words": [
                 {
                     "wf": "—",
-                    "wtype": "word",
+                    "wtype": "punct",
                     "off_start": 0,
                     "off_end": 1,
                     "next_word": 1,

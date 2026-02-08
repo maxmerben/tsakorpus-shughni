@@ -16,6 +16,7 @@
         "translated by": "AN99",
         "glossed by": "Maksim Melenchenko",
         "comment": "студентам; разобран Максимом",
+        "public comment": "M91 retells the plot of the Pear Film as she heard it from N75’s firsthand retelling",
         "speakers": [
             "A"
         ],
@@ -5575,7 +5576,7 @@
                 },
                 {
                     "wf": "—",
-                    "wtype": "word",
+                    "wtype": "punct",
                     "off_start": 50,
                     "off_end": 51,
                     "next_word": 10,
@@ -6556,7 +6557,7 @@
                 },
                 {
                     "wf": "—",
-                    "wtype": "word",
+                    "wtype": "punct",
                     "off_start": 77,
                     "off_end": 78,
                     "next_word": 13,
@@ -6664,7 +6665,7 @@
                 },
                 {
                     "wf": "—",
-                    "wtype": "word",
+                    "wtype": "punct",
                     "off_start": 11,
                     "off_end": 12,
                     "next_word": 3,
@@ -6727,7 +6728,7 @@
                 },
                 {
                     "wf": "—",
-                    "wtype": "word",
+                    "wtype": "punct",
                     "off_start": 54,
                     "off_end": 55,
                     "next_word": 10,
@@ -7861,7 +7862,7 @@
                 },
                 {
                     "wf": "—",
-                    "wtype": "word",
+                    "wtype": "punct",
                     "off_start": 13,
                     "off_end": 14,
                     "next_word": 4,
