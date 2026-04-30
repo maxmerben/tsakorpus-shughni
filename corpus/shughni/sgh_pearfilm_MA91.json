@@ -2572,9 +2572,9 @@
                                 "PERS"
                             ],
                             "parts": "mu",
-                            "gloss": "PRON.1SG.O",
+                            "gloss": "PRN.1SG.O",
                             "lex": "mu",
-                            "gloss_index": "PRON.1SG.O{mu}-"
+                            "gloss_index": "PRN.1SG.O{mu}-"
                         }
                     ]
                 },
@@ -3881,9 +3881,9 @@
                                 "CL.AGR"
                             ],
                             "parts": "uz=um",
-                            "gloss": "PRON.1SG=1SG",
+                            "gloss": "PRN.1SG=1SG",
                             "lex": "uz",
-                            "gloss_index": "PRON.1SG{uz}-1SG{=um}-"
+                            "gloss_index": "PRN.1SG{uz}-1SG{=um}-"
                         }
                     ]
                 },
@@ -5439,9 +5439,9 @@
                                 "POST"
                             ],
                             "parts": "tu=nd",
-                            "gloss": "PRON.2SG=LOC",
+                            "gloss": "PRN.2SG=LOC",
                             "lex": "tu",
-                            "gloss_index": "PRON.2SG{tu}-LOC{=nd}-"
+                            "gloss_index": "PRN.2SG{tu}-LOC{=nd}-"
                         }
                     ]
                 },

@@ -230,9 +230,9 @@
                                 "T"
                             ],
                             "parts": "nūs-t",
-                            "gloss": "sit.M-PST",
+                            "gloss": "sit.M.SG-PST",
                             "lex": "nūs",
-                            "gloss_index": "sit.M{nūs}-PST{-t}-"
+                            "gloss_index": "sit.M.SG{nūs}-PST{-t}-"
                         }
                     ]
                 },
@@ -1727,10 +1727,10 @@
                     ]
                 },
                 {
-                    "wf": "fuka ",
+                    "wf": "fuka",
                     "wtype": "word",
                     "off_start": 53,
-                    "off_end": 58,
+                    "off_end": 57,
                     "next_word": 12,
                     "sentence_index": 11,
                     "sentence_index_neg": 4,
@@ -1749,8 +1749,8 @@
                 {
                     "wf": "ǰo",
                     "wtype": "word",
-                    "off_start": 59,
-                    "off_end": 62,
+                    "off_start": 58,
+                    "off_end": 61,
                     "next_word": 13,
                     "sentence_index": 12,
                     "sentence_index_neg": 3,
@@ -1769,8 +1769,8 @@
                 {
                     "wf": "orůmi",
                     "wtype": "word",
-                    "off_start": 63,
-                    "off_end": 68,
+                    "off_start": 62,
+                    "off_end": 67,
                     "next_word": 14,
                     "sentence_index": 13,
                     "sentence_index_neg": 2,
@@ -1789,8 +1789,8 @@
                 {
                     "wf": "sut.",
                     "wtype": "word",
-                    "off_start": 69,
-                    "off_end": 73,
+                    "off_start": 68,
+                    "off_end": 72,
                     "next_word": 15,
                     "sentence_index": 14,
                     "sentence_index_neg": 1,
@@ -1815,7 +1815,7 @@
             "para_alignment": [
                 {
                     "off_start": 0,
-                    "off_end": 73,
+                    "off_end": 72,
                     "para_id": 5
                 }
             ]
@@ -1950,9 +1950,9 @@
                                 "PERS"
                             ],
                             "parts": "tama",
-                            "gloss": "PRON.2PL",
+                            "gloss": "PRN.2PL",
                             "lex": "tama",
-                            "gloss_index": "PRON.2PL{tama}-"
+                            "gloss_index": "PRN.2PL{tama}-"
                         }
                     ]
                 },
@@ -3173,7 +3173,7 @@
             "para_alignment": [
                 {
                     "off_start": 0,
-                    "off_end": 73,
+                    "off_end": 72,
                     "para_id": 5
                 }
             ]

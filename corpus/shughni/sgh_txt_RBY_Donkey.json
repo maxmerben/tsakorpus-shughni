@@ -174,10 +174,10 @@
                     ]
                 },
                 {
-                    "wf": "čūpůn\n",
+                    "wf": "čūpůn",
                     "wtype": "word",
                     "off_start": 3,
-                    "off_end": 9,
+                    "off_end": 8,
                     "next_word": 2,
                     "sentence_index": 1,
                     "sentence_index_neg": 2,
@@ -196,8 +196,8 @@
                 {
                     "wf": "vud",
                     "wtype": "word",
-                    "off_start": 10,
-                    "off_end": 13,
+                    "off_start": 9,
+                    "off_end": 12,
                     "next_word": 3,
                     "sentence_index": 2,
                     "sentence_index_neg": 1,
@@ -222,7 +222,7 @@
             "para_alignment": [
                 {
                     "off_start": 0,
-                    "off_end": 13,
+                    "off_end": 12,
                     "para_id": 2
                 }
             ],
@@ -231,7 +231,7 @@
                     "off_start_src": 10.045,
                     "off_end_src": 11.195,
                     "off_start_sent": 0,
-                    "off_end_sent": 13,
+                    "off_end_sent": 12,
                     "mtype": "audio",
                     "src_id": "10045.0_11195.0",
                     "src": "sgh_txt_RBY_Donkey.wav"
@@ -712,9 +712,9 @@
                                 "PERS"
                             ],
                             "parts": "Mu",
-                            "gloss": "PRON.1SG.O",
+                            "gloss": "PRN.1SG.O",
                             "lex": "Mu",
-                            "gloss_index": "PRON.1SG.O{Mu}-"
+                            "gloss_index": "PRN.1SG.O{Mu}-"
                         }
                     ]
                 },
@@ -882,10 +882,10 @@
                     ]
                 },
                 {
-                    "wf": "yoδǰ ",
+                    "wf": "yoδǰ",
                     "wtype": "word",
                     "off_start": 52,
-                    "off_end": 58,
+                    "off_end": 57,
                     "next_word": 10,
                     "sentence_index": 9,
                     "sentence_index_neg": 5,
@@ -905,8 +905,8 @@
                 {
                     "wf": "xu",
                     "wtype": "word",
-                    "off_start": 59,
-                    "off_end": 61,
+                    "off_start": 58,
+                    "off_end": 60,
                     "next_word": 11,
                     "sentence_index": 10,
                     "sentence_index_neg": 4,
@@ -925,8 +925,8 @@
                 {
                     "wf": "virodard",
                     "wtype": "word",
-                    "off_start": 62,
-                    "off_end": 70,
+                    "off_start": 61,
+                    "off_end": 69,
                     "next_word": 12,
                     "sentence_index": 11,
                     "sentence_index_neg": 3,
@@ -946,8 +946,8 @@
                 {
                     "wf": "Maxzumard",
                     "wtype": "word",
-                    "off_start": 71,
-                    "off_end": 80,
+                    "off_start": 70,
+                    "off_end": 79,
                     "next_word": 13,
                     "sentence_index": 12,
                     "sentence_index_neg": 2,
@@ -967,8 +967,8 @@
                 {
                     "wf": "xu",
                     "wtype": "word",
-                    "off_start": 81,
-                    "off_end": 83,
+                    "off_start": 80,
+                    "off_end": 82,
                     "next_word": 14,
                     "sentence_index": 13,
                     "sentence_index_neg": 1,
@@ -992,7 +992,7 @@
             "para_alignment": [
                 {
                     "off_start": 0,
-                    "off_end": 83,
+                    "off_end": 82,
                     "para_id": 7
                 }
             ],
@@ -1001,7 +1001,7 @@
                     "off_start_src": 22.57,
                     "off_end_src": 28.38,
                     "off_start_sent": 0,
-                    "off_end_sent": 83,
+                    "off_end_sent": 82,
                     "mtype": "audio",
                     "src_id": "22570.0_28380.0",
                     "src": "sgh_txt_RBY_Donkey.wav"
@@ -1641,9 +1641,9 @@
                                 "PERS"
                             ],
                             "parts": "māš",
-                            "gloss": "PRON.1PL",
+                            "gloss": "PRN.1PL",
                             "lex": "māš",
-                            "gloss_index": "PRON.1PL{māš}-"
+                            "gloss_index": "PRN.1PL{māš}-"
                         }
                     ]
                 },
@@ -1749,9 +1749,9 @@
                                 "PERS"
                             ],
                             "parts": "mu",
-                            "gloss": "PRON.1SG.O",
+                            "gloss": "PRN.1SG.O",
                             "lex": "mu",
-                            "gloss_index": "PRON.1SG.O{mu}-"
+                            "gloss_index": "PRN.1SG.O{mu}-"
                         }
                     ]
                 },
@@ -1885,10 +1885,10 @@
                     ]
                 },
                 {
-                    "wf": "sifenǰ ",
+                    "wf": "sifenǰ",
                     "wtype": "word",
                     "off_start": 18,
-                    "off_end": 26,
+                    "off_end": 25,
                     "next_word": 5,
                     "sentence_index": 4,
                     "sentence_index_neg": 6,
@@ -1908,8 +1908,8 @@
                 {
                     "wf": "maš",
                     "wtype": "word",
-                    "off_start": 27,
-                    "off_end": 30,
+                    "off_start": 26,
+                    "off_end": 29,
                     "next_word": 6,
                     "sentence_index": 5,
                     "sentence_index_neg": 5,
@@ -1919,17 +1919,17 @@
                                 "PERS"
                             ],
                             "parts": "maš",
-                            "gloss": "PRON.1PL",
+                            "gloss": "PRN.1PL",
                             "lex": "maš",
-                            "gloss_index": "PRON.1PL{maš}-"
+                            "gloss_index": "PRN.1PL{maš}-"
                         }
                     ]
                 },
                 {
                     "wf": "markaben",
                     "wtype": "word",
-                    "off_start": 31,
-                    "off_end": 39,
+                    "off_start": 30,
+                    "off_end": 38,
                     "next_word": 7,
                     "sentence_index": 6,
                     "sentence_index_neg": 4,
@@ -1949,8 +1949,8 @@
                 {
                     "wf": "artāx",
                     "wtype": "word",
-                    "off_start": 40,
-                    "off_end": 45,
+                    "off_start": 39,
+                    "off_end": 44,
                     "next_word": 8,
                     "sentence_index": 7,
                     "sentence_index_neg": 3,
@@ -1970,8 +1970,8 @@
                 {
                     "wf": "ca",
                     "wtype": "word",
-                    "off_start": 46,
-                    "off_end": 48,
+                    "off_start": 45,
+                    "off_end": 47,
                     "next_word": 9,
                     "sentence_index": 8,
                     "sentence_index_neg": 2,
@@ -1990,8 +1990,8 @@
                 {
                     "wf": "čūɣ̌ǰ",
                     "wtype": "word",
-                    "off_start": 49,
-                    "off_end": 55,
+                    "off_start": 48,
+                    "off_end": 54,
                     "next_word": 10,
                     "sentence_index": 9,
                     "sentence_index_neg": 1,
@@ -2016,7 +2016,7 @@
             "para_alignment": [
                 {
                     "off_start": 0,
-                    "off_end": 55,
+                    "off_end": 54,
                     "para_id": 13
                 }
             ],
@@ -2025,7 +2025,7 @@
                     "off_start_src": 45.385,
                     "off_end_src": 48.745,
                     "off_start_sent": 0,
-                    "off_end_sent": 55,
+                    "off_end_sent": 54,
                     "mtype": "audio",
                     "src_id": "45385.0_48745.0",
                     "src": "sgh_txt_RBY_Donkey.wav"
@@ -2317,9 +2317,9 @@
                                 "PERS"
                             ],
                             "parts": "maš",
-                            "gloss": "PRON.1PL",
+                            "gloss": "PRN.1PL",
                             "lex": "maš",
-                            "gloss_index": "PRON.1PL{maš}-"
+                            "gloss_index": "PRN.1PL{maš}-"
                         }
                     ]
                 },
@@ -2358,9 +2358,9 @@
                                 "PERS"
                             ],
                             "parts": "mu",
-                            "gloss": "PRON.1SG.O",
+                            "gloss": "PRN.1SG.O",
                             "lex": "mu",
-                            "gloss_index": "PRON.1SG.O{mu}-"
+                            "gloss_index": "PRN.1SG.O{mu}-"
                         }
                     ]
                 },
@@ -2633,9 +2633,9 @@
                                 "PERS"
                             ],
                             "parts": "mu",
-                            "gloss": "PRON.1SG.O",
+                            "gloss": "PRN.1SG.O",
                             "lex": "mu",
-                            "gloss_index": "PRON.1SG.O{mu}-"
+                            "gloss_index": "PRN.1SG.O{mu}-"
                         }
                     ]
                 },
@@ -2843,9 +2843,9 @@
                                 "PERS"
                             ],
                             "parts": "mu",
-                            "gloss": "PRON.1SG.O",
+                            "gloss": "PRN.1SG.O",
                             "lex": "mu",
-                            "gloss_index": "PRON.1SG.O{mu}-"
+                            "gloss_index": "PRN.1SG.O{mu}-"
                         }
                     ]
                 },
@@ -3220,9 +3220,9 @@
                                 "PERS"
                             ],
                             "parts": "mu",
-                            "gloss": "PRON.1SG.O",
+                            "gloss": "PRN.1SG.O",
                             "lex": "mu",
-                            "gloss_index": "PRON.1SG.O{mu}-"
+                            "gloss_index": "PRN.1SG.O{mu}-"
                         }
                     ]
                 },
@@ -3533,9 +3533,9 @@
                                 "PERS"
                             ],
                             "parts": "mu",
-                            "gloss": "PRON.1SG.O",
+                            "gloss": "PRN.1SG.O",
                             "lex": "mu",
-                            "gloss_index": "PRON.1SG.O{mu}-"
+                            "gloss_index": "PRN.1SG.O{mu}-"
                         }
                     ]
                 },
@@ -3560,10 +3560,10 @@
                     ]
                 },
                 {
-                    "wf": "ʒuq\n",
+                    "wf": "ʒuq",
                     "wtype": "word",
                     "off_start": 21,
-                    "off_end": 25,
+                    "off_end": 24,
                     "next_word": 5,
                     "sentence_index": 4,
                     "sentence_index_neg": 2,
@@ -3582,8 +3582,8 @@
                 {
                     "wf": "δidata",
                     "wtype": "word",
-                    "off_start": 26,
-                    "off_end": 32,
+                    "off_start": 25,
+                    "off_end": 31,
                     "next_word": 6,
                     "sentence_index": 5,
                     "sentence_index_neg": 1,
@@ -3609,7 +3609,7 @@
             "para_alignment": [
                 {
                     "off_start": 0,
-                    "off_end": 32,
+                    "off_end": 31,
                     "para_id": 21
                 }
             ],
@@ -3618,7 +3618,7 @@
                     "off_start_src": 73.16,
                     "off_end_src": 75.44,
                     "off_start_sent": 0,
-                    "off_end_sent": 32,
+                    "off_end_sent": 31,
                     "mtype": "audio",
                     "src_id": "73160.0_75440.0",
                     "src": "sgh_txt_RBY_Donkey.wav"
@@ -3725,9 +3725,9 @@
                                 "CL.AGR"
                             ],
                             "parts": "wuz=um",
-                            "gloss": "PRON.1SG=1SG",
+                            "gloss": "PRN.1SG=1SG",
                             "lex": "wuz",
-                            "gloss_index": "PRON.1SG{wuz}-1SG{=um}-"
+                            "gloss_index": "PRN.1SG{wuz}-1SG{=um}-"
                         }
                     ]
                 },
@@ -4000,9 +4000,9 @@
                                 "PERS"
                             ],
                             "parts": "mu",
-                            "gloss": "PRON.1SG.O",
+                            "gloss": "PRN.1SG.O",
                             "lex": "mu",
-                            "gloss_index": "PRON.1SG.O{mu}-"
+                            "gloss_index": "PRN.1SG.O{mu}-"
                         }
                     ]
                 },
@@ -4187,9 +4187,9 @@
                                 "PERS"
                             ],
                             "parts": "tu",
-                            "gloss": "PRON.2SG",
+                            "gloss": "PRN.2SG",
                             "lex": "tu",
-                            "gloss_index": "PRON.2SG{tu}-"
+                            "gloss_index": "PRN.2SG{tu}-"
                         }
                     ]
                 },
@@ -4316,9 +4316,9 @@
                                 "PRT"
                             ],
                             "parts": "tu=ta",
-                            "gloss": "PRON.2SG=FUT",
+                            "gloss": "PRN.2SG=FUT",
                             "lex": "tu",
-                            "gloss_index": "PRON.2SG{tu}-FUT{=ta}-"
+                            "gloss_index": "PRN.2SG{tu}-FUT{=ta}-"
                         }
                     ]
                 },
@@ -4336,9 +4336,9 @@
                                 "PERS"
                             ],
                             "parts": "mu",
-                            "gloss": "PRON.1SG.O",
+                            "gloss": "PRN.1SG.O",
                             "lex": "mu",
-                            "gloss_index": "PRON.1SG.O{mu}-"
+                            "gloss_index": "PRN.1SG.O{mu}-"
                         }
                     ]
                 },
@@ -4425,9 +4425,9 @@
                                 "CONJ"
                             ],
                             "parts": "wuz=at",
-                            "gloss": "PRON.1SG=COORD2",
+                            "gloss": "PRN.1SG=COORD2",
                             "lex": "wuz",
-                            "gloss_index": "PRON.1SG{wuz}-COORD2{=at}-"
+                            "gloss_index": "PRN.1SG{wuz}-COORD2{=at}-"
                         }
                     ]
                 },
@@ -4535,9 +4535,9 @@
                                 "CL.AGR"
                             ],
                             "parts": "wuz=um",
-                            "gloss": "PRON.1SG=1SG",
+                            "gloss": "PRN.1SG=1SG",
                             "lex": "wuz",
-                            "gloss_index": "PRON.1SG{wuz}-1SG{=um}-"
+                            "gloss_index": "PRN.1SG{wuz}-1SG{=um}-"
                         }
                     ]
                 },
@@ -4940,9 +4940,9 @@
                                 "POST"
                             ],
                             "parts": "tama=nd",
-                            "gloss": "PRON.2PL=LOC",
+                            "gloss": "PRN.2PL=LOC",
                             "lex": "tama",
-                            "gloss_index": "PRON.2PL{tama}-LOC{=nd}-"
+                            "gloss_index": "PRN.2PL{tama}-LOC{=nd}-"
                         }
                     ]
                 },
@@ -5103,9 +5103,9 @@
                                 "PERS"
                             ],
                             "parts": "tu",
-                            "gloss": "PRON.2SG",
+                            "gloss": "PRN.2SG",
                             "lex": "tu",
-                            "gloss_index": "PRON.2SG{tu}-"
+                            "gloss_index": "PRN.2SG{tu}-"
                         }
                     ]
                 },
@@ -5291,9 +5291,9 @@
                                 "PERS"
                             ],
                             "parts": "mu",
-                            "gloss": "PRON.1SG.O",
+                            "gloss": "PRN.1SG.O",
                             "lex": "mu",
-                            "gloss_index": "PRON.1SG.O{mu}-"
+                            "gloss_index": "PRN.1SG.O{mu}-"
                         }
                     ]
                 },
@@ -5479,9 +5479,9 @@
                                 "PERS"
                             ],
                             "parts": "maš",
-                            "gloss": "PRON.1PL",
+                            "gloss": "PRN.1PL",
                             "lex": "maš",
-                            "gloss_index": "PRON.1PL{maš}-"
+                            "gloss_index": "PRN.1PL{maš}-"
                         }
                     ]
                 },
@@ -5567,9 +5567,9 @@
                                 "PERS"
                             ],
                             "parts": "maš",
-                            "gloss": "PRON.1PL",
+                            "gloss": "PRN.1PL",
                             "lex": "maš",
-                            "gloss_index": "PRON.1PL{maš}-"
+                            "gloss_index": "PRN.1PL{maš}-"
                         }
                     ]
                 },
@@ -6219,10 +6219,10 @@
             "text": "filāg markabta wisen xu pi xu čid sifenen",
             "words": [
                 {
-                    "wf": "filāg\n",
+                    "wf": "filāg",
                     "wtype": "word",
                     "off_start": 0,
-                    "off_end": 6,
+                    "off_end": 5,
                     "next_word": 1,
                     "sentence_index": 0,
                     "sentence_index_neg": 8,
@@ -6241,8 +6241,8 @@
                 {
                     "wf": "markabta",
                     "wtype": "word",
-                    "off_start": 7,
-                    "off_end": 15,
+                    "off_start": 6,
+                    "off_end": 14,
                     "next_word": 2,
                     "sentence_index": 1,
                     "sentence_index_neg": 7,
@@ -6262,8 +6262,8 @@
                 {
                     "wf": "visen",
                     "wtype": "word",
-                    "off_start": 16,
-                    "off_end": 21,
+                    "off_start": 15,
+                    "off_end": 20,
                     "next_word": 3,
                     "sentence_index": 2,
                     "sentence_index_neg": 6,
@@ -6283,8 +6283,8 @@
                 {
                     "wf": "xu",
                     "wtype": "word",
-                    "off_start": 22,
-                    "off_end": 24,
+                    "off_start": 21,
+                    "off_end": 23,
                     "next_word": 4,
                     "sentence_index": 3,
                     "sentence_index_neg": 5,
@@ -6303,8 +6303,8 @@
                 {
                     "wf": "pi",
                     "wtype": "word",
-                    "off_start": 25,
-                    "off_end": 27,
+                    "off_start": 24,
+                    "off_end": 26,
                     "next_word": 5,
                     "sentence_index": 4,
                     "sentence_index_neg": 4,
@@ -6323,8 +6323,8 @@
                 {
                     "wf": "xu",
                     "wtype": "word",
-                    "off_start": 28,
-                    "off_end": 30,
+                    "off_start": 27,
+                    "off_end": 29,
                     "next_word": 6,
                     "sentence_index": 5,
                     "sentence_index_neg": 3,
@@ -6343,8 +6343,8 @@
                 {
                     "wf": "čid",
                     "wtype": "word",
-                    "off_start": 31,
-                    "off_end": 34,
+                    "off_start": 30,
+                    "off_end": 33,
                     "next_word": 7,
                     "sentence_index": 6,
                     "sentence_index_neg": 2,
@@ -6364,8 +6364,8 @@
                 {
                     "wf": "sifenen",
                     "wtype": "word",
-                    "off_start": 35,
-                    "off_end": 42,
+                    "off_start": 34,
+                    "off_end": 41,
                     "next_word": 8,
                     "sentence_index": 7,
                     "sentence_index_neg": 1,
@@ -6390,7 +6390,7 @@
             "para_alignment": [
                 {
                     "off_start": 0,
-                    "off_end": 42,
+                    "off_end": 41,
                     "para_id": 39
                 }
             ],
@@ -6399,7 +6399,7 @@
                     "off_start_src": 121.39,
                     "off_end_src": 123.82,
                     "off_start_sent": 0,
-                    "off_end_sent": 42,
+                    "off_end_sent": 41,
                     "mtype": "audio",
                     "src_id": "121390.0_123820.0",
                     "src": "sgh_txt_RBY_Donkey.wav"
@@ -7441,9 +7441,9 @@
                                 "PERS"
                             ],
                             "parts": "maš",
-                            "gloss": "PRON.1PL",
+                            "gloss": "PRN.1PL",
                             "lex": "maš",
-                            "gloss_index": "PRON.1PL{maš}-"
+                            "gloss_index": "PRN.1PL{maš}-"
                         }
                     ]
                 },
@@ -7611,9 +7611,9 @@
                                 "PERS"
                             ],
                             "parts": "mu",
-                            "gloss": "PRON.1SG.O",
+                            "gloss": "PRN.1SG.O",
                             "lex": "mu",
-                            "gloss_index": "PRON.1SG.O{mu}-"
+                            "gloss_index": "PRN.1SG.O{mu}-"
                         }
                     ]
                 },
@@ -7877,10 +7877,10 @@
             "text": "doyimaθi bor witi čud tut qārʒdor maš xiz",
             "words": [
                 {
-                    "wf": "doyimaθi\n",
+                    "wf": "doyimaθi",
                     "wtype": "word",
                     "off_start": 0,
-                    "off_end": 9,
+                    "off_end": 8,
                     "next_word": 1,
                     "sentence_index": 0,
                     "sentence_index_neg": 8,
@@ -7901,8 +7901,8 @@
                 {
                     "wf": "bor",
                     "wtype": "word",
-                    "off_start": 10,
-                    "off_end": 13,
+                    "off_start": 9,
+                    "off_end": 12,
                     "next_word": 2,
                     "sentence_index": 1,
                     "sentence_index_neg": 7,
@@ -7921,8 +7921,8 @@
                 {
                     "wf": "witi",
                     "wtype": "word",
-                    "off_start": 14,
-                    "off_end": 18,
+                    "off_start": 13,
+                    "off_end": 17,
                     "next_word": 3,
                     "sentence_index": 2,
                     "sentence_index_neg": 6,
@@ -7942,8 +7942,8 @@
                 {
                     "wf": "čūd",
                     "wtype": "word",
-                    "off_start": 19,
-                    "off_end": 22,
+                    "off_start": 18,
+                    "off_end": 21,
                     "next_word": 4,
                     "sentence_index": 3,
                     "sentence_index_neg": 5,
@@ -7963,8 +7963,8 @@
                 {
                     "wf": "tut",
                     "wtype": "word",
-                    "off_start": 23,
-                    "off_end": 26,
+                    "off_start": 22,
+                    "off_end": 25,
                     "next_word": 5,
                     "sentence_index": 4,
                     "sentence_index_neg": 4,
@@ -7974,17 +7974,17 @@
                                 "PERS"
                             ],
                             "parts": "tu-t",
-                            "gloss": "PRON.2SG-EM",
+                            "gloss": "PRN.2SG-EM",
                             "lex": "t",
-                            "gloss_index": "PRON.2SG{tu}-EM{t}-"
+                            "gloss_index": "PRN.2SG{tu}-EM{t}-"
                         }
                     ]
                 },
                 {
                     "wf": "qārʒdor",
                     "wtype": "word",
-                    "off_start": 27,
-                    "off_end": 34,
+                    "off_start": 26,
+                    "off_end": 33,
                     "next_word": 6,
                     "sentence_index": 5,
                     "sentence_index_neg": 3,
@@ -8001,10 +8001,10 @@
                     ]
                 },
                 {
-                    "wf": "maš\n",
+                    "wf": "maš",
                     "wtype": "word",
-                    "off_start": 35,
-                    "off_end": 39,
+                    "off_start": 34,
+                    "off_end": 37,
                     "next_word": 7,
                     "sentence_index": 6,
                     "sentence_index_neg": 2,
@@ -8014,17 +8014,17 @@
                                 "PERS"
                             ],
                             "parts": "maš",
-                            "gloss": "PRON.1PL",
+                            "gloss": "PRN.1PL",
                             "lex": "maš",
-                            "gloss_index": "PRON.1PL{maš}-"
+                            "gloss_index": "PRN.1PL{maš}-"
                         }
                     ]
                 },
                 {
                     "wf": "xez",
                     "wtype": "word",
-                    "off_start": 40,
-                    "off_end": 43,
+                    "off_start": 38,
+                    "off_end": 41,
                     "next_word": 8,
                     "sentence_index": 7,
                     "sentence_index_neg": 1,
@@ -8048,7 +8048,7 @@
             "para_alignment": [
                 {
                     "off_start": 0,
-                    "off_end": 43,
+                    "off_end": 41,
                     "para_id": 49
                 }
             ],
@@ -8057,7 +8057,7 @@
                     "off_start_src": 155.17,
                     "off_end_src": 157.82,
                     "off_start_sent": 0,
-                    "off_end_sent": 43,
+                    "off_end_sent": 41,
                     "mtype": "audio",
                     "src_id": "155170.0_157820.0",
                     "src": "sgh_txt_RBY_Donkey.wav"
@@ -8174,7 +8174,7 @@
             "para_alignment": [
                 {
                     "off_start": 0,
-                    "off_end": 13,
+                    "off_end": 12,
                     "para_id": 2
                 }
             ],
@@ -8183,7 +8183,7 @@
                     "off_start_src": 10.045,
                     "off_end_src": 11.195,
                     "off_start_sent": 0,
-                    "off_end_sent": 13,
+                    "off_end_sent": 12,
                     "mtype": "audio",
                     "src_id": "10045.0_11195.0",
                     "src": "sgh_txt_RBY_Donkey.wav"
@@ -8552,7 +8552,7 @@
             "para_alignment": [
                 {
                     "off_start": 0,
-                    "off_end": 83,
+                    "off_end": 82,
                     "para_id": 7
                 }
             ],
@@ -8561,7 +8561,7 @@
                     "off_start_src": 22.57,
                     "off_end_src": 28.38,
                     "off_start_sent": 0,
-                    "off_end_sent": 83,
+                    "off_end_sent": 82,
                     "mtype": "audio",
                     "src_id": "22570.0_28380.0",
                     "src": "sgh_txt_RBY_Donkey.wav"
@@ -9038,7 +9038,7 @@
             "para_alignment": [
                 {
                     "off_start": 0,
-                    "off_end": 55,
+                    "off_end": 54,
                     "para_id": 13
                 }
             ],
@@ -9047,7 +9047,7 @@
                     "off_start_src": 45.385,
                     "off_end_src": 48.745,
                     "off_start_sent": 0,
-                    "off_end_sent": 55,
+                    "off_end_sent": 54,
                     "mtype": "audio",
                     "src_id": "45385.0_48745.0",
                     "src": "sgh_txt_RBY_Donkey.wav"
@@ -9695,7 +9695,7 @@
             "para_alignment": [
                 {
                     "off_start": 0,
-                    "off_end": 32,
+                    "off_end": 31,
                     "para_id": 21
                 }
             ],
@@ -9704,7 +9704,7 @@
                     "off_start_src": 73.16,
                     "off_end_src": 75.44,
                     "off_start_sent": 0,
-                    "off_end_sent": 32,
+                    "off_end_sent": 31,
                     "mtype": "audio",
                     "src_id": "73160.0_75440.0",
                     "src": "sgh_txt_RBY_Donkey.wav"
@@ -10342,7 +10342,7 @@
             ]
         },
         {
-            "text": "Шодихон начал жаловаться Свете сказал что ",
+            "text": "Шодихон начал жаловаться Свете сказал что",
             "words": [
                 {
                     "wf": "Шодихон",
@@ -11207,7 +11207,7 @@
             "para_alignment": [
                 {
                     "off_start": 0,
-                    "off_end": 42,
+                    "off_end": 41,
                     "para_id": 39
                 }
             ],
@@ -11216,7 +11216,7 @@
                     "off_start_src": 121.39,
                     "off_end_src": 123.82,
                     "off_start_sent": 0,
-                    "off_end_sent": 42,
+                    "off_end_sent": 41,
                     "mtype": "audio",
                     "src_id": "121390.0_123820.0",
                     "src": "sgh_txt_RBY_Donkey.wav"
@@ -11917,7 +11917,7 @@
             ]
         },
         {
-            "text": "и сколько Шодихон попадался маме или Свете ",
+            "text": "и сколько Шодихон попадался маме или Свете",
             "words": [
                 {
                     "wf": "и",
@@ -12152,7 +12152,7 @@
             "para_alignment": [
                 {
                     "off_start": 0,
-                    "off_end": 43,
+                    "off_end": 41,
                     "para_id": 49
                 }
             ],
@@ -12161,7 +12161,7 @@
                     "off_start_src": 155.17,
                     "off_end_src": 157.82,
                     "off_start_sent": 0,
-                    "off_end_sent": 43,
+                    "off_end_sent": 41,
                     "mtype": "audio",
                     "src_id": "155170.0_157820.0",
                     "src": "sgh_txt_RBY_Donkey.wav"

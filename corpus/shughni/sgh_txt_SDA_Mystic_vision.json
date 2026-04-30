@@ -2286,9 +2286,9 @@
                                 "PERS"
                             ],
                             "parts": "uz",
-                            "gloss": "PRON.1SG",
+                            "gloss": "PRN.1SG",
                             "lex": "uz",
-                            "gloss_index": "PRON.1SG{uz}-"
+                            "gloss_index": "PRN.1SG{uz}-"
                         }
                     ]
                 },
@@ -3258,9 +3258,9 @@
                                 "CL.AGR"
                             ],
                             "parts": "uz=um",
-                            "gloss": "PRON.1SG=1SG",
+                            "gloss": "PRN.1SG=1SG",
                             "lex": "uz",
-                            "gloss_index": "PRON.1SG{uz}-1SG{=um}-"
+                            "gloss_index": "PRN.1SG{uz}-1SG{=um}-"
                         }
                     ]
                 },
@@ -3341,9 +3341,9 @@
                                 "POST"
                             ],
                             "parts": "mu=nd",
-                            "gloss": "PRON.1SG.O=LOC",
+                            "gloss": "PRN.1SG.O=LOC",
                             "lex": "mu",
-                            "gloss_index": "PRON.1SG.O{mu}-LOC{=nd}-"
+                            "gloss_index": "PRN.1SG.O{mu}-LOC{=nd}-"
                         }
                     ]
                 },
@@ -3361,9 +3361,9 @@
                                 "PERS"
                             ],
                             "parts": "mu",
-                            "gloss": "PRON.1SG.O",
+                            "gloss": "PRN.1SG.O",
                             "lex": "mu",
-                            "gloss_index": "PRON.1SG.O{mu}-"
+                            "gloss_index": "PRN.1SG.O{mu}-"
                         }
                     ]
                 },
@@ -3511,9 +3511,9 @@
                                 "CL.AGR"
                             ],
                             "parts": "uz=um",
-                            "gloss": "PRON.1SG=1SG",
+                            "gloss": "PRN.1SG=1SG",
                             "lex": "uz",
-                            "gloss_index": "PRON.1SG{uz}-1SG{=um}-"
+                            "gloss_index": "PRN.1SG{uz}-1SG{=um}-"
                         }
                     ]
                 },
@@ -4819,7 +4819,7 @@
             ]
         },
         {
-            "text": "и она, она так, так неожиданно зажмурила свои глаза ",
+            "text": "и она, она так, так неожиданно зажмурила свои глаза",
             "words": [
                 {
                     "wf": "и",

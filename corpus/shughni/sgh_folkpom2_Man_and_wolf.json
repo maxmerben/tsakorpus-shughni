@@ -1066,9 +1066,9 @@
                                 "CL.AGR"
                             ],
                             "parts": "mu=yat",
-                            "gloss": "PRON.1SG.O=2SG",
+                            "gloss": "PRN.1SG.O=2SG",
                             "lex": "mu",
-                            "gloss_index": "PRON.1SG.O{mu}-2SG{=yat}-"
+                            "gloss_index": "PRN.1SG.O{mu}-2SG{=yat}-"
                         }
                     ]
                 },
@@ -1149,9 +1149,9 @@
                                 "POST"
                             ],
                             "parts": "mu=rd",
-                            "gloss": "PRON.1SG.O=DAT",
+                            "gloss": "PRN.1SG.O=DAT",
                             "lex": "mu",
-                            "gloss_index": "PRON.1SG.O{mu}-DAT{=rd}-"
+                            "gloss_index": "PRN.1SG.O{mu}-DAT{=rd}-"
                         }
                     ]
                 },
@@ -1210,9 +1210,9 @@
                                 "PERS"
                             ],
                             "parts": "wuz",
-                            "gloss": "PRON.1SG",
+                            "gloss": "PRN.1SG",
                             "lex": "wuz",
-                            "gloss_index": "PRON.1SG{wuz}-"
+                            "gloss_index": "PRN.1SG{wuz}-"
                         }
                     ]
                 },
@@ -1388,9 +1388,9 @@
                                 "PERS"
                             ],
                             "parts": "mu",
-                            "gloss": "PRON.1SG.O",
+                            "gloss": "PRN.1SG.O",
                             "lex": "mu",
-                            "gloss_index": "PRON.1SG.O{mu}-"
+                            "gloss_index": "PRN.1SG.O{mu}-"
                         }
                     ]
                 },
@@ -1489,9 +1489,9 @@
                                 "PERS"
                             ],
                             "parts": "mu",
-                            "gloss": "PRON.1SG.O",
+                            "gloss": "PRN.1SG.O",
                             "lex": "mu",
-                            "gloss_index": "PRON.1SG.O{mu}-"
+                            "gloss_index": "PRN.1SG.O{mu}-"
                         }
                     ]
                 }
@@ -1690,9 +1690,9 @@
                                 "PERS"
                             ],
                             "parts": "tu",
-                            "gloss": "PRON.2SG",
+                            "gloss": "PRN.2SG",
                             "lex": "tu",
-                            "gloss_index": "PRON.2SG{tu}-"
+                            "gloss_index": "PRN.2SG{tu}-"
                         }
                     ]
                 },
@@ -1791,9 +1791,9 @@
                                 "PERS"
                             ],
                             "parts": "tu",
-                            "gloss": "PRON.2SG",
+                            "gloss": "PRN.2SG",
                             "lex": "tu",
-                            "gloss_index": "PRON.2SG{tu}-"
+                            "gloss_index": "PRN.2SG{tu}-"
                         }
                     ]
                 },
@@ -1873,9 +1873,9 @@
                                 "PERS"
                             ],
                             "parts": "tu",
-                            "gloss": "PRON.2SG",
+                            "gloss": "PRN.2SG",
                             "lex": "tu",
-                            "gloss_index": "PRON.2SG{tu}-"
+                            "gloss_index": "PRN.2SG{tu}-"
                         }
                     ]
                 },
@@ -1975,9 +1975,9 @@
                                 "PERS"
                             ],
                             "parts": "tu",
-                            "gloss": "PRON.2SG",
+                            "gloss": "PRN.2SG",
                             "lex": "tu",
-                            "gloss_index": "PRON.2SG{tu}-"
+                            "gloss_index": "PRN.2SG{tu}-"
                         }
                     ]
                 },

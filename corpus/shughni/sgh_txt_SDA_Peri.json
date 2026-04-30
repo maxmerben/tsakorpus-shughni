@@ -3776,9 +3776,9 @@
                                 "CL.AGR"
                             ],
                             "parts": "tu=at",
-                            "gloss": "PRON.2SG=2SG",
+                            "gloss": "PRN.2SG=2SG",
                             "lex": "tu",
-                            "gloss_index": "PRON.2SG{tu}-2SG{=at}-"
+                            "gloss_index": "PRN.2SG{tu}-2SG{=at}-"
                         }
                     ]
                 },
@@ -3816,9 +3816,9 @@
                                 "PERS"
                             ],
                             "parts": "mu",
-                            "gloss": "PRON.1SG.O",
+                            "gloss": "PRN.1SG.O",
                             "lex": "mu",
-                            "gloss_index": "PRON.1SG.O{mu}-"
+                            "gloss_index": "PRN.1SG.O{mu}-"
                         }
                     ]
                 },
@@ -3904,9 +3904,9 @@
                                 "PERS"
                             ],
                             "parts": "uz",
-                            "gloss": "PRON.1SG",
+                            "gloss": "PRN.1SG",
                             "lex": "uz",
-                            "gloss_index": "PRON.1SG{uz}-"
+                            "gloss_index": "PRN.1SG{uz}-"
                         }
                     ]
                 },
@@ -3944,9 +3944,9 @@
                                 "PERS"
                             ],
                             "parts": "tu",
-                            "gloss": "PRON.2SG",
+                            "gloss": "PRN.2SG",
                             "lex": "tu",
-                            "gloss_index": "PRON.2SG{tu}-"
+                            "gloss_index": "PRN.2SG{tu}-"
                         }
                     ]
                 },
@@ -4004,9 +4004,9 @@
                                 "PERS"
                             ],
                             "parts": "tu",
-                            "gloss": "PRON.2SG",
+                            "gloss": "PRN.2SG",
                             "lex": "tu",
-                            "gloss_index": "PRON.2SG{tu}-"
+                            "gloss_index": "PRN.2SG{tu}-"
                         }
                     ]
                 },
@@ -4126,9 +4126,9 @@
                                 "PERS"
                             ],
                             "parts": "tu",
-                            "gloss": "PRON.2SG",
+                            "gloss": "PRN.2SG",
                             "lex": "tu",
-                            "gloss_index": "PRON.2SG{tu}-"
+                            "gloss_index": "PRN.2SG{tu}-"
                         }
                     ]
                 },
@@ -4208,9 +4208,9 @@
                                 "PERS"
                             ],
                             "parts": "tu",
-                            "gloss": "PRON.2SG",
+                            "gloss": "PRN.2SG",
                             "lex": "tu",
-                            "gloss_index": "PRON.2SG{tu}-"
+                            "gloss_index": "PRN.2SG{tu}-"
                         }
                     ]
                 },
@@ -6211,7 +6211,7 @@
             ]
         },
         {
-            "text": "она снова берёт её (тарелку) и снова ей на утро готовит мучную похлёбку ",
+            "text": "она снова берёт её (тарелку) и снова ей на утро готовит мучную похлёбку",
             "words": [
                 {
                     "wf": "она",
@@ -6355,7 +6355,7 @@
             ]
         },
         {
-            "text": "и снова приходит туда, и она снова приносит своего ребёнка, и, знаешь, ту мучную похлёбку полностью съедает  и приносит своего ребенка",
+            "text": "и снова приходит туда, и она снова приносит своего ребёнка, и, знаешь, ту мучную похлёбку полностью съедает и приносит своего ребенка",
             "words": [
                 {
                     "wf": "и",

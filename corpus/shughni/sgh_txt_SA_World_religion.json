@@ -45,7 +45,7 @@
                 {
                     "off_start": 0,
                     "off_end": 1,
-                    "para_id": null
+                    "para_id": 1
                 }
             ],
             "src_alignment": [
@@ -81,7 +81,7 @@
                 {
                     "off_start": 0,
                     "off_end": 1,
-                    "para_id": null
+                    "para_id": 2
                 }
             ],
             "src_alignment": [
@@ -964,9 +964,9 @@
                                 "CONJ"
                             ],
                             "parts": "mu=at",
-                            "gloss": "PRON.1SG.O=COORD2",
+                            "gloss": "PRN.1SG.O=COORD2",
                             "lex": "mu",
-                            "gloss_index": "PRON.1SG.O{mu}-COORD2{=at}-"
+                            "gloss_index": "PRN.1SG.O{mu}-COORD2{=at}-"
                         }
                     ]
                 },
@@ -1254,9 +1254,9 @@
                                 "CONJ"
                             ],
                             "parts": "mu=at",
-                            "gloss": "PRON.1SG.O=COORD2",
+                            "gloss": "PRN.1SG.O=COORD2",
                             "lex": "mu",
-                            "gloss_index": "PRON.1SG.O{mu}-COORD2{=at}-"
+                            "gloss_index": "PRN.1SG.O{mu}-COORD2{=at}-"
                         }
                     ]
                 },
@@ -1365,9 +1365,9 @@
                                 "CONJ"
                             ],
                             "parts": "mu=at",
-                            "gloss": "PRON.1SG.O=COORD2",
+                            "gloss": "PRN.1SG.O=COORD2",
                             "lex": "mu",
-                            "gloss_index": "PRON.1SG.O{mu}-COORD2{=at}-"
+                            "gloss_index": "PRN.1SG.O{mu}-COORD2{=at}-"
                         }
                     ]
                 },
@@ -1571,9 +1571,9 @@
                                 "CONJ"
                             ],
                             "parts": "mu=at",
-                            "gloss": "PRON.1SG.O=COORD2",
+                            "gloss": "PRN.1SG.O=COORD2",
                             "lex": "mu",
-                            "gloss_index": "PRON.1SG.O{mu}-COORD2{=at}-"
+                            "gloss_index": "PRN.1SG.O{mu}-COORD2{=at}-"
                         }
                     ]
                 },
@@ -2050,7 +2050,7 @@
                 {
                     "off_start": 0,
                     "off_end": 1,
-                    "para_id": null
+                    "para_id": 7
                 }
             ],
             "src_alignment": [
@@ -4459,9 +4459,9 @@
                                 "PERS"
                             ],
                             "parts": "tama",
-                            "gloss": "PRON.2PL",
+                            "gloss": "PRN.2PL",
                             "lex": "tama",
-                            "gloss_index": "PRON.2PL{tama}-"
+                            "gloss_index": "PRN.2PL{tama}-"
                         }
                     ]
                 },
@@ -5939,9 +5939,9 @@
                                 "POST"
                             ],
                             "parts": "mu=rd",
-                            "gloss": "PRON.1SG.O=DAT",
+                            "gloss": "PRN.1SG.O=DAT",
                             "lex": "mu",
-                            "gloss_index": "PRON.1SG.O{mu}-DAT{=rd}-"
+                            "gloss_index": "PRN.1SG.O{mu}-DAT{=rd}-"
                         }
                     ]
                 },
@@ -6209,9 +6209,9 @@
                                 "CL.AGR"
                             ],
                             "parts": "uz=um",
-                            "gloss": "PRON.1SG=1SG",
+                            "gloss": "PRN.1SG=1SG",
                             "lex": "uz",
-                            "gloss_index": "PRON.1SG{uz}-1SG{=um}-"
+                            "gloss_index": "PRN.1SG{uz}-1SG{=um}-"
                         }
                     ]
                 },
@@ -6414,9 +6414,9 @@
                                 "PERS"
                             ],
                             "parts": "mu",
-                            "gloss": "PRON.1SG.O",
+                            "gloss": "PRN.1SG.O",
                             "lex": "mu",
-                            "gloss_index": "PRON.1SG.O{mu}-"
+                            "gloss_index": "PRN.1SG.O{mu}-"
                         }
                     ]
                 },
@@ -6494,9 +6494,9 @@
                                 "PERS"
                             ],
                             "parts": "mu",
-                            "gloss": "PRON.1SG.O",
+                            "gloss": "PRN.1SG.O",
                             "lex": "mu",
-                            "gloss_index": "PRON.1SG.O{mu}-"
+                            "gloss_index": "PRN.1SG.O{mu}-"
                         }
                     ]
                 },
@@ -6744,9 +6744,9 @@
                                 "PERS"
                             ],
                             "parts": "mu",
-                            "gloss": "PRON.1SG.O",
+                            "gloss": "PRN.1SG.O",
                             "lex": "mu",
-                            "gloss_index": "PRON.1SG.O{mu}-"
+                            "gloss_index": "PRN.1SG.O{mu}-"
                         }
                     ]
                 },
@@ -6806,9 +6806,9 @@
                                 "PERS"
                             ],
                             "parts": "mu",
-                            "gloss": "PRON.1SG.O",
+                            "gloss": "PRN.1SG.O",
                             "lex": "mu",
-                            "gloss_index": "PRON.1SG.O{mu}-"
+                            "gloss_index": "PRN.1SG.O{mu}-"
                         }
                     ]
                 },
@@ -8124,9 +8124,9 @@
                                 "CL.AGR"
                             ],
                             "parts": "mu=yi",
-                            "gloss": "PRON.1SG.O=3SG",
+                            "gloss": "PRN.1SG.O=3SG",
                             "lex": "mu",
-                            "gloss_index": "PRON.1SG.O{mu}-3SG{=yi}-"
+                            "gloss_index": "PRN.1SG.O{mu}-3SG{=yi}-"
                         }
                     ]
                 },
@@ -8626,9 +8626,9 @@
                                 "PERS"
                             ],
                             "parts": "tu",
-                            "gloss": "PRON.2SG",
+                            "gloss": "PRN.2SG",
                             "lex": "tu",
-                            "gloss_index": "PRON.2SG{tu}-"
+                            "gloss_index": "PRN.2SG{tu}-"
                         }
                     ]
                 },
@@ -8724,9 +8724,9 @@
                                 "PERS"
                             ],
                             "parts": "tu",
-                            "gloss": "PRON.2SG",
+                            "gloss": "PRN.2SG",
                             "lex": "tu",
-                            "gloss_index": "PRON.2SG{tu}-"
+                            "gloss_index": "PRN.2SG{tu}-"
                         }
                     ]
                 },
@@ -8938,9 +8938,9 @@
                                 "CL.AGR"
                             ],
                             "parts": "uz=um",
-                            "gloss": "PRON.1SG=1SG",
+                            "gloss": "PRN.1SG=1SG",
                             "lex": "uz",
-                            "gloss_index": "PRON.1SG{uz}-1SG{=um}-"
+                            "gloss_index": "PRN.1SG{uz}-1SG{=um}-"
                         }
                     ]
                 },
@@ -9875,9 +9875,9 @@
                                 "POST"
                             ],
                             "parts": "tam=ard",
-                            "gloss": "PRON.2PL=DAT",
+                            "gloss": "PRN.2PL=DAT",
                             "lex": "tam",
-                            "gloss_index": "PRON.2PL{tam}-DAT{=ard}-"
+                            "gloss_index": "PRN.2PL{tam}-DAT{=ard}-"
                         }
                     ]
                 },
@@ -9998,9 +9998,9 @@
                                 "PERS"
                             ],
                             "parts": "mu",
-                            "gloss": "PRON.1SG.O",
+                            "gloss": "PRN.1SG.O",
                             "lex": "mu",
-                            "gloss_index": "PRON.1SG.O{mu}-"
+                            "gloss_index": "PRN.1SG.O{mu}-"
                         }
                     ]
                 },
@@ -10417,9 +10417,9 @@
                                 "PERS"
                             ],
                             "parts": "māš",
-                            "gloss": "PRON.1PL",
+                            "gloss": "PRN.1PL",
                             "lex": "māš",
-                            "gloss_index": "PRON.1PL{māš}-"
+                            "gloss_index": "PRN.1PL{māš}-"
                         }
                     ]
                 },
@@ -10479,9 +10479,9 @@
                                 "POST"
                             ],
                             "parts": "tama=ǰa",
-                            "gloss": "PRON.2PL=P.LOC",
+                            "gloss": "PRN.2PL=P.LOC",
                             "lex": "tama",
-                            "gloss_index": "PRON.2PL{tama}-P.LOC{=ǰa}-"
+                            "gloss_index": "PRN.2PL{tama}-P.LOC{=ǰa}-"
                         }
                     ]
                 },
@@ -10670,9 +10670,9 @@
                                 "PERS"
                             ],
                             "parts": "uz",
-                            "gloss": "PRON.1SG",
+                            "gloss": "PRN.1SG",
                             "lex": "uz",
-                            "gloss_index": "PRON.1SG{uz}-"
+                            "gloss_index": "PRN.1SG{uz}-"
                         }
                     ]
                 },
@@ -10751,9 +10751,9 @@
                                 "PERS"
                             ],
                             "parts": "māš",
-                            "gloss": "PRON.1PL",
+                            "gloss": "PRN.1PL",
                             "lex": "māš",
-                            "gloss_index": "PRON.1PL{māš}-"
+                            "gloss_index": "PRN.1PL{māš}-"
                         }
                     ]
                 },
@@ -14226,7 +14226,7 @@
                 {
                     "off_start": 0,
                     "off_end": 1,
-                    "para_id": null
+                    "para_id": 1
                 }
             ],
             "src_alignment": [
@@ -14242,7 +14242,7 @@
             ]
         },
         {
-            "text": "очень большой город, есть старый Кобул,  есть",
+            "text": "очень большой город, есть старый Кобул, есть",
             "words": [
                 {
                     "wf": "очень",
@@ -14316,7 +14316,7 @@
                 {
                     "off_start": 0,
                     "off_end": 1,
-                    "para_id": null
+                    "para_id": 2
                 }
             ],
             "src_alignment": [
@@ -15531,7 +15531,7 @@
                 {
                     "off_start": 0,
                     "off_end": 1,
-                    "para_id": null
+                    "para_id": 7
                 }
             ],
             "src_alignment": [
@@ -18499,7 +18499,7 @@
             ]
         },
         {
-            "text": "Около 10-15 дней я там работал, и вот ко мне приходит мужчина маленького роста, пришёл, посмотрел на меня и сказал: \"Вода у меня дома в кувшине, а я ищу её. Друг мой в моём доме, а я ищу его по всей Земле\". ",
+            "text": "Около 10-15 дней я там работал, и вот ко мне приходит мужчина маленького роста, пришёл, посмотрел на меня и сказал: \"Вода у меня дома в кувшине, а я ищу её. Друг мой в моём доме, а я ищу его по всей Земле\".",
             "words": [
                 {
                     "wf": "Около",
@@ -19066,7 +19066,7 @@
             ]
         },
         {
-            "text": "Мы вышли, и,  действительно, она была там закрытая. Я приказал её открыть и зашёл внутрь, там были кости, там внутри, и, возможно, они были с тех времён.",
+            "text": "Мы вышли, и, действительно, она была там закрытая. Я приказал её открыть и зашёл внутрь, там были кости, там внутри, и, возможно, они были с тех времён.",
             "words": [
                 {
                     "wf": "Мы",
@@ -20065,7 +20065,7 @@
             ]
         },
         {
-            "text": "Зашёл я в церковь, в церковь в Хабаровске, а там поп с огромным колпаком на голове вот так, вот это у него на голове. Я спросил: \"Можно к вам, батюшка?\" Он сказал: \"Заходи, сын мой\". ",
+            "text": "Зашёл я в церковь, в церковь в Хабаровске, а там поп с огромным колпаком на голове вот так, вот это у него на голове. Я спросил: \"Можно к вам, батюшка?\" Он сказал: \"Заходи, сын мой\".",
             "words": [
                 {
                     "wf": "Зашёл",
@@ -21586,7 +21586,7 @@
             ]
         },
         {
-            "text": "Его вот напугали. ",
+            "text": "Его вот напугали.",
             "words": [
                 {
                     "wf": "Его",
@@ -21712,7 +21712,7 @@
             ]
         },
         {
-            "text": "На памирском, на шугнанском ",
+            "text": "На памирском, на шугнанском",
             "words": [
                 {
                     "wf": "На",

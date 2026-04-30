@@ -155,9 +155,9 @@
                                 "T"
                             ],
                             "parts": "nūs-č",
-                            "gloss": "sit.M-PF",
+                            "gloss": "sit.M.SG-PF",
                             "lex": "nūs",
-                            "gloss_index": "sit.M{nūs}-PF{-č}-"
+                            "gloss_index": "sit.M.SG{nūs}-PF{-č}-"
                         }
                     ]
                 },
@@ -5174,9 +5174,9 @@
                                 "CL.AGR"
                             ],
                             "parts": "tam=et",
-                            "gloss": "PRON.2PL=2PL",
+                            "gloss": "PRN.2PL=2PL",
                             "lex": "tam",
-                            "gloss_index": "PRON.2PL{tam}-2PL{=et}-"
+                            "gloss_index": "PRN.2PL{tam}-2PL{=et}-"
                         }
                     ]
                 },
@@ -5933,9 +5933,9 @@
                                 "PERS"
                             ],
                             "parts": "māš",
-                            "gloss": "PRON.1PL",
+                            "gloss": "PRN.1PL",
                             "lex": "māš",
-                            "gloss_index": "PRON.1PL{māš}-"
+                            "gloss_index": "PRN.1PL{māš}-"
                         }
                     ]
                 },
@@ -7131,9 +7131,9 @@
                                 "PERS"
                             ],
                             "parts": "māš",
-                            "gloss": "PRON.1PL",
+                            "gloss": "PRN.1PL",
                             "lex": "māš",
-                            "gloss_index": "PRON.1PL{māš}-"
+                            "gloss_index": "PRN.1PL{māš}-"
                         }
                     ]
                 },

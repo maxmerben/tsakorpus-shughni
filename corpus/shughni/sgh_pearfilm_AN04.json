@@ -4091,9 +4091,9 @@
                                 "POST"
                             ],
                             "parts": "tu=nd",
-                            "gloss": "PRON.2SG=LOC",
+                            "gloss": "PRN.2SG=LOC",
                             "lex": "tu",
-                            "gloss_index": "PRON.2SG{tu}-LOC{=nd}-"
+                            "gloss_index": "PRN.2SG{tu}-LOC{=nd}-"
                         }
                     ]
                 },
@@ -4111,9 +4111,9 @@
                                 "PERS"
                             ],
                             "parts": "tu",
-                            "gloss": "PRON.2SG",
+                            "gloss": "PRN.2SG",
                             "lex": "tu",
-                            "gloss_index": "PRON.2SG{tu}-"
+                            "gloss_index": "PRN.2SG{tu}-"
                         }
                     ]
                 },

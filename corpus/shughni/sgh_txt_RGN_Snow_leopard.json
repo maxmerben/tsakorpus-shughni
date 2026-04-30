@@ -9,13 +9,14 @@
         "year": 2019,
         "author": "RGN",
         "gender": "F",
+        "source": "recorded in the 2019 field trip",
         "recorded by": "Alexander Sergienko",
         "glossed by": "Sofia Sedunova",
         "comment": "was originally glossed badly by Yury Makarov, reglossed in 2025 by Sofia Sedunova",
         "speakers": [
             "A"
         ],
-        "filename": "shg_txt_RGN_Snow_leopard.json",
+        "filename": "sgh_txt_RGN_Snow_leopard.json",
         "title": "Snow leopard",
         "adjusted": "yes"
     },
@@ -37,9 +38,9 @@
                                 "PERS"
                             ],
                             "parts": "wuz",
-                            "gloss": "PRON.1SG",
+                            "gloss": "PRN.1SG",
                             "lex": "wuz",
-                            "gloss_index": "PRON.1SG{wuz}-"
+                            "gloss_index": "PRN.1SG{wuz}-"
                         }
                     ]
                 },
@@ -205,7 +206,7 @@
                     "off_end_sent": 50,
                     "mtype": "audio",
                     "src_id": "5729.0_11829.0",
-                    "src": "shg_txt_RGN_Snow_leopard.wav"
+                    "src": "sgh_txt_RGN_Snow_leopard.wav"
                 }
             ]
         },
@@ -335,7 +336,7 @@
                     "off_end_sent": 36,
                     "mtype": "audio",
                     "src_id": "12118.0_14650.0",
-                    "src": "shg_txt_RGN_Snow_leopard.wav"
+                    "src": "sgh_txt_RGN_Snow_leopard.wav"
                 }
             ]
         },
@@ -504,7 +505,7 @@
                     "off_end_sent": 45,
                     "mtype": "audio",
                     "src_id": "15644.0_19443.0",
-                    "src": "shg_txt_RGN_Snow_leopard.wav"
+                    "src": "sgh_txt_RGN_Snow_leopard.wav"
                 }
             ]
         },
@@ -888,7 +889,7 @@
                     "ana": [
                         {
                             "gr.pos": [
-                                "N"
+                                "PRT"
                             ],
                             "parts": "kam",
                             "gloss": "a_little",
@@ -1082,7 +1083,7 @@
                     "off_end_sent": 172,
                     "mtype": "audio",
                     "src_id": "20363.0_36578.0",
-                    "src": "shg_txt_RGN_Snow_leopard.wav"
+                    "src": "sgh_txt_RGN_Snow_leopard.wav"
                 }
             ]
         },
@@ -1352,7 +1353,7 @@
                     "off_end_sent": 64,
                     "mtype": "audio",
                     "src_id": "36804.0_43350.0",
-                    "src": "shg_txt_RGN_Snow_leopard.wav"
+                    "src": "sgh_txt_RGN_Snow_leopard.wav"
                 }
             ]
         },
@@ -1481,7 +1482,7 @@
                     "off_end_sent": 25,
                     "mtype": "audio",
                     "src_id": "43401.0_46529.0",
-                    "src": "shg_txt_RGN_Snow_leopard.wav"
+                    "src": "sgh_txt_RGN_Snow_leopard.wav"
                 }
             ]
         },
@@ -1751,7 +1752,7 @@
                     "off_end_sent": 66,
                     "mtype": "audio",
                     "src_id": "46709.0_50785.0",
-                    "src": "shg_txt_RGN_Snow_leopard.wav"
+                    "src": "sgh_txt_RGN_Snow_leopard.wav"
                 }
             ]
         },
@@ -1983,7 +1984,7 @@
                     "off_end_sent": 64,
                     "mtype": "audio",
                     "src_id": "51035.0_57415.0",
-                    "src": "shg_txt_RGN_Snow_leopard.wav"
+                    "src": "sgh_txt_RGN_Snow_leopard.wav"
                 }
             ]
         },
@@ -2093,7 +2094,7 @@
                     "off_end_sent": 22,
                     "mtype": "audio",
                     "src_id": "57541.0_59468.0",
-                    "src": "shg_txt_RGN_Snow_leopard.wav"
+                    "src": "sgh_txt_RGN_Snow_leopard.wav"
                 }
             ]
         },
@@ -2467,7 +2468,7 @@
                     "off_end_sent": 101,
                     "mtype": "audio",
                     "src_id": "59477.0_66142.0",
-                    "src": "shg_txt_RGN_Snow_leopard.wav"
+                    "src": "sgh_txt_RGN_Snow_leopard.wav"
                 }
             ]
         },
@@ -2905,7 +2906,7 @@
                     "off_end_sent": 130,
                     "mtype": "audio",
                     "src_id": "66173.0_78522.0",
-                    "src": "shg_txt_RGN_Snow_leopard.wav"
+                    "src": "sgh_txt_RGN_Snow_leopard.wav"
                 }
             ]
         },
@@ -3037,7 +3038,7 @@
                     "off_end_sent": 35,
                     "mtype": "audio",
                     "src_id": "78535.0_81490.0",
-                    "src": "shg_txt_RGN_Snow_leopard.wav"
+                    "src": "sgh_txt_RGN_Snow_leopard.wav"
                 }
             ]
         },
@@ -3476,7 +3477,7 @@
                     "off_end_sent": 118,
                     "mtype": "audio",
                     "src_id": "81490.0_89812.0",
-                    "src": "shg_txt_RGN_Snow_leopard.wav"
+                    "src": "sgh_txt_RGN_Snow_leopard.wav"
                 }
             ]
         },
@@ -3498,9 +3499,9 @@
                                 "CL.AGR"
                             ],
                             "parts": "māš=ām",
-                            "gloss": "PRON.1PL=1PL",
+                            "gloss": "PRN.1PL=1PL",
                             "lex": "māš",
-                            "gloss_index": "PRON.1PL{māš}-1PL{=ām}-"
+                            "gloss_index": "PRN.1PL{māš}-1PL{=ām}-"
                         }
                     ]
                 },
@@ -3642,9 +3643,9 @@
                                 "PRT"
                             ],
                             "parts": "māš=ta",
-                            "gloss": "PRON.1PL=FUT",
+                            "gloss": "PRN.1PL=FUT",
                             "lex": "māš",
-                            "gloss_index": "PRON.1PL{māš}-FUT{=ta}-"
+                            "gloss_index": "PRN.1PL{māš}-FUT{=ta}-"
                         }
                     ]
                 },
@@ -3769,7 +3770,7 @@
                     "off_end_sent": 85,
                     "mtype": "audio",
                     "src_id": "90305.0_96053.0",
-                    "src": "shg_txt_RGN_Snow_leopard.wav"
+                    "src": "sgh_txt_RGN_Snow_leopard.wav"
                 }
             ]
         },
@@ -3912,9 +3913,9 @@
                                 "POST"
                             ],
                             "parts": "māš=ard",
-                            "gloss": "PRON.1PL=DAT",
+                            "gloss": "PRN.1PL=DAT",
                             "lex": "māš",
-                            "gloss_index": "PRON.1PL{māš}-DAT{=ard}-"
+                            "gloss_index": "PRN.1PL{māš}-DAT{=ard}-"
                         }
                     ]
                 },
@@ -4183,7 +4184,7 @@
                     "off_end_sent": 114,
                     "mtype": "audio",
                     "src_id": "96077.0_103467.0",
-                    "src": "shg_txt_RGN_Snow_leopard.wav"
+                    "src": "sgh_txt_RGN_Snow_leopard.wav"
                 }
             ]
         },
@@ -4266,9 +4267,9 @@
                                 "PERS"
                             ],
                             "parts": "māš",
-                            "gloss": "PRON.1PL",
+                            "gloss": "PRN.1PL",
                             "lex": "māš",
-                            "gloss_index": "PRON.1PL{māš}-"
+                            "gloss_index": "PRN.1PL{māš}-"
                         }
                     ]
                 },
@@ -4312,7 +4313,7 @@
                     "off_end_sent": 26,
                     "mtype": "audio",
                     "src_id": "103467.0_104996.0",
-                    "src": "shg_txt_RGN_Snow_leopard.wav"
+                    "src": "sgh_txt_RGN_Snow_leopard.wav"
                 }
             ]
         },
@@ -4333,9 +4334,9 @@
                                 "PERS"
                             ],
                             "parts": "māš",
-                            "gloss": "PRON.1PL",
+                            "gloss": "PRN.1PL",
                             "lex": "māš",
-                            "gloss_index": "PRON.1PL{māš}-"
+                            "gloss_index": "PRN.1PL{māš}-"
                         }
                     ]
                 },
@@ -4610,9 +4611,9 @@
                                 "PERS"
                             ],
                             "parts": "māš",
-                            "gloss": "PRON.1PL",
+                            "gloss": "PRN.1PL",
                             "lex": "māš",
-                            "gloss_index": "PRON.1PL{māš}-"
+                            "gloss_index": "PRN.1PL{māš}-"
                         }
                     ]
                 },
@@ -4731,9 +4732,9 @@
                                 "PERS"
                             ],
                             "parts": "māš",
-                            "gloss": "PRON.1PL",
+                            "gloss": "PRN.1PL",
                             "lex": "māš",
-                            "gloss_index": "PRON.1PL{māš}-"
+                            "gloss_index": "PRN.1PL{māš}-"
                         }
                     ]
                 },
@@ -4819,7 +4820,7 @@
                     "off_end_sent": 138,
                     "mtype": "audio",
                     "src_id": "104996.0_114160.0",
-                    "src": "shg_txt_RGN_Snow_leopard.wav"
+                    "src": "sgh_txt_RGN_Snow_leopard.wav"
                 }
             ]
         },
@@ -4920,9 +4921,9 @@
                                 "PERS"
                             ],
                             "parts": "māš",
-                            "gloss": "PRON.1PL",
+                            "gloss": "PRN.1PL",
                             "lex": "māš",
-                            "gloss_index": "PRON.1PL{māš}-"
+                            "gloss_index": "PRN.1PL{māš}-"
                         }
                     ]
                 },
@@ -5008,7 +5009,7 @@
                     "off_end_sent": 46,
                     "mtype": "audio",
                     "src_id": "114160.0_117013.0",
-                    "src": "shg_txt_RGN_Snow_leopard.wav"
+                    "src": "sgh_txt_RGN_Snow_leopard.wav"
                 }
             ]
         },
@@ -5261,9 +5262,9 @@
                                 "PRT"
                             ],
                             "parts": "māš=ta",
-                            "gloss": "PRON.1PL=FUT",
+                            "gloss": "PRN.1PL=FUT",
                             "lex": "māš",
-                            "gloss_index": "PRON.1PL{māš}-FUT{=ta}-"
+                            "gloss_index": "PRN.1PL{māš}-FUT{=ta}-"
                         }
                     ]
                 },
@@ -5514,7 +5515,7 @@
                     "off_end_sent": 144,
                     "mtype": "audio",
                     "src_id": "117033.0_130865.0",
-                    "src": "shg_txt_RGN_Snow_leopard.wav"
+                    "src": "sgh_txt_RGN_Snow_leopard.wav"
                 }
             ]
         },
@@ -6216,7 +6217,7 @@
                     "off_end_sent": 195,
                     "mtype": "audio",
                     "src_id": "130865.0_145383.0",
-                    "src": "shg_txt_RGN_Snow_leopard.wav"
+                    "src": "sgh_txt_RGN_Snow_leopard.wav"
                 }
             ]
         },
@@ -6468,7 +6469,7 @@
                     "off_end_sent": 67,
                     "mtype": "audio",
                     "src_id": "145389.0_149911.0",
-                    "src": "shg_txt_RGN_Snow_leopard.wav"
+                    "src": "sgh_txt_RGN_Snow_leopard.wav"
                 }
             ]
         },
@@ -6865,7 +6866,7 @@
                     "off_end_sent": 107,
                     "mtype": "audio",
                     "src_id": "150250.0_156984.0",
-                    "src": "shg_txt_RGN_Snow_leopard.wav"
+                    "src": "sgh_txt_RGN_Snow_leopard.wav"
                 }
             ]
         },
@@ -7304,9 +7305,9 @@
                                 "PERS"
                             ],
                             "parts": "mu",
-                            "gloss": "PRON.1SG.O",
+                            "gloss": "PRN.1SG.O",
                             "lex": "mu",
-                            "gloss_index": "PRON.1SG.O{mu}-"
+                            "gloss_index": "PRN.1SG.O{mu}-"
                         }
                     ]
                 },
@@ -7393,9 +7394,9 @@
                                 "PERS"
                             ],
                             "parts": "mu",
-                            "gloss": "PRON.1SG.O",
+                            "gloss": "PRN.1SG.O",
                             "lex": "mu",
-                            "gloss_index": "PRON.1SG.O{mu}-"
+                            "gloss_index": "PRN.1SG.O{mu}-"
                         }
                     ]
                 },
@@ -7439,7 +7440,7 @@
                     "off_end_sent": 149,
                     "mtype": "audio",
                     "src_id": "156997.0_163804.0",
-                    "src": "shg_txt_RGN_Snow_leopard.wav"
+                    "src": "sgh_txt_RGN_Snow_leopard.wav"
                 }
             ]
         },
@@ -7542,9 +7543,9 @@
                                 "PERS"
                             ],
                             "parts": "mu",
-                            "gloss": "PRON.1SG.O",
+                            "gloss": "PRN.1SG.O",
                             "lex": "mu",
-                            "gloss_index": "PRON.1SG.O{mu}-"
+                            "gloss_index": "PRN.1SG.O{mu}-"
                         }
                     ]
                 },
@@ -7604,9 +7605,9 @@
                                 "PERS"
                             ],
                             "parts": "mu",
-                            "gloss": "PRON.1SG.O",
+                            "gloss": "PRN.1SG.O",
                             "lex": "mu",
-                            "gloss_index": "PRON.1SG.O{mu}-"
+                            "gloss_index": "PRN.1SG.O{mu}-"
                         }
                     ]
                 },
@@ -7665,9 +7666,9 @@
                                 "PERS"
                             ],
                             "parts": "wuz",
-                            "gloss": "PRON.1SG",
+                            "gloss": "PRN.1SG",
                             "lex": "wuz",
-                            "gloss_index": "PRON.1SG{wuz}-"
+                            "gloss_index": "PRN.1SG{wuz}-"
                         }
                     ]
                 },
@@ -7712,7 +7713,7 @@
                     "off_end_sent": 78,
                     "mtype": "audio",
                     "src_id": "163804.0_169415.0",
-                    "src": "shg_txt_RGN_Snow_leopard.wav"
+                    "src": "sgh_txt_RGN_Snow_leopard.wav"
                 }
             ]
         },
@@ -7754,9 +7755,9 @@
                                 "CL.AGR"
                             ],
                             "parts": "wuz=um",
-                            "gloss": "PRON.1SG=1SG",
+                            "gloss": "PRN.1SG=1SG",
                             "lex": "wuz",
-                            "gloss_index": "PRON.1SG{wuz}-1SG{=um}-"
+                            "gloss_index": "PRN.1SG{wuz}-1SG{=um}-"
                         }
                     ]
                 },
@@ -7878,9 +7879,9 @@
                                 "CONJ"
                             ],
                             "parts": "wuz=at",
-                            "gloss": "PRON.1SG=COORD2",
+                            "gloss": "PRN.1SG=COORD2",
                             "lex": "wuz",
-                            "gloss_index": "PRON.1SG{wuz}-COORD2{=at}-"
+                            "gloss_index": "PRN.1SG{wuz}-COORD2{=at}-"
                         }
                     ]
                 },
@@ -7899,9 +7900,9 @@
                                 "PRT"
                             ],
                             "parts": "tu=ta",
-                            "gloss": "PRON.2SG=FUT",
+                            "gloss": "PRN.2SG=FUT",
                             "lex": "tu",
-                            "gloss_index": "PRON.2SG{tu}-FUT{=ta}-"
+                            "gloss_index": "PRN.2SG{tu}-FUT{=ta}-"
                         }
                     ]
                 },
@@ -8022,9 +8023,9 @@
                                 "POST"
                             ],
                             "parts": "tu=nd",
-                            "gloss": "PRON.2SG=LOC",
+                            "gloss": "PRN.2SG=LOC",
                             "lex": "tu",
-                            "gloss_index": "PRON.2SG{tu}-LOC{=nd}-"
+                            "gloss_index": "PRN.2SG{tu}-LOC{=nd}-"
                         }
                     ]
                 },
@@ -8103,9 +8104,9 @@
                                 "PERS"
                             ],
                             "parts": "māš",
-                            "gloss": "PRON.1PL",
+                            "gloss": "PRN.1PL",
                             "lex": "māš",
-                            "gloss_index": "PRON.1PL{māš}-"
+                            "gloss_index": "PRN.1PL{māš}-"
                         }
                     ]
                 },
@@ -8124,9 +8125,9 @@
                                 "POST"
                             ],
                             "parts": "tu=rd",
-                            "gloss": "PRON.2SG=DAT",
+                            "gloss": "PRN.2SG=DAT",
                             "lex": "tu",
-                            "gloss_index": "PRON.2SG{tu}-DAT{=rd}-"
+                            "gloss_index": "PRN.2SG{tu}-DAT{=rd}-"
                         }
                     ]
                 },
@@ -8248,9 +8249,9 @@
                                 "POST"
                             ],
                             "parts": "māš=ard",
-                            "gloss": "PRON.1PL=DAT",
+                            "gloss": "PRN.1PL=DAT",
                             "lex": "māš",
-                            "gloss_index": "PRON.1PL{māš}-DAT{=ard}-"
+                            "gloss_index": "PRN.1PL{māš}-DAT{=ard}-"
                         }
                     ]
                 },
@@ -8289,9 +8290,9 @@
                                 "PERS"
                             ],
                             "parts": "māš",
-                            "gloss": "PRON.1PL",
+                            "gloss": "PRN.1PL",
                             "lex": "māš",
-                            "gloss_index": "PRON.1PL{māš}-"
+                            "gloss_index": "PRN.1PL{māš}-"
                         }
                     ]
                 },
@@ -8398,7 +8399,7 @@
                     "off_end_sent": 189,
                     "mtype": "audio",
                     "src_id": "169436.0_180414.0",
-                    "src": "shg_txt_RGN_Snow_leopard.wav"
+                    "src": "sgh_txt_RGN_Snow_leopard.wav"
                 }
             ]
         },
@@ -8543,9 +8544,9 @@
                                 "CONJ"
                             ],
                             "parts": "wuz=at",
-                            "gloss": "PRON.1SG=COORD2",
+                            "gloss": "PRN.1SG=COORD2",
                             "lex": "wuz",
-                            "gloss_index": "PRON.1SG{wuz}-COORD2{=at}-"
+                            "gloss_index": "PRN.1SG{wuz}-COORD2{=at}-"
                         }
                     ]
                 },
@@ -8694,7 +8695,7 @@
                     "off_end_sent": 83,
                     "mtype": "audio",
                     "src_id": "180433.0_186028.0",
-                    "src": "shg_txt_RGN_Snow_leopard.wav"
+                    "src": "sgh_txt_RGN_Snow_leopard.wav"
                 }
             ]
         },
@@ -8799,9 +8800,9 @@
                                 "CL.AGR"
                             ],
                             "parts": "wuz=um",
-                            "gloss": "PRON.1SG=1SG",
+                            "gloss": "PRN.1SG=1SG",
                             "lex": "wuz",
-                            "gloss_index": "PRON.1SG{wuz}-1SG{=um}-"
+                            "gloss_index": "PRN.1SG{wuz}-1SG{=um}-"
                         }
                     ]
                 },
@@ -9174,7 +9175,7 @@
                     "off_end_sent": 142,
                     "mtype": "audio",
                     "src_id": "186055.0_196600.0",
-                    "src": "shg_txt_RGN_Snow_leopard.wav"
+                    "src": "sgh_txt_RGN_Snow_leopard.wav"
                 }
             ]
         },
@@ -9444,7 +9445,7 @@
                     "off_end_sent": 63,
                     "mtype": "audio",
                     "src_id": "196600.0_200486.0",
-                    "src": "shg_txt_RGN_Snow_leopard.wav"
+                    "src": "sgh_txt_RGN_Snow_leopard.wav"
                 }
             ]
         },
@@ -9854,9 +9855,9 @@
                                 "CL.AGR"
                             ],
                             "parts": "māš=ām",
-                            "gloss": "PRON.1PL=1PL",
+                            "gloss": "PRN.1PL=1PL",
                             "lex": "māš",
-                            "gloss_index": "PRON.1PL{māš}-1PL{=ām}-"
+                            "gloss_index": "PRN.1PL{māš}-1PL{=ām}-"
                         }
                     ]
                 },
@@ -10104,7 +10105,7 @@
                     "off_end_sent": 182,
                     "mtype": "audio",
                     "src_id": "200766.0_211827.0",
-                    "src": "shg_txt_RGN_Snow_leopard.wav"
+                    "src": "sgh_txt_RGN_Snow_leopard.wav"
                 }
             ]
         },
@@ -10438,9 +10439,9 @@
                                 "POST"
                             ],
                             "parts": "māš=ard",
-                            "gloss": "PRON.1PL=DAT",
+                            "gloss": "PRN.1PL=DAT",
                             "lex": "māš",
-                            "gloss_index": "PRON.1PL{māš}-DAT{=ard}-"
+                            "gloss_index": "PRN.1PL{māš}-DAT{=ard}-"
                         }
                     ]
                 },
@@ -10485,7 +10486,7 @@
                     "off_end_sent": 108,
                     "mtype": "audio",
                     "src_id": "212341.0_219533.0",
-                    "src": "shg_txt_RGN_Snow_leopard.wav"
+                    "src": "sgh_txt_RGN_Snow_leopard.wav"
                 }
             ]
         },
@@ -10575,7 +10576,7 @@
                     "off_end_sent": 50,
                     "mtype": "audio",
                     "src_id": "5729.0_11829.0",
-                    "src": "shg_txt_RGN_Snow_leopard.wav"
+                    "src": "sgh_txt_RGN_Snow_leopard.wav"
                 }
             ]
         },
@@ -10647,7 +10648,7 @@
                     "off_end_sent": 36,
                     "mtype": "audio",
                     "src_id": "12118.0_14650.0",
-                    "src": "shg_txt_RGN_Snow_leopard.wav"
+                    "src": "sgh_txt_RGN_Snow_leopard.wav"
                 }
             ]
         },
@@ -10746,7 +10747,7 @@
                     "off_end_sent": 45,
                     "mtype": "audio",
                     "src_id": "15644.0_19443.0",
-                    "src": "shg_txt_RGN_Snow_leopard.wav"
+                    "src": "sgh_txt_RGN_Snow_leopard.wav"
                 }
             ]
         },
@@ -10980,7 +10981,7 @@
                     "off_end_sent": 172,
                     "mtype": "audio",
                     "src_id": "20363.0_36578.0",
-                    "src": "shg_txt_RGN_Snow_leopard.wav"
+                    "src": "sgh_txt_RGN_Snow_leopard.wav"
                 }
             ]
         },
@@ -11106,7 +11107,7 @@
                     "off_end_sent": 64,
                     "mtype": "audio",
                     "src_id": "36804.0_43350.0",
-                    "src": "shg_txt_RGN_Snow_leopard.wav"
+                    "src": "sgh_txt_RGN_Snow_leopard.wav"
                 }
             ]
         },
@@ -11196,7 +11197,7 @@
                     "off_end_sent": 25,
                     "mtype": "audio",
                     "src_id": "43401.0_46529.0",
-                    "src": "shg_txt_RGN_Snow_leopard.wav"
+                    "src": "sgh_txt_RGN_Snow_leopard.wav"
                 }
             ]
         },
@@ -11403,7 +11404,7 @@
                     "off_end_sent": 66,
                     "mtype": "audio",
                     "src_id": "46709.0_50785.0",
-                    "src": "shg_txt_RGN_Snow_leopard.wav"
+                    "src": "sgh_txt_RGN_Snow_leopard.wav"
                 }
             ]
         },
@@ -11538,7 +11539,7 @@
                     "off_end_sent": 64,
                     "mtype": "audio",
                     "src_id": "51035.0_57415.0",
-                    "src": "shg_txt_RGN_Snow_leopard.wav"
+                    "src": "sgh_txt_RGN_Snow_leopard.wav"
                 }
             ]
         },
@@ -11601,7 +11602,7 @@
                     "off_end_sent": 22,
                     "mtype": "audio",
                     "src_id": "57541.0_59468.0",
-                    "src": "shg_txt_RGN_Snow_leopard.wav"
+                    "src": "sgh_txt_RGN_Snow_leopard.wav"
                 }
             ]
         },
@@ -11754,7 +11755,7 @@
                     "off_end_sent": 101,
                     "mtype": "audio",
                     "src_id": "59477.0_66142.0",
-                    "src": "shg_txt_RGN_Snow_leopard.wav"
+                    "src": "sgh_txt_RGN_Snow_leopard.wav"
                 }
             ]
         },
@@ -11943,7 +11944,7 @@
                     "off_end_sent": 130,
                     "mtype": "audio",
                     "src_id": "66173.0_78522.0",
-                    "src": "shg_txt_RGN_Snow_leopard.wav"
+                    "src": "sgh_txt_RGN_Snow_leopard.wav"
                 }
             ]
         },
@@ -12006,7 +12007,7 @@
                     "off_end_sent": 35,
                     "mtype": "audio",
                     "src_id": "78535.0_81490.0",
-                    "src": "shg_txt_RGN_Snow_leopard.wav"
+                    "src": "sgh_txt_RGN_Snow_leopard.wav"
                 }
             ]
         },
@@ -12177,7 +12178,7 @@
                     "off_end_sent": 118,
                     "mtype": "audio",
                     "src_id": "81490.0_89812.0",
-                    "src": "shg_txt_RGN_Snow_leopard.wav"
+                    "src": "sgh_txt_RGN_Snow_leopard.wav"
                 }
             ]
         },
@@ -12321,7 +12322,7 @@
                     "off_end_sent": 85,
                     "mtype": "audio",
                     "src_id": "90305.0_96053.0",
-                    "src": "shg_txt_RGN_Snow_leopard.wav"
+                    "src": "sgh_txt_RGN_Snow_leopard.wav"
                 }
             ]
         },
@@ -12492,7 +12493,7 @@
                     "off_end_sent": 114,
                     "mtype": "audio",
                     "src_id": "96077.0_103467.0",
-                    "src": "shg_txt_RGN_Snow_leopard.wav"
+                    "src": "sgh_txt_RGN_Snow_leopard.wav"
                 }
             ]
         },
@@ -12573,7 +12574,7 @@
                     "off_end_sent": 26,
                     "mtype": "audio",
                     "src_id": "103467.0_104996.0",
-                    "src": "shg_txt_RGN_Snow_leopard.wav"
+                    "src": "sgh_txt_RGN_Snow_leopard.wav"
                 }
             ]
         },
@@ -12879,7 +12880,7 @@
                     "off_end_sent": 138,
                     "mtype": "audio",
                     "src_id": "104996.0_114160.0",
-                    "src": "shg_txt_RGN_Snow_leopard.wav"
+                    "src": "sgh_txt_RGN_Snow_leopard.wav"
                 }
             ]
         },
@@ -12960,7 +12961,7 @@
                     "off_end_sent": 46,
                     "mtype": "audio",
                     "src_id": "114160.0_117013.0",
-                    "src": "shg_txt_RGN_Snow_leopard.wav"
+                    "src": "sgh_txt_RGN_Snow_leopard.wav"
                 }
             ]
         },
@@ -13248,7 +13249,7 @@
                     "off_end_sent": 144,
                     "mtype": "audio",
                     "src_id": "117033.0_130865.0",
-                    "src": "shg_txt_RGN_Snow_leopard.wav"
+                    "src": "sgh_txt_RGN_Snow_leopard.wav"
                 }
             ]
         },
@@ -13545,7 +13546,7 @@
                     "off_end_sent": 195,
                     "mtype": "audio",
                     "src_id": "130865.0_145383.0",
-                    "src": "shg_txt_RGN_Snow_leopard.wav"
+                    "src": "sgh_txt_RGN_Snow_leopard.wav"
                 }
             ]
         },
@@ -13680,7 +13681,7 @@
                     "off_end_sent": 67,
                     "mtype": "audio",
                     "src_id": "145389.0_149911.0",
-                    "src": "shg_txt_RGN_Snow_leopard.wav"
+                    "src": "sgh_txt_RGN_Snow_leopard.wav"
                 }
             ]
         },
@@ -13887,7 +13888,7 @@
                     "off_end_sent": 107,
                     "mtype": "audio",
                     "src_id": "150250.0_156984.0",
-                    "src": "shg_txt_RGN_Snow_leopard.wav"
+                    "src": "sgh_txt_RGN_Snow_leopard.wav"
                 }
             ]
         },
@@ -14112,7 +14113,7 @@
                     "off_end_sent": 149,
                     "mtype": "audio",
                     "src_id": "156997.0_163804.0",
-                    "src": "shg_txt_RGN_Snow_leopard.wav"
+                    "src": "sgh_txt_RGN_Snow_leopard.wav"
                 }
             ]
         },
@@ -14256,7 +14257,7 @@
                     "off_end_sent": 78,
                     "mtype": "audio",
                     "src_id": "163804.0_169415.0",
-                    "src": "shg_txt_RGN_Snow_leopard.wav"
+                    "src": "sgh_txt_RGN_Snow_leopard.wav"
                 }
             ]
         },
@@ -14625,7 +14626,7 @@
                     "off_end_sent": 189,
                     "mtype": "audio",
                     "src_id": "169436.0_180414.0",
-                    "src": "shg_txt_RGN_Snow_leopard.wav"
+                    "src": "sgh_txt_RGN_Snow_leopard.wav"
                 }
             ]
         },
@@ -14814,7 +14815,7 @@
                     "off_end_sent": 83,
                     "mtype": "audio",
                     "src_id": "180433.0_186028.0",
-                    "src": "shg_txt_RGN_Snow_leopard.wav"
+                    "src": "sgh_txt_RGN_Snow_leopard.wav"
                 }
             ]
         },
@@ -15021,7 +15022,7 @@
                     "off_end_sent": 142,
                     "mtype": "audio",
                     "src_id": "186055.0_196600.0",
-                    "src": "shg_txt_RGN_Snow_leopard.wav"
+                    "src": "sgh_txt_RGN_Snow_leopard.wav"
                 }
             ]
         },
@@ -15129,7 +15130,7 @@
                     "off_end_sent": 63,
                     "mtype": "audio",
                     "src_id": "196600.0_200486.0",
-                    "src": "shg_txt_RGN_Snow_leopard.wav"
+                    "src": "sgh_txt_RGN_Snow_leopard.wav"
                 }
             ]
         },
@@ -15462,7 +15463,7 @@
                     "off_end_sent": 182,
                     "mtype": "audio",
                     "src_id": "200766.0_211827.0",
-                    "src": "shg_txt_RGN_Snow_leopard.wav"
+                    "src": "sgh_txt_RGN_Snow_leopard.wav"
                 }
             ]
         },
@@ -15651,7 +15652,7 @@
                     "off_end_sent": 108,
                     "mtype": "audio",
                     "src_id": "212341.0_219533.0",
-                    "src": "shg_txt_RGN_Snow_leopard.wav"
+                    "src": "sgh_txt_RGN_Snow_leopard.wav"
                 }
             ]
         }

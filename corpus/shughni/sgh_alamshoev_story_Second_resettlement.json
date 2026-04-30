@@ -278,9 +278,9 @@
                                 "POST"
                             ],
                             "parts": "māš=ti",
-                            "gloss": "PRON.1PL=SUP",
+                            "gloss": "PRN.1PL=SUP",
                             "lex": "māš",
-                            "gloss_index": "PRON.1PL{māš}-SUP{=ti}-"
+                            "gloss_index": "PRN.1PL{māš}-SUP{=ti}-"
                         }
                     ]
                 },
@@ -1949,9 +1949,9 @@
                                 "PERS"
                             ],
                             "parts": "māš",
-                            "gloss": "PRON.1PL",
+                            "gloss": "PRN.1PL",
                             "lex": "māš",
-                            "gloss_index": "PRON.1PL{māš}-"
+                            "gloss_index": "PRN.1PL{māš}-"
                         }
                     ]
                 },
@@ -2558,9 +2558,9 @@
                                 "PERS"
                             ],
                             "parts": "māš",
-                            "gloss": "PRON.1PL",
+                            "gloss": "PRN.1PL",
                             "lex": "māš",
-                            "gloss_index": "PRON.1PL{māš}-"
+                            "gloss_index": "PRN.1PL{māš}-"
                         }
                     ]
                 },
@@ -2935,9 +2935,9 @@
                                 "PERS"
                             ],
                             "parts": "māš",
-                            "gloss": "PRON.1PL",
+                            "gloss": "PRN.1PL",
                             "lex": "māš",
-                            "gloss_index": "PRON.1PL{māš}-"
+                            "gloss_index": "PRN.1PL{māš}-"
                         }
                     ]
                 },
@@ -3711,9 +3711,9 @@
                                 "CL.AGR"
                             ],
                             "parts": "māš=i",
-                            "gloss": "PRON.1PL=3SG",
+                            "gloss": "PRN.1PL=3SG",
                             "lex": "māš",
-                            "gloss_index": "PRON.1PL{māš}-3SG{=i}-"
+                            "gloss_index": "PRN.1PL{māš}-3SG{=i}-"
                         }
                     ]
                 },
@@ -3906,9 +3906,9 @@
                                 "POST"
                             ],
                             "parts": "māš=and",
-                            "gloss": "PRON.1PL=LOC",
+                            "gloss": "PRN.1PL=LOC",
                             "lex": "māš",
-                            "gloss_index": "PRON.1PL{māš}-LOC{=and}-"
+                            "gloss_index": "PRN.1PL{māš}-LOC{=and}-"
                         }
                     ]
                 },
@@ -4159,9 +4159,9 @@
                                 "PERS"
                             ],
                             "parts": "māš",
-                            "gloss": "PRON.1PL",
+                            "gloss": "PRN.1PL",
                             "lex": "māš",
-                            "gloss_index": "PRON.1PL{māš}-"
+                            "gloss_index": "PRN.1PL{māš}-"
                         }
                     ]
                 },

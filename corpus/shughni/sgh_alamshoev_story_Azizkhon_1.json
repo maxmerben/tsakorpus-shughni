@@ -76,9 +76,9 @@
                                 "PERS"
                             ],
                             "parts": "māš",
-                            "gloss": "PRON.1PL",
+                            "gloss": "PRN.1PL",
                             "lex": "māš",
-                            "gloss_index": "PRON.1PL{māš}-"
+                            "gloss_index": "PRN.1PL{māš}-"
                         }
                     ]
                 },
@@ -833,9 +833,9 @@
                                 "T"
                             ],
                             "parts": "nax̌tūy-d",
-                            "gloss": "go_out.M-PST",
+                            "gloss": "go_out.M.SG-PST",
                             "lex": "nax̌tūy",
-                            "gloss_index": "go_out.M{nax̌tūy}-PST{-d}-"
+                            "gloss_index": "go_out.M.SG{nax̌tūy}-PST{-d}-"
                         }
                     ]
                 }

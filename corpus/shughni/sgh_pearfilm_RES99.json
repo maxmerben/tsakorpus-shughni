@@ -42,13 +42,13 @@
                         {
                             "gr.pos": [
                                 "N",
-                                "CL.AGR",
+                                "V.AGR",
                                 "PRT"
                             ],
-                            "parts": "sar=ām=o",
-                            "gloss": "most=1PL=Q",
+                            "parts": "sar-ām=o",
+                            "gloss": "most-PRS.1PL=Q",
                             "lex": "sar",
-                            "gloss_index": "most{sar}-1PL{=ām}-Q{=o}-"
+                            "gloss_index": "most{sar}-PRS.1PL{-ām}-Q{=o}-"
                         }
                     ]
                 },
@@ -85,12 +85,12 @@
                         {
                             "gr.pos": [
                                 "PERS",
-                                "V.AGR"
+                                "CL.AGR"
                             ],
-                            "parts": "māš-ām",
-                            "gloss": "PRON.1PL-PRS.1PL",
+                            "parts": "māš=ām",
+                            "gloss": "PRN.1PL=1PL",
                             "lex": "māš",
-                            "gloss_index": "PRON.1PL{māš}-PRS.1PL{-ām}-"
+                            "gloss_index": "PRN.1PL{māš}-1PL{=ām}-"
                         }
                     ]
                 },
@@ -303,7 +303,7 @@
             ]
         },
         {
-            "text": "čīz kix̌t… kayůn δůvd, fāmt=at=o? Bād, mi=ti aray sabad yam=and ata, δu sabad uži pur čūǰ ata, aram, seyum ɣal δůvd,",
+            "text": "čīz kix̌t… kayůn δůvd, fāmt=at=o? Bād, mi=ti aray sabad yamand=atā, δu sabad uži pur čūǰ atā, aram, seyum ɣal δůvd,",
             "words": [
                 {
                     "wf": "čīz",
@@ -312,7 +312,7 @@
                     "off_end": 3,
                     "next_word": 1,
                     "sentence_index": 0,
-                    "sentence_index_neg": 21,
+                    "sentence_index_neg": 20,
                     "ana": [
                         {
                             "gr.pos": [
@@ -332,7 +332,7 @@
                     "off_end": 10,
                     "next_word": 2,
                     "sentence_index": 1,
-                    "sentence_index_neg": 20,
+                    "sentence_index_neg": 19,
                     "ana": [
                         {
                             "gr.pos": [
@@ -353,7 +353,7 @@
                     "off_end": 16,
                     "next_word": 3,
                     "sentence_index": 2,
-                    "sentence_index_neg": 19,
+                    "sentence_index_neg": 18,
                     "ana": [
                         {
                             "gr.pos": [
@@ -373,7 +373,7 @@
                     "off_end": 22,
                     "next_word": 4,
                     "sentence_index": 3,
-                    "sentence_index_neg": 18,
+                    "sentence_index_neg": 17,
                     "ana": [
                         {
                             "gr.pos": [
@@ -394,7 +394,7 @@
                     "off_end": 33,
                     "next_word": 5,
                     "sentence_index": 4,
-                    "sentence_index_neg": 17,
+                    "sentence_index_neg": 16,
                     "ana": [
                         {
                             "gr.pos": [
@@ -417,7 +417,7 @@
                     "off_end": 38,
                     "next_word": 6,
                     "sentence_index": 5,
-                    "sentence_index_neg": 16,
+                    "sentence_index_neg": 15,
                     "ana": [
                         {
                             "gr.pos": [
@@ -437,7 +437,7 @@
                     "off_end": 44,
                     "next_word": 7,
                     "sentence_index": 6,
-                    "sentence_index_neg": 15,
+                    "sentence_index_neg": 14,
                     "ana": [
                         {
                             "gr.pos": [
@@ -458,7 +458,7 @@
                     "off_end": 49,
                     "next_word": 8,
                     "sentence_index": 7,
-                    "sentence_index_neg": 14,
+                    "sentence_index_neg": 13,
                     "ana": [
                         {
                             "gr.pos": [
@@ -478,7 +478,7 @@
                     "off_end": 55,
                     "next_word": 9,
                     "sentence_index": 8,
-                    "sentence_index_neg": 13,
+                    "sentence_index_neg": 12,
                     "ana": [
                         {
                             "gr.pos": [
@@ -492,53 +492,34 @@
                     ]
                 },
                 {
-                    "wf": "yam=and",
+                    "wf": "yamand=atā,",
                     "wtype": "word",
                     "off_start": 56,
-                    "off_end": 63,
+                    "off_end": 67,
                     "next_word": 10,
                     "sentence_index": 9,
-                    "sentence_index_neg": 12,
-                    "ana": [
-                        {
-                            "gr.pos": [
-                                "DEM.LOC",
-                                "POST"
-                            ],
-                            "parts": "yam=and",
-                            "gloss": "D3.LOC=LOC",
-                            "lex": "yam",
-                            "gloss_index": "D3.LOC{yam}-LOC{=and}-"
-                        }
-                    ]
-                },
-                {
-                    "wf": "ata,",
-                    "wtype": "word",
-                    "off_start": 64,
-                    "off_end": 68,
-                    "next_word": 11,
-                    "sentence_index": 10,
                     "sentence_index_neg": 11,
                     "ana": [
                         {
                             "gr.pos": [
+                                "DEM.LOC",
+                                "POST",
                                 "CONJ"
                             ],
-                            "parts": "ata",
-                            "gloss": "COORD3",
-                            "lex": "ata",
-                            "gloss_index": "COORD3{ata}-"
+                            "parts": "yam=and=atā",
+                            "gloss": "D3.LOC=LOC=COORD3",
+                            "lex": "yam",
+                            "gloss_index": "D3.LOC{yam}-LOC{=and}-COORD3{=atā}-"
                         }
                     ]
                 },
                 {
                     "wf": "δu",
                     "wtype": "word",
-                    "off_start": 69,
-                    "off_end": 71,
-                    "next_word": 12,
-                    "sentence_index": 11,
+                    "off_start": 68,
+                    "off_end": 70,
+                    "next_word": 11,
+                    "sentence_index": 10,
                     "sentence_index_neg": 10,
                     "ana": [
                         {
@@ -555,10 +536,10 @@
                 {
                     "wf": "sabad",
                     "wtype": "word",
-                    "off_start": 72,
-                    "off_end": 77,
-                    "next_word": 13,
-                    "sentence_index": 12,
+                    "off_start": 71,
+                    "off_end": 76,
+                    "next_word": 12,
+                    "sentence_index": 11,
                     "sentence_index_neg": 9,
                     "ana": [
                         {
@@ -575,10 +556,10 @@
                 {
                     "wf": "uži",
                     "wtype": "word",
-                    "off_start": 78,
-                    "off_end": 81,
-                    "next_word": 14,
-                    "sentence_index": 13,
+                    "off_start": 77,
+                    "off_end": 80,
+                    "next_word": 13,
+                    "sentence_index": 12,
                     "sentence_index_neg": 8,
                     "ana": [
                         {
@@ -595,10 +576,10 @@
                 {
                     "wf": "pur",
                     "wtype": "word",
-                    "off_start": 82,
-                    "off_end": 85,
-                    "next_word": 15,
-                    "sentence_index": 14,
+                    "off_start": 81,
+                    "off_end": 84,
+                    "next_word": 14,
+                    "sentence_index": 13,
                     "sentence_index_neg": 7,
                     "ana": [
                         {
@@ -615,10 +596,10 @@
                 {
                     "wf": "čūǰ",
                     "wtype": "word",
-                    "off_start": 86,
-                    "off_end": 90,
-                    "next_word": 16,
-                    "sentence_index": 15,
+                    "off_start": 85,
+                    "off_end": 89,
+                    "next_word": 15,
+                    "sentence_index": 14,
                     "sentence_index_neg": 6,
                     "ana": [
                         {
@@ -627,39 +608,39 @@
                                 "T"
                             ],
                             "parts": "čū-ǰ",
-                            "gloss": "do.PST-PF",
+                            "gloss": "do-PF",
                             "lex": "čū",
-                            "gloss_index": "do.PST{čū}-PF{-ǰ}-"
+                            "gloss_index": "do{čū}-PF{-ǰ}-"
                         }
                     ]
                 },
                 {
-                    "wf": "ata,",
+                    "wf": "atā,",
                     "wtype": "word",
-                    "off_start": 91,
-                    "off_end": 95,
-                    "next_word": 17,
-                    "sentence_index": 16,
+                    "off_start": 90,
+                    "off_end": 94,
+                    "next_word": 16,
+                    "sentence_index": 15,
                     "sentence_index_neg": 5,
                     "ana": [
                         {
                             "gr.pos": [
                                 "CONJ"
                             ],
-                            "parts": "ata",
+                            "parts": "atā",
                             "gloss": "COORD3",
-                            "lex": "ata",
-                            "gloss_index": "COORD3{ata}-"
+                            "lex": "atā",
+                            "gloss_index": "COORD3{atā}-"
                         }
                     ]
                 },
                 {
                     "wf": "aram,",
                     "wtype": "word",
-                    "off_start": 96,
-                    "off_end": 101,
-                    "next_word": 18,
-                    "sentence_index": 17,
+                    "off_start": 95,
+                    "off_end": 100,
+                    "next_word": 17,
+                    "sentence_index": 16,
                     "sentence_index_neg": 4,
                     "ana": [
                         {
@@ -669,18 +650,18 @@
                             ],
                             "parts": "ara-m",
                             "gloss": "three-ORD",
-                            "lex": "m",
-                            "gloss_index": "three{ara}-ORD{m}-"
+                            "lex": "ara",
+                            "gloss_index": "three{ara}-ORD{-m}-"
                         }
                     ]
                 },
                 {
                     "wf": "seyum",
                     "wtype": "word",
-                    "off_start": 102,
-                    "off_end": 107,
-                    "next_word": 19,
-                    "sentence_index": 18,
+                    "off_start": 101,
+                    "off_end": 106,
+                    "next_word": 18,
+                    "sentence_index": 17,
                     "sentence_index_neg": 3,
                     "ana": [
                         {
@@ -690,18 +671,18 @@
                             ],
                             "parts": "se-yum",
                             "gloss": "three-ORD",
-                            "lex": "yum",
-                            "gloss_index": "three{se}-ORD{yum}-"
+                            "lex": "se",
+                            "gloss_index": "three{se}-ORD{-yum}-"
                         }
                     ]
                 },
                 {
                     "wf": "ɣal",
                     "wtype": "word",
-                    "off_start": 108,
-                    "off_end": 111,
-                    "next_word": 20,
-                    "sentence_index": 19,
+                    "off_start": 107,
+                    "off_end": 110,
+                    "next_word": 19,
+                    "sentence_index": 18,
                     "sentence_index_neg": 2,
                     "ana": [
                         {
@@ -718,21 +699,21 @@
                 {
                     "wf": "δůvd,",
                     "wtype": "word",
-                    "off_start": 112,
-                    "off_end": 117,
-                    "next_word": 21,
-                    "sentence_index": 20,
+                    "off_start": 111,
+                    "off_end": 116,
+                    "next_word": 20,
+                    "sentence_index": 19,
                     "sentence_index_neg": 1,
                     "ana": [
                         {
                             "gr.pos": [
                                 "V",
-                                "T"
+                                "V.AGR"
                             ],
                             "parts": "δův-d",
-                            "gloss": "gather-PST",
+                            "gloss": "gather-PRS.3SG",
                             "lex": "δův",
-                            "gloss_index": "gather{δův}-PST{-d}-"
+                            "gloss_index": "gather{δův}-PRS.3SG{-d}-"
                         }
                     ]
                 }
@@ -744,7 +725,7 @@
             "para_alignment": [
                 {
                     "off_start": 0,
-                    "off_end": 117,
+                    "off_end": 116,
                     "para_id": 2
                 }
             ],
@@ -753,7 +734,7 @@
                     "off_start_src": 7.18,
                     "off_end_src": 14.33,
                     "off_start_sent": 0,
-                    "off_end_sent": 117,
+                    "off_end_sent": 116,
                     "mtype": "audio",
                     "src_id": "7180.0_14330.0",
                     "src": "sgh_pearfilm_RES99.wav"
@@ -761,7 +742,7 @@
             ]
         },
         {
-            "text": "yu koroči sifīd pi čīz ata, pi daraxt ata, aro…",
+            "text": "yu koroči sifīd pi čīz atā, pi daraxt atā, aro…",
             "words": [
                 {
                     "wf": "yu",
@@ -818,9 +799,9 @@
                                 "T"
                             ],
                             "parts": "sifī-d",
-                            "gloss": "climb_up-PST",
+                            "gloss": "climb_up.M.SG-PST",
                             "lex": "sifī",
-                            "gloss_index": "climb_up{sifī}-PST{-d}-"
+                            "gloss_index": "climb_up.M.SG{sifī}-PST{-d}-"
                         }
                     ]
                 },
@@ -865,7 +846,7 @@
                     ]
                 },
                 {
-                    "wf": "ata,",
+                    "wf": "atā,",
                     "wtype": "word",
                     "off_start": 23,
                     "off_end": 27,
@@ -877,10 +858,10 @@
                             "gr.pos": [
                                 "CONJ"
                             ],
-                            "parts": "ata",
+                            "parts": "atā",
                             "gloss": "COORD3",
-                            "lex": "ata",
-                            "gloss_index": "COORD3{ata}-"
+                            "lex": "atā",
+                            "gloss_index": "COORD3{atā}-"
                         }
                     ]
                 },
@@ -925,7 +906,7 @@
                     ]
                 },
                 {
-                    "wf": "ata,",
+                    "wf": "atā,",
                     "wtype": "word",
                     "off_start": 38,
                     "off_end": 42,
@@ -937,10 +918,10 @@
                             "gr.pos": [
                                 "CONJ"
                             ],
-                            "parts": "ata",
+                            "parts": "atā",
                             "gloss": "COORD3",
-                            "lex": "ata",
-                            "gloss_index": "COORD3{ata}-"
+                            "lex": "atā",
+                            "gloss_index": "COORD3{atā}-"
                         }
                     ]
                 },
@@ -1067,9 +1048,9 @@
                                 "N.AFF"
                             ],
                             "parts": "ʒulik-ak",
-                            "gloss": "small.F-DIM",
+                            "gloss": "small-DIM",
                             "lex": "ʒulik",
-                            "gloss_index": "small.F{ʒulik}-DIM{-ak}-"
+                            "gloss_index": "small{ʒulik}-DIM{-ak}-"
                         }
                     ]
                 },
@@ -1394,7 +1375,7 @@
             ]
         },
         {
-            "text": "Čūd=i gīr, ata yu virodik pi xu daraxt, yu ɣamaθ nist. Aro yu ʒulikak yat xu, aro čīz…",
+            "text": "Čūd=i gīr, atā yu virodik pi xu daraxt, yu ɣamaθ nist. Aro yu ʒulikak yat xu, aro čīz…",
             "words": [
                 {
                     "wf": "Čūd=i",
@@ -1439,7 +1420,7 @@
                     ]
                 },
                 {
-                    "wf": "ata",
+                    "wf": "atā",
                     "wtype": "word",
                     "off_start": 11,
                     "off_end": 14,
@@ -1451,10 +1432,10 @@
                             "gr.pos": [
                                 "CONJ"
                             ],
-                            "parts": "ata",
+                            "parts": "atā",
                             "gloss": "COORD3",
-                            "lex": "ata",
-                            "gloss_index": "COORD3{ata}-"
+                            "lex": "atā",
+                            "gloss_index": "COORD3{atā}-"
                         }
                     ]
                 },
@@ -1675,9 +1656,9 @@
                                 "N.AFF"
                             ],
                             "parts": "ʒulik-ak",
-                            "gloss": "small.F-DIM",
+                            "gloss": "small-DIM",
                             "lex": "ʒulik",
-                            "gloss_index": "small.F{ʒulik}-DIM{-ak}-"
+                            "gloss_index": "small{ʒulik}-DIM{-ak}-"
                         }
                     ]
                 },
@@ -1827,9 +1808,9 @@
                                 "T"
                             ],
                             "parts": "sen-t",
-                            "gloss": "pick up-PST",
+                            "gloss": "pick_up-PST",
                             "lex": "sen",
-                            "gloss_index": "pick up{sen}-PST{-t}-"
+                            "gloss_index": "pick_up{sen}-PST{-t}-"
                         }
                     ]
                 },
@@ -2274,7 +2255,7 @@
             ]
         },
         {
-            "text": "Aro yā velasiped disga… carāng ɣulā=yaθ ata, savecki yā disga otaθ.",
+            "text": "Aro yā velasiped disga… carāng ɣulā=yaθ atā, savecki yā disga otaθ.",
             "words": [
                 {
                     "wf": "Aro",
@@ -2398,7 +2379,7 @@
                     ]
                 },
                 {
-                    "wf": "ata,",
+                    "wf": "atā,",
                     "wtype": "word",
                     "off_start": 40,
                     "off_end": 44,
@@ -2410,10 +2391,10 @@
                             "gr.pos": [
                                 "CONJ"
                             ],
-                            "parts": "ata",
+                            "parts": "atā",
                             "gloss": "COORD3",
-                            "lex": "ata",
-                            "gloss_index": "COORD3{ata}-"
+                            "lex": "atā",
+                            "gloss_index": "COORD3{atā}-"
                         }
                     ]
                 },
@@ -2523,7 +2504,7 @@
             ]
         },
         {
-            "text": "Bād tūyd xurd dālši=yata, yā sabad ɣulā=yaθ mi=ti velusiped=ti,",
+            "text": "Bād tūyd xurd dālši=yatā, yā sabad ɣulā=yaθ mi=ti velusiped=ti,",
             "words": [
                 {
                     "wf": "Bād",
@@ -2588,7 +2569,7 @@
                     ]
                 },
                 {
-                    "wf": "dālši=yata,",
+                    "wf": "dālši=yatā,",
                     "wtype": "word",
                     "off_start": 14,
                     "off_end": 25,
@@ -2601,10 +2582,10 @@
                                 "RUS",
                                 "CONJ"
                             ],
-                            "parts": "dālši=yata",
+                            "parts": "dālši=yatā",
                             "gloss": "further=COORD3",
                             "lex": "dālši",
-                            "gloss_index": "further{dālši}-COORD3{=yata}-"
+                            "gloss_index": "further{dālši}-COORD3{=yatā}-"
                         }
                     ]
                 },
@@ -2736,7 +2717,7 @@
             ]
         },
         {
-            "text": "aro, pis půndaθ=ata, yiga ɣacak azam yat aro, velusiped qati aro, tar yakdigaraǰ ɣal tiyen=ata.",
+            "text": "aro, pis půndaθ=atā, yiga ɣacak azam yat aro, velusiped qati aro, tar yakdigaraǰ ɣal tiyen=atā.",
             "words": [
                 {
                     "wf": "aro,",
@@ -2779,7 +2760,7 @@
                     ]
                 },
                 {
-                    "wf": "půndaθ=ata,",
+                    "wf": "půndaθ=atā,",
                     "wtype": "word",
                     "off_start": 9,
                     "off_end": 20,
@@ -2793,10 +2774,10 @@
                                 "PRT",
                                 "CONJ"
                             ],
-                            "parts": "půnd=aθ=ata",
+                            "parts": "půnd=aθ=atā",
                             "gloss": "road=ADV=COORD3",
                             "lex": "půnd",
-                            "gloss_index": "road{půnd}-ADV{=aθ}-COORD3{=ata}-"
+                            "gloss_index": "road{půnd}-ADV{=aθ}-COORD3{=atā}-"
                         }
                     ]
                 },
@@ -3026,7 +3007,7 @@
                     ]
                 },
                 {
-                    "wf": "tiyen=ata.",
+                    "wf": "tiyen=atā.",
                     "wtype": "word",
                     "off_start": 86,
                     "off_end": 96,
@@ -3040,10 +3021,10 @@
                                 "V.AGR",
                                 "CONJ"
                             ],
-                            "parts": "ti-yen=ata",
+                            "parts": "ti-yen=atā",
                             "gloss": "leave-PRS.3PL=COORD3",
                             "lex": "ti",
-                            "gloss_index": "leave{ti}-PRS.3PL{-yen}-COORD3{=ata}-"
+                            "gloss_index": "leave{ti}-PRS.3PL{-yen}-COORD3{=atā}-"
                         }
                     ]
                 }
@@ -3794,7 +3775,7 @@
             ]
         },
         {
-            "text": "yā naɣ̌ǰid=ata, yu=yi ǰukt pi žīr=and xu, bād wêx̌t. Yu wi kayůn fukaθ taxirm sut.",
+            "text": "yā naɣ̌ǰid=atā, yu=yi ǰukt pi žīr=and xu, bād wêx̌t. Yu wi kayůn fukaθ taxirm sut.",
             "words": [
                 {
                     "wf": "yā",
@@ -3817,7 +3798,7 @@
                     ]
                 },
                 {
-                    "wf": "naɣ̌ǰid=ata,",
+                    "wf": "naɣ̌ǰid=atā,",
                     "wtype": "word",
                     "off_start": 3,
                     "off_end": 16,
@@ -3831,10 +3812,10 @@
                                 "T",
                                 "CONJ"
                             ],
-                            "parts": "naɣ̌ǰi-d=ata",
+                            "parts": "naɣ̌ǰi-d=atā",
                             "gloss": "pass-PST=COORD3",
                             "lex": "naɣ̌ǰi",
-                            "gloss_index": "pass{naɣ̌ǰi}-PST{-d}-COORD3{=ata}-"
+                            "gloss_index": "pass{naɣ̌ǰi}-PST{-d}-COORD3{=atā}-"
                         }
                     ]
                 },
@@ -4386,7 +4367,7 @@
             ]
         },
         {
-            "text": "aro tar wi čīsen; uz lům, baɣer wāδ taš, baɣer… andiʒen xu disga taš wi diyen ga plus pi di=yata…",
+            "text": "aro tar wi čīsen; uz lům, baɣer wāδ taš, baɣer… andiʒen xu disga taš wi diyen ga plus pi di=yatā…",
             "words": [
                 {
                     "wf": "aro",
@@ -4483,9 +4464,9 @@
                                 "PERS"
                             ],
                             "parts": "uz",
-                            "gloss": "PRON.1SG",
+                            "gloss": "PRN.1SG",
                             "lex": "uz",
-                            "gloss_index": "PRON.1SG{uz}-"
+                            "gloss_index": "PRN.1SG{uz}-"
                         }
                     ]
                 },
@@ -4521,7 +4502,7 @@
                     "ana": [
                         {
                             "gr.pos": [
-                                "N"
+                                "PRT"
                             ],
                             "parts": "baɣer",
                             "gloss": "maybe",
@@ -4581,7 +4562,7 @@
                     "ana": [
                         {
                             "gr.pos": [
-                                "N"
+                                "PRT"
                             ],
                             "parts": "baɣer",
                             "gloss": "maybe",
@@ -4773,7 +4754,7 @@
                     ]
                 },
                 {
-                    "wf": "di=yata…",
+                    "wf": "di=yatā…",
                     "wtype": "word",
                     "off_start": 89,
                     "off_end": 97,
@@ -4786,10 +4767,10 @@
                                 "DEM",
                                 "CONJ"
                             ],
-                            "parts": "di=yata",
+                            "parts": "di=yatā",
                             "gloss": "D2.M.SG.O=COORD3",
                             "lex": "di",
-                            "gloss_index": "D2.M.SG.O{di}-COORD3{=yata}-"
+                            "gloss_index": "D2.M.SG.O{di}-COORD3{=yatā}-"
                         }
                     ]
                 }
@@ -5242,7 +5223,7 @@
             ]
         },
         {
-            "text": "Yi wi=yen ga ar xu ǰebak mis δod=ata, no ǰām=en čū, wi luqen=en tax δod,",
+            "text": "Yi wi=yen ga ar xu ǰebak mis δod=atā, no ǰām=en čū, wi luqen=en tax δod,",
             "words": [
                 {
                     "wf": "Yi",
@@ -5386,7 +5367,7 @@
                     ]
                 },
                 {
-                    "wf": "δod=ata,",
+                    "wf": "δod=atā,",
                     "wtype": "word",
                     "off_start": 30,
                     "off_end": 38,
@@ -5400,10 +5381,10 @@
                                 "T",
                                 "CONJ"
                             ],
-                            "parts": "δo-d=ata",
+                            "parts": "δo-d=atā",
                             "gloss": "give-PST=COORD3",
                             "lex": "δo",
-                            "gloss_index": "give{δo}-PST{-d}-COORD3{=ata}-"
+                            "gloss_index": "give{δo}-PST{-d}-COORD3{=atā}-"
                         }
                     ]
                 },
@@ -5929,7 +5910,7 @@
             ]
         },
         {
-            "text": "Aro bād yu tūyd xu půnd=ti=yata, māδ wi bačgalā=yen, o… ca sent wi,",
+            "text": "Aro bād yu tūyd xu půnd=ti=yatā, māδ wi bačgalā=yen, o… ca sent wi,",
             "words": [
                 {
                     "wf": "Aro",
@@ -6033,7 +6014,7 @@
                     ]
                 },
                 {
-                    "wf": "půnd=ti=yata,",
+                    "wf": "půnd=ti=yatā,",
                     "wtype": "word",
                     "off_start": 19,
                     "off_end": 32,
@@ -6047,10 +6028,10 @@
                                 "POST",
                                 "CONJ"
                             ],
-                            "parts": "půnd=ti=yata",
+                            "parts": "půnd=ti=yatā",
                             "gloss": "road=SUP=COORD3",
                             "lex": "půnd",
-                            "gloss_index": "road{půnd}-SUP{=ti}-COORD3{=yata}-"
+                            "gloss_index": "road{půnd}-SUP{=ti}-COORD3{=yatā}-"
                         }
                     ]
                 },
@@ -6372,7 +6353,7 @@
             ]
         },
         {
-            "text": "Ik=wi půnd=va=yen vo yat, obratni=yata, yu čorik xāvd az xu daraxt,",
+            "text": "Ik=wi půnd=va=yen vo yat, obratni=yatā, yu čorik xāvd az xu daraxt,",
             "words": [
                 {
                     "wf": "Ik=wi",
@@ -6459,7 +6440,7 @@
                     ]
                 },
                 {
-                    "wf": "obratni=yata,",
+                    "wf": "obratni=yatā,",
                     "wtype": "word",
                     "off_start": 26,
                     "off_end": 39,
@@ -6472,10 +6453,10 @@
                                 "N",
                                 "CONJ"
                             ],
-                            "parts": "obratni=yata",
+                            "parts": "obratni=yatā",
                             "gloss": "back=COORD3",
                             "lex": "obratni",
-                            "gloss_index": "back{obratni}-COORD3{=yata}-"
+                            "gloss_index": "back{obratni}-COORD3{=yatā}-"
                         }
                     ]
                 },
@@ -6912,7 +6893,7 @@
                     "ana": [
                         {
                             "gr.pos": [
-                                "N"
+                                "PRT"
                             ],
                             "parts": "kām",
                             "gloss": "a_little",
@@ -7028,7 +7009,7 @@
             ]
         },
         {
-            "text": "δu sabad pur čū=yata, iga sabad xoli vad, yā=yi sabad nist.",
+            "text": "δu sabad pur čū=yatā, iga sabad xoli vad, yā=yi sabad nist.",
             "words": [
                 {
                     "wf": "δu",
@@ -7091,7 +7072,7 @@
                     ]
                 },
                 {
-                    "wf": "čū=yata,",
+                    "wf": "čū=yatā,",
                     "wtype": "word",
                     "off_start": 13,
                     "off_end": 21,
@@ -7104,10 +7085,10 @@
                                 "V",
                                 "CONJ"
                             ],
-                            "parts": "čū=yata",
+                            "parts": "čū=yatā",
                             "gloss": "do.PST=COORD3",
                             "lex": "čū",
-                            "gloss_index": "do.PST{čū}-COORD3{=yata}-"
+                            "gloss_index": "do.PST{čū}-COORD3{=yatā}-"
                         }
                     ]
                 },
@@ -7672,9 +7653,9 @@
                                 "PERS"
                             ],
                             "parts": "uz",
-                            "gloss": "PRON.1SG",
+                            "gloss": "PRN.1SG",
                             "lex": "uz",
-                            "gloss_index": "PRON.1SG{uz}-"
+                            "gloss_index": "PRN.1SG{uz}-"
                         }
                     ]
                 },
@@ -8640,9 +8621,9 @@
                                 "POST"
                             ],
                             "parts": "tu=rd",
-                            "gloss": "PRON.2SG=DAT",
+                            "gloss": "PRN.2SG=DAT",
                             "lex": "tu",
-                            "gloss_index": "PRON.2SG{tu}-DAT{=rd}-"
+                            "gloss_index": "PRN.2SG{tu}-DAT{=rd}-"
                         }
                     ]
                 }
@@ -9858,9 +9839,9 @@
                                 "CL.AGR"
                             ],
                             "parts": "tām=et",
-                            "gloss": "PRON.2PL=2PL",
+                            "gloss": "PRN.2PL=2PL",
                             "lex": "tām",
-                            "gloss_index": "PRON.2PL{tām}-2PL{=et}-"
+                            "gloss_index": "PRN.2PL{tām}-2PL{=et}-"
                         }
                     ]
                 },
@@ -11521,9 +11502,9 @@
                                 "POST"
                             ],
                             "parts": "tu=rd",
-                            "gloss": "PRON.2SG=DAT",
+                            "gloss": "PRN.2SG=DAT",
                             "lex": "tu",
-                            "gloss_index": "PRON.2SG{tu}-DAT{=rd}-"
+                            "gloss_index": "PRN.2SG{tu}-DAT{=rd}-"
                         }
                     ]
                 },
@@ -11591,9 +11572,9 @@
                                 "POST"
                             ],
                             "parts": "mu=rd",
-                            "gloss": "PRON.1SG.O=DAT",
+                            "gloss": "PRN.1SG.O=DAT",
                             "lex": "mu",
-                            "gloss_index": "PRON.1SG.O{mu}-DAT{=rd}-"
+                            "gloss_index": "PRN.1SG.O{mu}-DAT{=rd}-"
                         }
                     ]
                 },
@@ -13246,9 +13227,9 @@
                                 "PERS"
                             ],
                             "parts": "uz",
-                            "gloss": "PRON.1SG",
+                            "gloss": "PRN.1SG",
                             "lex": "uz",
-                            "gloss_index": "PRON.1SG{uz}-"
+                            "gloss_index": "PRN.1SG{uz}-"
                         }
                     ]
                 },
@@ -13498,9 +13479,9 @@
                                 "POST"
                             ],
                             "parts": "mu=rd",
-                            "gloss": "PRON.1SG.O=DAT",
+                            "gloss": "PRN.1SG.O=DAT",
                             "lex": "mu",
-                            "gloss_index": "PRON.1SG.O{mu}-DAT{=rd}-"
+                            "gloss_index": "PRN.1SG.O{mu}-DAT{=rd}-"
                         }
                     ]
                 },
@@ -13570,7 +13551,7 @@
             ]
         },
         {
-            "text": "Yu bād dis beɣam=aθ ga, di nalůvd, yu čorik pi čīz… pi daraxt=ata ikazed xāfct.",
+            "text": "Yu bād dis beɣam=aθ ga, di nalůvd, yu čorik pi čīz… pi daraxt=atā ikazed xāfct.",
             "words": [
                 {
                     "wf": "Yu",
@@ -13817,7 +13798,7 @@
                     ]
                 },
                 {
-                    "wf": "daraxt=ata",
+                    "wf": "daraxt=atā",
                     "wtype": "word",
                     "off_start": 55,
                     "off_end": 65,
@@ -13830,10 +13811,10 @@
                                 "N",
                                 "CONJ"
                             ],
-                            "parts": "daraxt=ata",
+                            "parts": "daraxt=atā",
                             "gloss": "tree=COORD3",
                             "lex": "daraxt",
-                            "gloss_index": "tree{daraxt}-COORD3{=ata}-"
+                            "gloss_index": "tree{daraxt}-COORD3{=atā}-"
                         }
                     ]
                 },
@@ -13941,9 +13922,9 @@
                                 "PERS"
                             ],
                             "parts": "mu",
-                            "gloss": "PRON.1SG.O",
+                            "gloss": "PRN.1SG.O",
                             "lex": "mu",
-                            "gloss_index": "PRON.1SG.O{mu}-"
+                            "gloss_index": "PRN.1SG.O{mu}-"
                         }
                     ]
                 },
@@ -14692,7 +14673,7 @@
             ]
         },
         {
-            "text": "Yu… yu ɣiδā xu čurt=ti tūyd=ata, kayůnen az dast δod… no wind ɣulā daraxt, vo δůvd.",
+            "text": "Yu… yu ɣiδā xu čurt=ti tūyd=atā, kayůnen az dast δod… no wind ɣulā daraxt, vo δůvd.",
             "words": [
                 {
                     "wf": "Yu…",
@@ -14796,7 +14777,7 @@
                     ]
                 },
                 {
-                    "wf": "tūyd=ata,",
+                    "wf": "tūyd=atā,",
                     "wtype": "word",
                     "off_start": 23,
                     "off_end": 32,
@@ -14810,10 +14791,10 @@
                                 "T",
                                 "CONJ"
                             ],
-                            "parts": "tūy-d=ata",
+                            "parts": "tūy-d=atā",
                             "gloss": "leave.M.SG-PST=COORD3",
                             "lex": "tūy",
-                            "gloss_index": "leave.M.SG{tūy}-PST{-d}-COORD3{=ata}-"
+                            "gloss_index": "leave.M.SG{tūy}-PST{-d}-COORD3{=atā}-"
                         }
                     ]
                 },
@@ -15339,9 +15320,9 @@
                                 "PERS"
                             ],
                             "parts": "tu",
-                            "gloss": "PRON.2SG",
+                            "gloss": "PRN.2SG",
                             "lex": "tu",
-                            "gloss_index": "PRON.2SG{tu}-"
+                            "gloss_index": "PRN.2SG{tu}-"
                         }
                     ]
                 },
@@ -16093,7 +16074,7 @@
             "para_alignment": [
                 {
                     "off_start": 0,
-                    "off_end": 117,
+                    "off_end": 116,
                     "para_id": 2
                 }
             ],
@@ -16102,7 +16083,7 @@
                     "off_start_src": 7.18,
                     "off_end_src": 14.33,
                     "off_start_sent": 0,
-                    "off_end_sent": 117,
+                    "off_end_sent": 116,
                     "mtype": "audio",
                     "src_id": "7180.0_14330.0",
                     "src": "sgh_pearfilm_RES99.wav"

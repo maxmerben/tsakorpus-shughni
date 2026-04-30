@@ -38,9 +38,9 @@
                                 "PERS"
                             ],
                             "parts": "mu",
-                            "gloss": "PRON.1SG.O",
+                            "gloss": "PRN.1SG.O",
                             "lex": "mu",
-                            "gloss_index": "PRON.1SG.O{mu}-"
+                            "gloss_index": "PRN.1SG.O{mu}-"
                         }
                     ]
                 },
@@ -271,9 +271,9 @@
                                 "PERS"
                             ],
                             "parts": "māš",
-                            "gloss": "PRON.1PL",
+                            "gloss": "PRN.1PL",
                             "lex": "māš",
-                            "gloss_index": "PRON.1PL{māš}-"
+                            "gloss_index": "PRN.1PL{māš}-"
                         }
                     ]
                 },
@@ -932,9 +932,9 @@
                                 "PERS"
                             ],
                             "parts": "tamā",
-                            "gloss": "PRON.2PL",
+                            "gloss": "PRN.2PL",
                             "lex": "tamā",
-                            "gloss_index": "PRON.2PL{tamā}-"
+                            "gloss_index": "PRN.2PL{tamā}-"
                         }
                     ]
                 },
@@ -1512,9 +1512,9 @@
                                 "PERS"
                             ],
                             "parts": "māš",
-                            "gloss": "PRON.1PL",
+                            "gloss": "PRN.1PL",
                             "lex": "māš",
-                            "gloss_index": "PRON.1PL{māš}-"
+                            "gloss_index": "PRN.1PL{māš}-"
                         }
                     ]
                 },
@@ -1581,9 +1581,9 @@
                                 "CL.AGR"
                             ],
                             "parts": "uz=um",
-                            "gloss": "PRON.1SG=1SG",
+                            "gloss": "PRN.1SG=1SG",
                             "lex": "uz",
-                            "gloss_index": "PRON.1SG{uz}-1SG{=um}-"
+                            "gloss_index": "PRN.1SG{uz}-1SG{=um}-"
                         }
                     ]
                 },
@@ -1602,9 +1602,9 @@
                                 "CL.AGR"
                             ],
                             "parts": "uz=um",
-                            "gloss": "PRON.1SG=1SG",
+                            "gloss": "PRN.1SG=1SG",
                             "lex": "uz",
-                            "gloss_index": "PRON.1SG{uz}-1SG{=um}-"
+                            "gloss_index": "PRN.1SG{uz}-1SG{=um}-"
                         }
                     ]
                 },
@@ -1691,9 +1691,9 @@
                                 "PRT"
                             ],
                             "parts": "uz=ta",
-                            "gloss": "PRON.1SG=FUT",
+                            "gloss": "PRN.1SG=FUT",
                             "lex": "uz",
-                            "gloss_index": "PRON.1SG{uz}-FUT{=ta}-"
+                            "gloss_index": "PRN.1SG{uz}-FUT{=ta}-"
                         }
                     ]
                 },
@@ -2238,9 +2238,9 @@
                                 "CL.AGR"
                             ],
                             "parts": "mu=yi",
-                            "gloss": "PRON.1SG.O=3SG",
+                            "gloss": "PRN.1SG.O=3SG",
                             "lex": "mu",
-                            "gloss_index": "PRON.1SG.O{mu}-3SG{=yi}-"
+                            "gloss_index": "PRN.1SG.O{mu}-3SG{=yi}-"
                         }
                     ]
                 },
@@ -3302,7 +3302,7 @@
             ]
         },
         {
-            "text": "я сказал своему отцу: ты позволил получать образование своим сыновьям, а нам, своим дочерям, не позволил ",
+            "text": "я сказал своему отцу: ты позволил получать образование своим сыновьям, а нам, своим дочерям, не позволил",
             "words": [
                 {
                     "wf": "я",

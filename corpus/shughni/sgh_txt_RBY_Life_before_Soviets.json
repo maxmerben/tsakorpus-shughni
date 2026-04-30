@@ -8,6 +8,8 @@
         "subcorpus": "Oral texts (modern recordings)",
         "year": 2019,
         "author": "RBY",
+        "gender": "M",
+        "birth year": "1965",
         "source": "recorded in the 2018 field trip",
         "recorded by": "Alexander Sergienko",
         "glossed by": "Artyom Badeev",
@@ -83,9 +85,9 @@
                                 "PERS"
                             ],
                             "parts": "maš",
-                            "gloss": "PRON.1PL",
+                            "gloss": "PRN.1PL",
                             "lex": "maš",
-                            "gloss_index": "PRON.1PL{maš}-"
+                            "gloss_index": "PRN.1PL{maš}-"
                         }
                     ]
                 },
@@ -3263,9 +3265,9 @@
                                 "V.AGR"
                             ],
                             "parts": "tu-t",
-                            "gloss": "PRON.2SG-PRS.3SG",
+                            "gloss": "PRN.2SG-PRS.3SG",
                             "lex": "tu",
-                            "gloss_index": "PRON.2SG{tu}-PRS.3SG{-t}-"
+                            "gloss_index": "PRN.2SG{tu}-PRS.3SG{-t}-"
                         }
                     ]
                 },
@@ -5009,7 +5011,7 @@
                     "ana": [
                         {
                             "gr.pos": [
-                                "N"
+                                "PRT"
                             ],
                             "parts": "mumkin",
                             "gloss": "maybe",
@@ -5159,7 +5161,7 @@
                     "ana": [
                         {
                             "gr.pos": [
-                                "N"
+                                "PRT"
                             ],
                             "parts": "kam",
                             "gloss": "a_little",
@@ -5199,7 +5201,7 @@
                     "ana": [
                         {
                             "gr.pos": [
-                                "N"
+                                "PRT"
                             ],
                             "parts": "kam",
                             "gloss": "a_little",
@@ -5274,7 +5276,7 @@
             ]
         },
         {
-            "text": "\n[RBY] Раньше наш народ",
+            "text": "[RBY] Раньше наш народ",
             "words": [
                 {
                     "wf": "[RBY]",

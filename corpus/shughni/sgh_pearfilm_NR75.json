@@ -44,9 +44,9 @@
                                 "CL.AGR"
                             ],
                             "parts": "uz=um",
-                            "gloss": "PRON.1SG=1SG",
+                            "gloss": "PRN.1SG=1SG",
                             "lex": "uz",
-                            "gloss_index": "PRON.1SG{uz}-1SG{=um}-"
+                            "gloss_index": "PRN.1SG{uz}-1SG{=um}-"
                         }
                     ]
                 },
@@ -207,9 +207,9 @@
                                 "POST"
                             ],
                             "parts": "mu=rd",
-                            "gloss": "PRON.1SG.O=DAT",
+                            "gloss": "PRN.1SG.O=DAT",
                             "lex": "mu",
-                            "gloss_index": "PRON.1SG.O{mu}-DAT{=rd}-"
+                            "gloss_index": "PRN.1SG.O{mu}-DAT{=rd}-"
                         }
                     ]
                 },
@@ -4715,9 +4715,9 @@
                                 "CL.AGR"
                             ],
                             "parts": "uz=um",
-                            "gloss": "PRON.1SG=1SG",
+                            "gloss": "PRN.1SG=1SG",
                             "lex": "uz",
-                            "gloss_index": "PRON.1SG{uz}-1SG{=um}-"
+                            "gloss_index": "PRN.1SG{uz}-1SG{=um}-"
                         }
                     ]
                 },
@@ -6802,7 +6802,7 @@
             ]
         },
         {
-            "text": "id bād ɣal ikam=and wi kāl=ti nūsč=atā arayga ɣiδābuc yaden, bād wāδ yi čīz=aθ napex̌cen xu sar=en wev noken ǰām čīd. Wev azam=and fuk δůven as wi sit=ti xu garδenen ar wam sabad xu aro ribiyen di...(background sound).. Wāδ disga rū pa rū yaden. wāδ as tagovaθ wāδ mis yaden anǰa yid azůd tīzd=at wāδ di rū pa rū yaden ",
+            "text": "id bād ɣal ikam=and wi kāl=ti nūsč=atā arayga ɣiδābuc yaden, bād wāδ yi čīz=aθ napex̌cen xu sar=en wev noken ǰām čīd. Wev azam=and fuk δůven as wi sit=ti xu garδenen ar wam sabad xu aro ribiyen di...(background sound).. Wāδ disga rū pa rū yaden. wāδ as tagovaθ wāδ mis yaden anǰa yid azůd tīzd=at wāδ di rū pa rū yaden",
             "words": [
                 {
                     "wf": "id",
@@ -9573,7 +9573,7 @@
             ]
         },
         {
-            "text": "Wam di=rd dākix̌t xu bād id ikdi=ec bād wev=ard nadākčūd nok=atā, idi wi šlyāpa yod xu bād yu ara důnā nok zêzd yu ɣulā ɣiδā xu, yoδd ta... ɣuladi, sof ɣulā nayat ɣuladi as wev xu amroen. Yoδd tar dev baǰgalā bucen xez xu sari dev dākix̌t dev=ard nok xu bād tiyen ",
+            "text": "Wam di=rd dākix̌t xu bād id ikdi=ec bād wev=ard nadākčūd nok=atā, idi wi šlyāpa yod xu bād yu ara důnā nok zêzd yu ɣulā ɣiδā xu, yoδd ta... ɣuladi, sof ɣulā nayat ɣuladi as wev xu amroen. Yoδd tar dev baǰgalā bucen xez xu sari dev dākix̌t dev=ard nok xu bād tiyen",
             "words": [
                 {
                     "wf": "Wam",
@@ -10664,7 +10664,7 @@
             ]
         },
         {
-            "text": "Dāδ bād tiyen xu yaden ik tar wam daraxt bun yu čorik paded nok ca δůvd. Yu di waxt=and xāfst az wam daraxt=ti xu bād čost mi=ti isob kix̌t yā yi sabad nist. Bād mi=ti ayrůnaθ, i čīr=aθ mis nakix̌t. I čīz mis nalůvd, at daδ baǰgalā bucen yaden xu wi=va naɣ̌ǰīsen ",
+            "text": "Dāδ bād tiyen xu yaden ik tar wam daraxt bun yu čorik paded nok ca δůvd. Yu di waxt=and xāfst az wam daraxt=ti xu bād čost mi=ti isob kix̌t yā yi sabad nist. Bād mi=ti ayrůnaθ, i čīr=aθ mis nakix̌t. I čīz mis nalůvd, at daδ baǰgalā bucen yaden xu wi=va naɣ̌ǰīsen",
             "words": [
                 {
                     "wf": "Dāδ",
@@ -12728,7 +12728,7 @@
             ]
         },
         {
-            "text": "Груши собирает... те груши, которые он собирает, [так как] у него ничего нету, он собирает груши в свой фартук. А на дерево он не сам залез, а с помощью... по лестнице он туда залез. ",
+            "text": "Груши собирает... те груши, которые он собирает, [так как] у него ничего нету, он собирает груши в свой фартук. А на дерево он не сам залез, а с помощью... по лестнице он туда залез.",
             "words": [
                 {
                     "wf": "Груши",
@@ -14051,7 +14051,7 @@
             ]
         },
         {
-            "text": "Он уходит, а в это время другой мальчишка с снизу приезжает на велосипеде, проходит и смотрит, что там корзины с грушами. Он останавливается, нога мужчины издает звук, он разок смотрит на дерево, не знаю, я не поняла он видел его или нет. ",
+            "text": "Он уходит, а в это время другой мальчишка с снизу приезжает на велосипеде, проходит и смотрит, что там корзины с грушами. Он останавливается, нога мужчины издает звук, он разок смотрит на дерево, не знаю, я не поняла он видел его или нет.",
             "words": [
                 {
                     "wf": "Он",

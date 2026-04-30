@@ -79,9 +79,9 @@
                                 "PERS"
                             ],
                             "parts": "māš",
-                            "gloss": "PRON.1PL",
+                            "gloss": "PRN.1PL",
                             "lex": "māš",
-                            "gloss_index": "PRON.1PL{māš}-"
+                            "gloss_index": "PRN.1PL{māš}-"
                         }
                     ]
                 },
@@ -391,9 +391,9 @@
                                 "POST"
                             ],
                             "parts": "mu=rd",
-                            "gloss": "PRON.1SG.O=DAT",
+                            "gloss": "PRN.1SG.O=DAT",
                             "lex": "mu",
-                            "gloss_index": "PRON.1SG.O{mu}-DAT{=rd}-"
+                            "gloss_index": "PRN.1SG.O{mu}-DAT{=rd}-"
                         }
                     ]
                 },
@@ -1912,9 +1912,9 @@
                                 "PRT"
                             ],
                             "parts": "tama=ta",
-                            "gloss": "PRON.2PL=FUT",
+                            "gloss": "PRN.2PL=FUT",
                             "lex": "tama",
-                            "gloss_index": "PRON.2PL{tama}-FUT{=ta}-"
+                            "gloss_index": "PRN.2PL{tama}-FUT{=ta}-"
                         }
                     ]
                 },
@@ -2032,9 +2032,9 @@
                                 "PRT"
                             ],
                             "parts": "tama=ta",
-                            "gloss": "PRON.2PL=FUT",
+                            "gloss": "PRN.2PL=FUT",
                             "lex": "tama",
-                            "gloss_index": "PRON.2PL{tama}-FUT{=ta}-"
+                            "gloss_index": "PRN.2PL{tama}-FUT{=ta}-"
                         }
                     ]
                 },

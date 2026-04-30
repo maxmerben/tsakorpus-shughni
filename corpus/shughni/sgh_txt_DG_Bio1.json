@@ -9,13 +9,13 @@
         "duration": "0:03:00",
         "year": 2018,
         "dialect": "Нишусп",
-        "author": "DG38 (Даулатёр Гульмамадов)",
+        "author": "DG38",
         "gender": "M",
         "birth year": "1938",
         "source": "recorded in the 2018 field trip",
         "recorded by": "Roman Ron’ko",
         "translated by": "AN99",
-        "comment": "студентам, потом Лене",
+        "comment": "Даулатёр Гульмамадов",
         "speakers": [
             "A"
         ],
@@ -267,9 +267,9 @@
                                 "PERS"
                             ],
                             "parts": "tu",
-                            "gloss": "PRON.2SG",
+                            "gloss": "PRN.2SG",
                             "lex": "tu",
-                            "gloss_index": "PRON.2SG{tu}-"
+                            "gloss_index": "PRN.2SG{tu}-"
                         }
                     ]
                 },
@@ -625,9 +625,9 @@
                                 "POST"
                             ],
                             "parts": "māš=and",
-                            "gloss": "PRON.1PL=LOC",
+                            "gloss": "PRN.1PL=LOC",
                             "lex": "māš",
-                            "gloss_index": "PRON.1PL{māš}-LOC{=and}-"
+                            "gloss_index": "PRN.1PL{māš}-LOC{=and}-"
                         }
                     ]
                 },
@@ -833,9 +833,9 @@
                                 "POST"
                             ],
                             "parts": "māš=ard",
-                            "gloss": "PRON.1PL=DAT",
+                            "gloss": "PRN.1PL=DAT",
                             "lex": "māš",
-                            "gloss_index": "PRON.1PL{māš}-DAT{=ard}-"
+                            "gloss_index": "PRN.1PL{māš}-DAT{=ard}-"
                         }
                     ]
                 },
@@ -1560,9 +1560,9 @@
                                 "PERS"
                             ],
                             "parts": "mu",
-                            "gloss": "PRON.1SG.O",
+                            "gloss": "PRN.1SG.O",
                             "lex": "mu",
-                            "gloss_index": "PRON.1SG.O{mu}-"
+                            "gloss_index": "PRN.1SG.O{mu}-"
                         }
                     ]
                 },
@@ -1721,9 +1721,9 @@
                                 "PERS"
                             ],
                             "parts": "māš",
-                            "gloss": "PRON.1PL",
+                            "gloss": "PRN.1PL",
                             "lex": "māš",
-                            "gloss_index": "PRON.1PL{māš}-"
+                            "gloss_index": "PRN.1PL{māš}-"
                         }
                     ]
                 },
@@ -2034,9 +2034,9 @@
                                 "PERS"
                             ],
                             "parts": "mu",
-                            "gloss": "PRON.1SG.O",
+                            "gloss": "PRN.1SG.O",
                             "lex": "mu",
-                            "gloss_index": "PRON.1SG.O{mu}-"
+                            "gloss_index": "PRN.1SG.O{mu}-"
                         }
                     ]
                 },
@@ -2179,9 +2179,9 @@
                                 "CL.AGR"
                             ],
                             "parts": "mu=yen",
-                            "gloss": "PRON.1SG.O=3PL",
+                            "gloss": "PRN.1SG.O=3PL",
                             "lex": "mu",
-                            "gloss_index": "PRON.1SG.O{mu}-3PL{=yen}-"
+                            "gloss_index": "PRN.1SG.O{mu}-3PL{=yen}-"
                         }
                     ]
                 },
@@ -2739,9 +2739,9 @@
                                 "PERS"
                             ],
                             "parts": "mu",
-                            "gloss": "PRON.1SG.O",
+                            "gloss": "PRN.1SG.O",
                             "lex": "mu",
-                            "gloss_index": "PRON.1SG.O{mu}-"
+                            "gloss_index": "PRN.1SG.O{mu}-"
                         }
                     ]
                 },
@@ -2991,9 +2991,9 @@
                                 "PERS"
                             ],
                             "parts": "uz",
-                            "gloss": "PRON.1SG",
+                            "gloss": "PRN.1SG",
                             "lex": "uz",
-                            "gloss_index": "PRON.1SG{uz}-"
+                            "gloss_index": "PRN.1SG{uz}-"
                         }
                     ]
                 },
@@ -3398,9 +3398,9 @@
                                 "PERS"
                             ],
                             "parts": "tu",
-                            "gloss": "PRON.2SG",
+                            "gloss": "PRN.2SG",
                             "lex": "tu",
-                            "gloss_index": "PRON.2SG{tu}-"
+                            "gloss_index": "PRN.2SG{tu}-"
                         }
                     ]
                 },
@@ -3772,9 +3772,9 @@
                                 "T"
                             ],
                             "parts": "na-nūs-t",
-                            "gloss": "NEG-sit.M-PST",
+                            "gloss": "NEG-sit.M.SG-PST",
                             "lex": "nūs",
-                            "gloss_index": "NEG{na-}-sit.M{nūs}-PST{-t}-"
+                            "gloss_index": "NEG{na-}-sit.M.SG{nūs}-PST{-t}-"
                         }
                     ]
                 },
@@ -4269,9 +4269,9 @@
                                 "POST"
                             ],
                             "parts": "mu=rd",
-                            "gloss": "PRON.1SG.O=DAT",
+                            "gloss": "PRN.1SG.O=DAT",
                             "lex": "mu",
-                            "gloss_index": "PRON.1SG.O{mu}-DAT{=rd}-"
+                            "gloss_index": "PRN.1SG.O{mu}-DAT{=rd}-"
                         }
                     ]
                 },
@@ -4473,9 +4473,9 @@
                                 "PERS"
                             ],
                             "parts": "māš",
-                            "gloss": "PRON.1PL",
+                            "gloss": "PRN.1PL",
                             "lex": "māš",
-                            "gloss_index": "PRON.1PL{māš}-"
+                            "gloss_index": "PRN.1PL{māš}-"
                         }
                     ]
                 },
@@ -4627,7 +4627,7 @@
             ]
         },
         {
-            "text": "13ого февраля 1938. В школьном возрасте.....тоже.. (ты на шугнанском скажи), на шугнанском скажу. ",
+            "text": "13ого февраля 1938. В школьном возрасте.....тоже.. (ты на шугнанском скажи), на шугнанском скажу.",
             "words": [
                 {
                     "wf": "13ого",
@@ -6427,7 +6427,7 @@
             ]
         },
         {
-            "text": "в Водхозе она была, а начильник по имени Юсупов и главный бухгалтер по имени Назаршоев были в Водхозе. Потом на один месяц мне написали 75 сомов, а на другой месяц 78. Нам двоим тут из нашего кишлака. ",
+            "text": "в Водхозе она была, а начильник по имени Юсупов и главный бухгалтер по имени Назаршоев были в Водхозе. Потом на один месяц мне написали 75 сомов, а на другой месяц 78. Нам двоим тут из нашего кишлака.",
             "words": [
                 {
                     "wf": "в",
